@@ -1,0 +1,781 @@
+Region,Total,1 Unit,2 Units,3 and 4 Units,5 Units or More,Month,Year
+United States                 ,104420,50172,2262,1049,50937,dec,2022
+Northeast Region              ,10573,3879,360,218,6116,dec,2022
+     New England Division          ,2853,1145,112,73,1523,dec,2022
+          Connecticut                   ,525,150,4,6,365,dec,2022
+          Maine                         ,333,246,18,4,65,dec,2022
+          Massachusetts                 ,1510,441,44,22,1003,dec,2022
+          New Hampshire                 ,292,195,18,32,47,dec,2022
+          Rhode Island                  ,85,53,16,6,10,dec,2022
+          Vermont                       ,108,60,12,3,33,dec,2022
+     Middle Atlantic Division      ,7720,2734,248,145,4593,dec,2022
+          New Jersey                    ,3354,1086,180,69,2019,dec,2022
+          New York                      ,2411,625,38,13,1735,dec,2022
+          Pennsylvania                  ,1955,1023,30,63,839,dec,2022
+Midwest Region                ,11462,5546,322,197,5397,dec,2022
+     East North Central Division   ,6970,3427,160,111,3272,dec,2022
+          Illinois                      ,1673,420,28,22,1203,dec,2022
+          Indiana                       ,1552,805,8,3,736,dec,2022
+          Michigan                      ,1238,706,30,36,466,dec,2022
+          Ohio                          ,1483,994,20,38,431,dec,2022
+          Wisconsin                     ,1024,502,74,12,436,dec,2022
+     West North Central Division   ,4492,2119,162,86,2125,dec,2022
+          Iowa                          ,711,325,12,6,368,dec,2022
+          Kansas                        ,420,284,68,28,40,dec,2022
+          Minnesota                     ,1556,520,16,19,1001,dec,2022
+          Missouri                      ,1072,618,20,19,415,dec,2022
+          Nebraska                      ,396,227,42,8,119,dec,2022
+          North Dakota                  ,98,29,0,0,69,dec,2022
+          South Dakota                  ,239,116,4,6,113,dec,2022
+South Region                  ,56078,30693,850,394,24141,dec,2022
+     South Atlantic Division       ,33129,18185,308,192,14444,dec,2022
+          Delaware                      ,404,367,2,0,35,dec,2022
+          District of Columbia          ,1000,7,4,0,989,dec,2022
+          Florida                       ,14958,7758,146,71,6983,dec,2022
+          Georgia                       ,4592,2299,28,104,2161,dec,2022
+          Maryland                      ,1297,593,2,4,698,dec,2022
+          North Carolina                ,5062,3533,106,3,1420,dec,2022
+          South Carolina                ,2937,2259,8,3,667,dec,2022
+          Virginia                      ,2696,1215,12,7,1462,dec,2022
+          West Virginia                 ,183,154,0,0,29,dec,2022
+     East South Central Division   ,4800,3232,76,66,1426,dec,2022
+          Alabama                       ,1161,874,6,21,260,dec,2022
+          Kentucky                      ,1098,450,28,12,608,dec,2022
+          Mississippi                   ,437,385,2,6,44,dec,2022
+          Tennessee                     ,2104,1523,40,27,514,dec,2022
+     West South Central Division   ,18149,9276,466,136,8271,dec,2022
+          Arkansas                      ,635,517,10,18,90,dec,2022
+          Louisiana                     ,938,773,28,6,131,dec,2022
+          Oklahoma                      ,947,623,50,4,270,dec,2022
+          Texas                         ,15629,7363,378,108,7780,dec,2022
+West Region                   ,26307,10054,730,240,15283,dec,2022
+     Mountain Division             ,12648,4734,390,100,7424,dec,2022
+          Arizona                       ,5252,1475,134,4,3639,dec,2022
+          Colorado                      ,2943,1080,214,30,1619,dec,2022
+          Idaho                         ,644,412,12,22,198,dec,2022
+          Montana                       ,466,213,10,6,237,dec,2022
+          Nevada                        ,883,510,2,12,359,dec,2022
+          New Mexico                    ,471,345,0,3,123,dec,2022
+          Utah                          ,1907,626,14,23,1244,dec,2022
+          Wyoming                       ,82,73,4,0,5,dec,2022
+     Pacific Division              ,13659,5320,340,140,7859,dec,2022
+          Alaska                        ,70,44,0,3,23,dec,2022
+          California                    ,8220,3678,198,82,4262,dec,2022
+          Hawaii                        ,189,142,4,0,43,dec,2022
+          Oregon                        ,1735,519,46,26,1144,dec,2022
+          Washington                    ,3445,937,92,29,2387,dec,2022
+United States                 ,131455,87088,2108,1646,40613,feb,2022
+Northeast Region              ,11441,4645,292,138,6366,feb,2022
+     New England Division          ,3848,1343,96,46,2363,feb,2022
+          Connecticut                   ,347,221,12,3,111,feb,2022
+          Maine                         ,871,270,20,8,573,feb,2022
+          Massachusetts                 ,2127,499,46,28,1554,feb,2022
+          New Hampshire                 ,296,200,6,4,86,feb,2022
+          Rhode Island                  ,88,72,8,3,5,feb,2022
+          Vermont                       ,119,81,4,0,34,feb,2022
+     Middle Atlantic Division      ,7593,3302,196,92,4003,feb,2022
+          New Jersey                    ,2838,1172,88,33,1545,feb,2022
+          New York                      ,2969,862,90,20,1997,feb,2022
+          Pennsylvania                  ,1786,1268,18,39,461,feb,2022
+Midwest Region                ,13352,8275,292,271,4514,feb,2022
+     East North Central Division   ,7339,4991,162,155,2031,feb,2022
+          Illinois                      ,917,621,18,50,228,feb,2022
+          Indiana                       ,1965,1483,32,6,444,feb,2022
+          Michigan                      ,1391,961,18,40,372,feb,2022
+          Ohio                          ,1921,1184,32,55,650,feb,2022
+          Wisconsin                     ,1145,742,62,4,337,feb,2022
+     West North Central Division   ,6013,3284,130,116,2483,feb,2022
+          Iowa                          ,601,533,20,15,33,feb,2022
+          Kansas                        ,471,419,36,6,10,feb,2022
+          Minnesota                     ,2357,884,16,18,1439,feb,2022
+          Missouri                      ,1447,758,28,25,636,feb,2022
+          Nebraska                      ,775,418,22,14,321,feb,2022
+          North Dakota                  ,61,61,0,0,0,feb,2022
+          South Dakota                  ,301,211,8,38,44,feb,2022
+South Region                  ,72439,53556,746,645,17492,feb,2022
+     South Atlantic Division       ,40523,29587,278,217,10441,feb,2022
+          Delaware                      ,564,528,36,0,0,feb,2022
+          District of Columbia          ,350,71,0,0,279,feb,2022
+          Florida                       ,16284,11884,122,97,4181,feb,2022
+          Georgia                       ,6377,4399,46,94,1838,feb,2022
+          Maryland                      ,1667,892,2,0,773,feb,2022
+          North Carolina                ,8329,6324,32,8,1965,feb,2022
+          South Carolina                ,3801,3337,12,12,440,feb,2022
+          Virginia                      ,2873,1923,16,6,928,feb,2022
+          West Virginia                 ,278,229,12,0,37,feb,2022
+     East South Central Division   ,7502,6055,54,84,1309,feb,2022
+          Alabama                       ,1703,1606,6,3,88,feb,2022
+          Kentucky                      ,990,802,28,6,154,feb,2022
+          Mississippi                   ,659,594,0,7,58,feb,2022
+          Tennessee                     ,4150,3053,20,68,1009,feb,2022
+     West South Central Division   ,24414,17914,414,344,5742,feb,2022
+          Arkansas                      ,1250,655,50,24,521,feb,2022
+          Louisiana                     ,1614,1463,40,3,108,feb,2022
+          Oklahoma                      ,1133,1047,54,19,13,feb,2022
+          Texas                         ,20417,14749,270,298,5100,feb,2022
+West Region                   ,34223,20612,778,592,12241,feb,2022
+     Mountain Division             ,18451,12134,454,323,5540,feb,2022
+          Arizona                       ,5522,4208,254,65,995,feb,2022
+          Colorado                      ,4475,2342,112,33,1988,feb,2022
+          Idaho                         ,1802,1115,8,59,620,feb,2022
+          Montana                       ,617,401,22,17,177,feb,2022
+          Nevada                        ,1833,1574,12,35,212,feb,2022
+          New Mexico                    ,462,439,0,0,23,feb,2022
+          Utah                          ,3496,1877,34,70,1515,feb,2022
+          Wyoming                       ,244,178,12,44,10,feb,2022
+     Pacific Division              ,15772,8478,324,269,6701,feb,2022
+          Alaska                        ,128,90,4,4,30,feb,2022
+          California                    ,9130,5213,162,128,3627,feb,2022
+          Hawaii                        ,236,200,10,0,26,feb,2022
+          Oregon                        ,1962,972,36,28,926,feb,2022
+          Washington                    ,4316,2003,112,109,2092,feb,2022
+United States                 ,168996,107357,2814,2156,56669,mar,2022
+Northeast Region              ,15873,5285,310,304,9974,mar,2022
+     New England Division          ,3174,1676,104,54,1340,mar,2022
+          Connecticut                   ,351,244,8,4,95,mar,2022
+          Maine                         ,414,353,14,3,44,mar,2022
+          Massachusetts                 ,1795,639,66,25,1065,mar,2022
+          New Hampshire                 ,358,251,10,19,78,mar,2022
+          Rhode Island                  ,84,80,4,0,0,mar,2022
+          Vermont                       ,172,109,2,3,58,mar,2022
+     Middle Atlantic Division      ,12699,3609,206,250,8634,mar,2022
+          New Jersey                    ,4179,1213,112,60,2794,mar,2022
+          New York                      ,5928,872,44,112,4900,mar,2022
+          Pennsylvania                  ,2592,1524,50,78,940,mar,2022
+Midwest Region                ,21628,12306,646,421,8255,mar,2022
+     East North Central Division   ,11571,7137,342,309,3783,mar,2022
+          Illinois                      ,2090,1037,44,58,951,mar,2022
+          Indiana                       ,2806,1908,106,8,784,mar,2022
+          Michigan                      ,2208,1384,26,111,687,mar,2022
+          Ohio                          ,2680,1734,66,119,761,mar,2022
+          Wisconsin                     ,1787,1074,100,13,600,mar,2022
+     West North Central Division   ,10057,5169,304,112,4472,mar,2022
+          Iowa                          ,1083,855,78,14,136,mar,2022
+          Kansas                        ,735,548,114,13,60,mar,2022
+          Minnesota                     ,3913,1373,24,18,2498,mar,2022
+          Missouri                      ,1825,1158,36,26,605,mar,2022
+          Nebraska                      ,943,576,22,15,330,mar,2022
+          North Dakota                  ,214,191,18,0,5,mar,2022
+          South Dakota                  ,1344,468,12,26,838,mar,2022
+South Region                  ,89518,63987,1068,760,23703,mar,2022
+     South Atlantic Division       ,49003,34480,524,336,13663,mar,2022
+          Delaware                      ,623,601,22,0,0,mar,2022
+          District of Columbia          ,777,39,16,0,722,mar,2022
+          Florida                       ,19387,13267,296,151,5673,mar,2022
+          Georgia                       ,7692,5511,36,82,2063,mar,2022
+          Maryland                      ,2191,1118,0,3,1070,mar,2022
+          North Carolina                ,8109,7143,40,26,900,mar,2022
+          South Carolina                ,4829,3905,28,71,825,mar,2022
+          Virginia                      ,5047,2583,72,3,2389,mar,2022
+          West Virginia                 ,348,313,14,0,21,mar,2022
+     East South Central Division   ,9255,7789,76,131,1259,mar,2022
+          Alabama                       ,2489,1958,6,19,506,mar,2022
+          Kentucky                      ,1301,1004,36,30,231,mar,2022
+          Mississippi                   ,922,878,12,7,25,mar,2022
+          Tennessee                     ,4543,3949,22,75,497,mar,2022
+     West South Central Division   ,31260,21718,468,293,8781,mar,2022
+          Arkansas                      ,1491,1120,54,31,286,mar,2022
+          Louisiana                     ,1565,1449,48,3,65,mar,2022
+          Oklahoma                      ,1481,1337,52,0,92,mar,2022
+          Texas                         ,26723,17812,314,259,8338,mar,2022
+West Region                   ,41977,25779,790,671,14737,mar,2022
+     Mountain Division             ,23165,14977,362,340,7486,mar,2022
+          Arizona                       ,7221,5127,238,15,1841,mar,2022
+          Colorado                      ,5711,3007,24,24,2656,mar,2022
+          Idaho                         ,2509,1487,26,159,837,mar,2022
+          Montana                       ,566,377,36,17,136,mar,2022
+          Nevada                        ,2263,1639,14,40,570,mar,2022
+          New Mexico                    ,845,544,0,7,294,mar,2022
+          Utah                          ,3811,2568,16,75,1152,mar,2022
+          Wyoming                       ,239,228,8,3,0,mar,2022
+     Pacific Division              ,18812,10802,428,331,7251,mar,2022
+          Alaska                        ,149,112,6,7,24,mar,2022
+          California                    ,10883,7018,230,156,3479,mar,2022
+          Hawaii                        ,721,273,22,3,423,mar,2022
+          Oregon                        ,1690,1130,36,4,520,mar,2022
+          Washington                    ,5369,2269,134,161,2805,mar,2022
+United States                 ,156589,98219,2964,1793,53613,apr,2022
+Northeast Region              ,12836,5302,368,193,6973,apr,2022
+     New England Division          ,3709,1783,146,46,1734,apr,2022
+          Connecticut                   ,406,222,16,3,165,apr,2022
+          Maine                         ,655,472,26,3,154,apr,2022
+          Massachusetts                 ,1960,555,62,19,1324,apr,2022
+          New Hampshire                 ,373,305,10,17,41,apr,2022
+          Rhode Island                  ,121,86,26,4,5,apr,2022
+          Vermont                       ,194,143,6,0,45,apr,2022
+     Middle Atlantic Division      ,9127,3519,222,147,5239,apr,2022
+          New Jersey                    ,3346,1147,110,47,2042,apr,2022
+          New York                      ,3674,970,42,44,2618,apr,2022
+          Pennsylvania                  ,2107,1402,70,56,579,apr,2022
+Midwest Region                ,23277,12859,642,289,9487,apr,2022
+     East North Central Division   ,12682,7429,314,167,4772,apr,2022
+          Illinois                      ,2270,1021,40,86,1123,apr,2022
+          Indiana                       ,3592,1866,66,12,1648,apr,2022
+          Michigan                      ,1963,1483,28,20,432,apr,2022
+          Ohio                          ,2568,1838,32,42,656,apr,2022
+          Wisconsin                     ,2289,1221,148,7,913,apr,2022
+     West North Central Division   ,10595,5430,328,122,4715,apr,2022
+          Iowa                          ,1580,904,44,35,597,apr,2022
+          Kansas                        ,1025,563,188,3,271,apr,2022
+          Minnesota                     ,3209,1488,32,17,1672,apr,2022
+          Missouri                      ,2029,1167,40,30,792,apr,2022
+          Nebraska                      ,1572,549,8,19,996,apr,2022
+          North Dakota                  ,254,247,2,0,5,apr,2022
+          South Dakota                  ,926,512,14,18,382,apr,2022
+South Region                  ,84465,58006,1096,781,24582,apr,2022
+     South Atlantic Division       ,46792,31920,612,272,13988,apr,2022
+          Delaware                      ,538,503,24,0,11,apr,2022
+          District of Columbia          ,81,21,6,0,54,apr,2022
+          Florida                       ,20051,13511,326,91,6123,apr,2022
+          Georgia                       ,6745,4434,34,66,2211,apr,2022
+          Maryland                      ,2054,947,4,0,1103,apr,2022
+          North Carolina                ,9028,6506,46,0,2476,apr,2022
+          South Carolina                ,4453,3626,104,108,615,apr,2022
+          Virginia                      ,3435,2038,62,7,1328,apr,2022
+          West Virginia                 ,407,334,6,0,67,apr,2022
+     East South Central Division   ,8012,6425,92,115,1380,apr,2022
+          Alabama                       ,1920,1647,28,15,230,apr,2022
+          Kentucky                      ,1080,822,40,15,203,apr,2022
+          Mississippi                   ,712,664,2,14,32,apr,2022
+          Tennessee                     ,4300,3292,22,71,915,apr,2022
+     West South Central Division   ,29661,19661,392,394,9214,apr,2022
+          Arkansas                      ,1319,892,32,122,273,apr,2022
+          Louisiana                     ,1617,1409,68,9,131,apr,2022
+          Oklahoma                      ,1207,1099,46,26,36,apr,2022
+          Texas                         ,25518,16261,246,237,8774,apr,2022
+West Region                   ,36011,22052,858,530,12571,apr,2022
+     Mountain Division             ,19088,12724,406,179,5779,apr,2022
+          Arizona                       ,5268,3897,216,12,1143,apr,2022
+          Colorado                      ,4201,2521,100,31,1549,apr,2022
+          Idaho                         ,1994,1399,10,61,524,apr,2022
+          Montana                       ,566,300,26,17,223,apr,2022
+          Nevada                        ,2634,1442,34,22,1136,apr,2022
+          New Mexico                    ,1005,727,0,0,278,apr,2022
+          Utah                          ,3193,2220,16,36,921,apr,2022
+          Wyoming                       ,227,218,4,0,5,apr,2022
+     Pacific Division              ,16923,9328,452,351,6792,apr,2022
+          Alaska                        ,152,106,6,11,29,apr,2022
+          California                    ,10615,6041,260,152,4162,apr,2022
+          Hawaii                        ,228,145,20,0,63,apr,2022
+          Oregon                        ,1801,1035,46,18,702,apr,2022
+          Washington                    ,4127,2001,120,170,1836,apr,2022
+United States                 ,102461,55553,2504,1419,42985,nov,2022
+Northeast Region              ,9831,3989,376,183,5283,nov,2022
+     New England Division          ,2658,1272,148,51,1187,nov,2022
+          Connecticut                   ,492,167,32,8,285,nov,2022
+          Maine                         ,369,307,22,3,37,nov,2022
+          Massachusetts                 ,1293,414,50,22,807,nov,2022
+          New Hampshire                 ,319,243,32,10,34,nov,2022
+          Rhode Island                  ,66,54,8,4,0,nov,2022
+          Vermont                       ,119,87,4,4,24,nov,2022
+     Middle Atlantic Division      ,7173,2717,228,132,4096,nov,2022
+          New Jersey                    ,2792,851,118,37,1786,nov,2022
+          New York                      ,2140,807,38,29,1266,nov,2022
+          Pennsylvania                  ,2241,1059,72,66,1044,nov,2022
+Midwest Region                ,15592,7307,384,351,7550,nov,2022
+     East North Central Division   ,9385,4252,252,192,4689,nov,2022
+          Illinois                      ,1534,575,24,40,895,nov,2022
+          Indiana                       ,1857,1016,20,8,813,nov,2022
+          Michigan                      ,1026,859,18,17,132,nov,2022
+          Ohio                          ,3122,1056,112,120,1834,nov,2022
+          Wisconsin                     ,1846,746,78,7,1015,nov,2022
+     West North Central Division   ,6207,3055,132,159,2861,nov,2022
+          Iowa                          ,954,368,22,36,528,nov,2022
+          Kansas                        ,460,356,24,6,74,nov,2022
+          Minnesota                     ,1870,759,10,9,1092,nov,2022
+          Missouri                      ,1393,744,34,53,562,nov,2022
+          Nebraska                      ,1070,540,34,4,492,nov,2022
+          North Dakota                  ,163,100,2,51,10,nov,2022
+          South Dakota                  ,297,188,6,0,103,nov,2022
+South Region                  ,55432,33436,1186,583,20227,nov,2022
+     South Atlantic Division       ,32886,19178,504,323,12881,nov,2022
+          Delaware                      ,498,346,4,0,148,nov,2022
+          District of Columbia          ,988,126,0,0,862,nov,2022
+          Florida                       ,12504,7562,286,258,4398,nov,2022
+          Georgia                       ,5516,2715,50,22,2729,nov,2022
+          Maryland                      ,1102,656,12,3,431,nov,2022
+          North Carolina                ,7276,4035,94,3,3144,nov,2022
+          South Carolina                ,2816,2358,34,31,393,nov,2022
+          Virginia                      ,2000,1229,24,0,747,nov,2022
+          West Virginia                 ,186,151,0,6,29,nov,2022
+     East South Central Division   ,5079,3994,106,88,891,nov,2022
+          Alabama                       ,1324,966,8,14,336,nov,2022
+          Kentucky                      ,996,628,44,50,274,nov,2022
+          Mississippi                   ,457,408,16,4,29,nov,2022
+          Tennessee                     ,2302,1992,38,20,252,nov,2022
+     West South Central Division   ,17467,10264,576,172,6455,nov,2022
+          Arkansas                      ,708,475,60,23,150,nov,2022
+          Louisiana                     ,949,786,46,7,110,nov,2022
+          Oklahoma                      ,693,587,30,3,73,nov,2022
+          Texas                         ,15117,8416,440,139,6122,nov,2022
+West Region                   ,21606,10821,558,302,9925,nov,2022
+     Mountain Division             ,10184,5650,254,140,4140,nov,2022
+          Arizona                       ,2931,2003,136,0,792,nov,2022
+          Colorado                      ,2602,1174,20,47,1361,nov,2022
+          Idaho                         ,1229,522,16,22,669,nov,2022
+          Montana                       ,188,101,34,8,45,nov,2022
+          Nevada                        ,1171,590,20,11,550,nov,2022
+          New Mexico                    ,439,383,0,0,56,nov,2022
+          Utah                          ,1491,774,26,34,657,nov,2022
+          Wyoming                       ,133,103,2,18,10,nov,2022
+     Pacific Division              ,11422,5171,304,162,5785,nov,2022
+          Alaska                        ,68,48,2,3,15,nov,2022
+          California                    ,6800,3203,158,100,3339,nov,2022
+          Hawaii                        ,532,177,18,0,337,nov,2022
+          Oregon                        ,946,666,22,3,255,nov,2022
+          Washington                    ,3076,1077,104,56,1839,nov,2022
+United States                 ,132316,83404,2360,1425,45127,jan,2022
+Northeast Region              ,10309,4592,264,105,5348,jan,2022
+     New England Division          ,2498,1407,74,33,984,jan,2022
+          Connecticut                   ,454,223,8,0,223,jan,2022
+          Maine                         ,437,290,16,4,127,jan,2022
+          Massachusetts                 ,1173,534,36,22,581,jan,2022
+          New Hampshire                 ,231,207,2,0,22,jan,2022
+          Rhode Island                  ,98,77,12,4,5,jan,2022
+          Vermont                       ,105,76,0,3,26,jan,2022
+     Middle Atlantic Division      ,7811,3185,190,72,4364,jan,2022
+          New Jersey                    ,2932,1155,102,24,1651,jan,2022
+          New York                      ,3085,667,50,28,2340,jan,2022
+          Pennsylvania                  ,1794,1363,38,20,373,jan,2022
+Midwest Region                ,14512,7924,454,417,5717,jan,2022
+     East North Central Division   ,8147,4863,198,141,2945,jan,2022
+          Illinois                      ,1314,532,38,86,658,jan,2022
+          Indiana                       ,2301,1539,48,3,711,jan,2022
+          Michigan                      ,1351,929,32,19,371,jan,2022
+          Ohio                          ,2169,1223,18,33,895,jan,2022
+          Wisconsin                     ,1012,640,62,0,310,jan,2022
+     West North Central Division   ,6365,3061,256,276,2772,jan,2022
+          Iowa                          ,563,401,32,12,118,jan,2022
+          Kansas                        ,1161,441,134,6,580,jan,2022
+          Minnesota                     ,1564,793,16,19,736,jan,2022
+          Missouri                      ,1862,901,40,55,866,jan,2022
+          Nebraska                      ,828,324,26,178,300,jan,2022
+          North Dakota                  ,35,33,2,0,0,jan,2022
+          South Dakota                  ,352,168,6,6,172,jan,2022
+South Region                  ,75628,51742,908,422,22556,jan,2022
+     South Atlantic Division       ,40621,27683,386,171,12381,jan,2022
+          Delaware                      ,586,548,4,0,34,jan,2022
+          District of Columbia          ,14,10,4,0,0,jan,2022
+          Florida                       ,17533,11878,166,77,5412,jan,2022
+          Georgia                       ,5267,4023,52,73,1119,jan,2022
+          Maryland                      ,2062,892,0,0,1170,jan,2022
+          North Carolina                ,8061,5228,48,6,2779,jan,2022
+          South Carolina                ,4124,3185,26,3,910,jan,2022
+          Virginia                      ,2714,1704,64,8,938,jan,2022
+          West Virginia                 ,260,215,22,4,19,jan,2022
+     East South Central Division   ,8043,5887,64,78,2014,jan,2022
+          Alabama                       ,1564,1451,2,0,111,jan,2022
+          Kentucky                      ,1005,764,50,14,177,jan,2022
+          Mississippi                   ,663,635,0,3,25,jan,2022
+          Tennessee                     ,4811,3037,12,61,1701,jan,2022
+     West South Central Division   ,26964,18172,458,173,8161,jan,2022
+          Arkansas                      ,1044,874,40,27,103,jan,2022
+          Louisiana                     ,1507,1317,36,6,148,jan,2022
+          Oklahoma                      ,1258,1095,40,3,120,jan,2022
+          Texas                         ,23155,14886,342,137,7790,jan,2022
+West Region                   ,31867,19146,734,481,11506,jan,2022
+     Mountain Division             ,17826,11309,336,207,5974,jan,2022
+          Arizona                       ,5727,4048,176,7,1496,jan,2022
+          Colorado                      ,4122,2203,104,32,1783,jan,2022
+          Idaho                         ,1264,1044,16,34,170,jan,2022
+          Montana                       ,401,232,14,23,132,jan,2022
+          Nevada                        ,2608,1376,8,56,1168,jan,2022
+          New Mexico                    ,531,396,0,3,132,jan,2022
+          Utah                          ,3022,1873,12,49,1088,jan,2022
+          Wyoming                       ,151,137,6,3,5,jan,2022
+     Pacific Division              ,14041,7837,398,274,5532,jan,2022
+          Alaska                        ,109,77,4,4,24,jan,2022
+          California                    ,8276,4977,210,116,2973,jan,2022
+          Hawaii                        ,305,163,28,0,114,jan,2022
+          Oregon                        ,1333,880,22,40,391,jan,2022
+          Washington                    ,4018,1740,134,114,2030,jan,2022
+United States                 ,134413,75574,2422,1799,54618,jul,2022
+Northeast Region              ,13018,5412,324,206,7076,jul,2022
+     New England Division          ,3675,1694,84,46,1851,jul,2022
+          Connecticut                   ,743,193,2,7,541,jul,2022
+          Maine                         ,551,464,16,3,68,jul,2022
+          Massachusetts                 ,1650,521,36,27,1066,jul,2022
+          New Hampshire                 ,378,311,12,9,46,jul,2022
+          Rhode Island                  ,92,70,12,0,10,jul,2022
+          Vermont                       ,261,135,6,0,120,jul,2022
+     Middle Atlantic Division      ,9343,3718,240,160,5225,jul,2022
+          New Jersey                    ,3537,1343,100,67,2027,jul,2022
+          New York                      ,3702,950,60,28,2664,jul,2022
+          Pennsylvania                  ,2104,1425,80,65,534,jul,2022
+Midwest Region                ,17838,10414,460,330,6634,jul,2022
+     East North Central Division   ,9481,6098,182,166,3035,jul,2022
+          Illinois                      ,1418,760,16,41,601,jul,2022
+          Indiana                       ,2108,1651,22,0,435,jul,2022
+          Michigan                      ,1629,1192,20,58,359,jul,2022
+          Ohio                          ,2515,1474,34,63,944,jul,2022
+          Wisconsin                     ,1811,1021,90,4,696,jul,2022
+     West North Central Division   ,8357,4316,278,164,3599,jul,2022
+          Iowa                          ,842,676,36,39,91,jul,2022
+          Kansas                        ,840,526,112,10,192,jul,2022
+          Minnesota                     ,2495,1175,18,34,1268,jul,2022
+          Missouri                      ,1625,1015,80,20,510,jul,2022
+          Nebraska                      ,778,404,10,3,361,jul,2022
+          North Dakota                  ,430,186,16,0,228,jul,2022
+          South Dakota                  ,1347,334,6,58,949,jul,2022
+South Region                  ,73382,43882,1104,733,27663,jul,2022
+     South Atlantic Division       ,38738,24718,506,187,13327,jul,2022
+          Delaware                      ,435,402,20,0,13,jul,2022
+          District of Columbia          ,254,19,6,0,229,jul,2022
+          Florida                       ,15502,9985,286,104,5127,jul,2022
+          Georgia                       ,6229,3482,40,63,2644,jul,2022
+          Maryland                      ,1981,577,62,6,1336,jul,2022
+          North Carolina                ,6605,4917,58,3,1627,jul,2022
+          South Carolina                ,3874,3264,16,0,594,jul,2022
+          Virginia                      ,3556,1812,14,7,1723,jul,2022
+          West Virginia                 ,302,260,4,4,34,jul,2022
+     East South Central Division   ,7089,5099,104,308,1578,jul,2022
+          Alabama                       ,1677,1274,6,14,383,jul,2022
+          Kentucky                      ,1173,652,30,19,472,jul,2022
+          Mississippi                   ,605,561,6,9,29,jul,2022
+          Tennessee                     ,3634,2612,62,266,694,jul,2022
+     West South Central Division   ,27555,14065,494,238,12758,jul,2022
+          Arkansas                      ,1238,854,40,51,293,jul,2022
+          Louisiana                     ,1494,1066,42,7,379,jul,2022
+          Oklahoma                      ,909,728,74,0,107,jul,2022
+          Texas                         ,23914,11417,338,180,11979,jul,2022
+West Region                   ,30175,15866,534,530,13245,jul,2022
+     Mountain Division             ,15981,8697,184,246,6854,jul,2022
+          Arizona                       ,5509,2742,38,16,2713,jul,2022
+          Colorado                      ,3967,1753,38,54,2122,jul,2022
+          Idaho                         ,1499,1048,10,79,362,jul,2022
+          Montana                       ,440,223,18,10,189,jul,2022
+          Nevada                        ,1174,668,50,7,449,jul,2022
+          New Mexico                    ,668,597,2,4,65,jul,2022
+          Utah                          ,2435,1499,22,57,857,jul,2022
+          Wyoming                       ,289,167,6,19,97,jul,2022
+     Pacific Division              ,14194,7169,350,284,6391,jul,2022
+          Alaska                        ,110,80,4,6,20,jul,2022
+          California                    ,7663,4522,178,97,2866,jul,2022
+          Hawaii                        ,244,189,8,0,47,jul,2022
+          Oregon                        ,2064,769,24,3,1268,jul,2022
+          Washington                    ,4113,1609,136,178,2190,jul,2022
+United States                 ,157198,91515,2658,2158,60867,jun,2022
+Northeast Region              ,15177,5272,336,164,9405,jun,2022
+     New England Division          ,3937,1785,114,43,1995,jun,2022
+          Connecticut                   ,394,223,6,3,162,jun,2022
+          Maine                         ,593,464,18,4,107,jun,2022
+          Massachusetts                 ,2200,568,58,27,1547,jun,2022
+          New Hampshire                 ,418,308,8,9,93,jun,2022
+          Rhode Island                  ,100,74,16,0,10,jun,2022
+          Vermont                       ,232,148,8,0,76,jun,2022
+     Middle Atlantic Division      ,11240,3487,222,121,7410,jun,2022
+          New Jersey                    ,3636,1129,80,41,2386,jun,2022
+          New York                      ,5419,931,80,27,4381,jun,2022
+          Pennsylvania                  ,2185,1427,62,53,643,jun,2022
+Midwest Region                ,19063,12141,556,430,5936,jun,2022
+     East North Central Division   ,9716,7266,336,267,1847,jun,2022
+          Illinois                      ,1437,1014,28,95,300,jun,2022
+          Indiana                       ,1950,1720,66,14,150,jun,2022
+          Michigan                      ,2034,1619,26,73,316,jun,2022
+          Ohio                          ,2425,1656,68,74,627,jun,2022
+          Wisconsin                     ,1870,1257,148,11,454,jun,2022
+     West North Central Division   ,9347,4875,220,163,4089,jun,2022
+          Iowa                          ,1481,732,34,40,675,jun,2022
+          Kansas                        ,759,509,32,11,207,jun,2022
+          Minnesota                     ,3076,1526,38,10,1502,jun,2022
+          Missouri                      ,1944,1058,74,89,723,jun,2022
+          Nebraska                      ,739,462,18,3,256,jun,2022
+          North Dakota                  ,720,201,16,4,499,jun,2022
+          South Dakota                  ,628,387,8,6,227,jun,2022
+South Region                  ,82942,53939,1088,843,27072,jun,2022
+     South Atlantic Division       ,44180,29704,428,234,13814,jun,2022
+          Delaware                      ,549,524,12,0,13,jun,2022
+          District of Columbia          ,709,12,8,0,689,jun,2022
+          Florida                       ,20160,12002,194,83,7881,jun,2022
+          Georgia                       ,5645,4381,98,70,1096,jun,2022
+          Maryland                      ,2027,889,4,7,1127,jun,2022
+          North Carolina                ,7106,5796,84,23,1203,jun,2022
+          South Carolina                ,4170,3663,0,37,470,jun,2022
+          Virginia                      ,3463,2119,28,14,1302,jun,2022
+          West Virginia                 ,351,318,0,0,33,jun,2022
+     East South Central Division   ,7654,6182,76,95,1301,jun,2022
+          Alabama                       ,1854,1577,2,12,263,jun,2022
+          Kentucky                      ,1119,796,50,17,256,jun,2022
+          Mississippi                   ,864,668,4,7,185,jun,2022
+          Tennessee                     ,3817,3141,20,59,597,jun,2022
+     West South Central Division   ,31108,18053,584,514,11957,jun,2022
+          Arkansas                      ,1503,939,114,104,346,jun,2022
+          Louisiana                     ,1873,1370,70,10,423,jun,2022
+          Oklahoma                      ,1650,947,66,3,634,jun,2022
+          Texas                         ,26082,14797,334,397,10554,jun,2022
+West Region                   ,40016,20163,678,721,18454,jun,2022
+     Mountain Division             ,19609,10837,274,372,8126,jun,2022
+          Arizona                       ,5537,3198,114,106,2119,jun,2022
+          Colorado                      ,4961,2408,56,56,2441,jun,2022
+          Idaho                         ,2145,1175,22,57,891,jun,2022
+          Montana                       ,895,229,26,82,558,jun,2022
+          Nevada                        ,1938,1092,12,10,824,jun,2022
+          New Mexico                    ,758,705,2,4,47,jun,2022
+          Utah                          ,3106,1822,38,54,1192,jun,2022
+          Wyoming                       ,269,208,4,3,54,jun,2022
+     Pacific Division              ,20407,9326,404,349,10328,jun,2022
+          Alaska                        ,128,94,2,4,28,jun,2022
+          California                    ,12675,6007,230,201,6237,jun,2022
+          Hawaii                        ,254,194,8,0,52,jun,2022
+          Oregon                        ,1927,1029,30,12,856,jun,2022
+          Washington                    ,5423,2002,134,132,3155,jun,2022
+United States                 ,129579,70813,2560,1584,54622,sep,2022
+Northeast Region              ,10273,5289,316,178,4490,sep,2022
+     New England Division          ,3223,1793,142,63,1225,sep,2022
+          Connecticut                   ,384,257,6,0,121,sep,2022
+          Maine                         ,488,415,12,6,55,sep,2022
+          Massachusetts                 ,1611,609,72,29,901,sep,2022
+          New Hampshire                 ,397,311,28,11,47,sep,2022
+          Rhode Island                  ,136,85,18,17,16,sep,2022
+          Vermont                       ,207,116,6,0,85,sep,2022
+     Middle Atlantic Division      ,7050,3496,174,115,3265,sep,2022
+          New Jersey                    ,2536,1169,114,39,1214,sep,2022
+          New York                      ,2684,1001,26,15,1642,sep,2022
+          Pennsylvania                  ,1830,1326,34,61,409,sep,2022
+Midwest Region                ,19908,10194,496,454,8764,sep,2022
+     East North Central Division   ,11749,6153,286,312,4998,sep,2022
+          Illinois                      ,2255,755,56,78,1366,sep,2022
+          Indiana                       ,3006,1684,38,58,1226,sep,2022
+          Michigan                      ,1714,1252,30,82,350,sep,2022
+          Ohio                          ,2535,1390,48,87,1010,sep,2022
+          Wisconsin                     ,2239,1072,114,7,1046,sep,2022
+     West North Central Division   ,8159,4041,210,142,3766,sep,2022
+          Iowa                          ,1174,711,16,18,429,sep,2022
+          Kansas                        ,858,452,96,7,303,sep,2022
+          Minnesota                     ,2759,1055,18,28,1658,sep,2022
+          Missouri                      ,1560,851,58,61,590,sep,2022
+          Nebraska                      ,744,381,16,11,336,sep,2022
+          North Dakota                  ,321,273,2,0,46,sep,2022
+          South Dakota                  ,743,318,4,17,404,sep,2022
+South Region                  ,68831,41189,1086,502,26054,sep,2022
+     South Atlantic Division       ,39390,22783,412,186,16009,sep,2022
+          Delaware                      ,405,385,8,0,12,sep,2022
+          District of Columbia          ,986,7,6,0,973,sep,2022
+          Florida                       ,17199,9081,258,80,7780,sep,2022
+          Georgia                       ,5908,3407,50,35,2416,sep,2022
+          Maryland                      ,1653,683,10,4,956,sep,2022
+          North Carolina                ,6943,4773,60,8,2102,sep,2022
+          South Carolina                ,3204,2670,6,43,485,sep,2022
+          Virginia                      ,2883,1612,4,13,1254,sep,2022
+          West Virginia                 ,209,165,10,3,31,sep,2022
+     East South Central Division   ,6903,4960,150,124,1669,sep,2022
+          Alabama                       ,1717,1232,36,13,436,sep,2022
+          Kentucky                      ,1198,616,60,46,476,sep,2022
+          Mississippi                   ,621,575,6,7,33,sep,2022
+          Tennessee                     ,3367,2537,48,58,724,sep,2022
+     West South Central Division   ,22538,13446,524,192,8376,sep,2022
+          Arkansas                      ,1001,797,26,35,143,sep,2022
+          Louisiana                     ,1172,989,36,7,140,sep,2022
+          Oklahoma                      ,921,726,40,17,138,sep,2022
+          Texas                         ,19444,10934,422,133,7955,sep,2022
+West Region                   ,30567,14141,662,450,15314,sep,2022
+     Mountain Division             ,14053,7525,300,241,5987,sep,2022
+          Arizona                       ,4020,2184,126,27,1683,sep,2022
+          Colorado                      ,3671,1579,34,44,2014,sep,2022
+          Idaho                         ,1128,893,42,53,140,sep,2022
+          Montana                       ,512,205,18,11,278,sep,2022
+          Nevada                        ,1659,768,26,24,841,sep,2022
+          New Mexico                    ,644,559,0,4,81,sep,2022
+          Utah                          ,2232,1197,44,70,921,sep,2022
+          Wyoming                       ,187,140,10,8,29,sep,2022
+     Pacific Division              ,16514,6616,362,209,9327,sep,2022
+          Alaska                        ,131,93,4,10,24,sep,2022
+          California                    ,10242,4179,224,93,5746,sep,2022
+          Hawaii                        ,479,141,10,0,328,sep,2022
+          Oregon                        ,2335,783,38,3,1511,sep,2022
+          Washington                    ,3327,1420,86,103,1718,sep,2022
+United States                 ,120838,65866,2698,1882,50392,oct,2022
+Northeast Region              ,8319,4288,248,153,3630,oct,2022
+     New England Division          ,2377,1424,96,32,825,oct,2022
+          Connecticut                   ,410,160,14,0,236,oct,2022
+          Maine                         ,399,349,8,6,36,oct,2022
+          Massachusetts                 ,1056,489,50,16,501,oct,2022
+          New Hampshire                 ,311,256,12,7,36,oct,2022
+          Rhode Island                  ,84,73,8,3,0,oct,2022
+          Vermont                       ,117,97,4,0,16,oct,2022
+     Middle Atlantic Division      ,5942,2864,152,121,2805,oct,2022
+          New Jersey                    ,1741,980,80,40,641,oct,2022
+          New York                      ,2304,832,40,31,1401,oct,2022
+          Pennsylvania                  ,1897,1052,32,50,763,oct,2022
+Midwest Region                ,19877,9702,774,640,8761,oct,2022
+     East North Central Division   ,11685,5855,386,512,4932,oct,2022
+          Illinois                      ,1814,789,64,90,871,oct,2022
+          Indiana                       ,2355,1350,88,8,909,oct,2022
+          Michigan                      ,1597,1194,28,59,316,oct,2022
+          Ohio                          ,4159,1531,50,352,2226,oct,2022
+          Wisconsin                     ,1760,991,156,3,610,oct,2022
+     West North Central Division   ,8192,3847,388,128,3829,oct,2022
+          Iowa                          ,1209,601,42,33,533,oct,2022
+          Kansas                        ,777,406,80,0,291,oct,2022
+          Minnesota                     ,2752,1166,20,35,1531,oct,2022
+          Missouri                      ,1552,875,88,24,565,oct,2022
+          Nebraska                      ,926,371,86,8,461,oct,2022
+          North Dakota                  ,565,134,44,21,366,oct,2022
+          South Dakota                  ,411,294,28,7,82,oct,2022
+South Region                  ,67616,39235,1056,662,26663,oct,2022
+     South Atlantic Division       ,37243,22556,392,317,13978,oct,2022
+          Delaware                      ,580,447,6,0,127,oct,2022
+          District of Columbia          ,451,69,4,0,378,oct,2022
+          Florida                       ,15337,9057,232,221,5827,oct,2022
+          Georgia                       ,6111,3371,44,82,2614,oct,2022
+          Maryland                      ,924,680,2,0,242,oct,2022
+          North Carolina                ,6781,4577,54,7,2143,oct,2022
+          South Carolina                ,3637,2788,16,4,829,oct,2022
+          Virginia                      ,3198,1383,32,3,1780,oct,2022
+          West Virginia                 ,224,184,2,0,38,oct,2022
+     East South Central Division   ,5991,4324,68,95,1504,oct,2022
+          Alabama                       ,1466,1141,12,14,299,oct,2022
+          Kentucky                      ,1513,614,24,22,853,oct,2022
+          Mississippi                   ,629,577,8,11,33,oct,2022
+          Tennessee                     ,2383,1992,24,48,319,oct,2022
+     West South Central Division   ,24382,12355,596,250,11181,oct,2022
+          Arkansas                      ,1007,737,68,24,178,oct,2022
+          Louisiana                     ,1170,971,44,13,142,oct,2022
+          Oklahoma                      ,842,680,18,7,137,oct,2022
+          Texas                         ,21363,9967,466,206,10724,oct,2022
+West Region                   ,25026,12641,620,427,11338,oct,2022
+     Mountain Division             ,12543,6658,296,210,5379,oct,2022
+          Arizona                       ,3871,1861,152,8,1850,oct,2022
+          Colorado                      ,2919,1446,26,32,1415,oct,2022
+          Idaho                         ,1057,653,22,62,320,oct,2022
+          Montana                       ,595,307,32,25,231,oct,2022
+          Nevada                        ,1250,709,28,19,494,oct,2022
+          New Mexico                    ,591,571,0,0,20,oct,2022
+          Utah                          ,1704,977,34,60,633,oct,2022
+          Wyoming                       ,556,134,2,4,416,oct,2022
+     Pacific Division              ,12483,5983,324,217,5959,oct,2022
+          Alaska                        ,89,63,2,7,17,oct,2022
+          California                    ,7282,3761,172,118,3231,oct,2022
+          Hawaii                        ,829,147,12,0,670,oct,2022
+          Oregon                        ,1211,794,24,0,393,oct,2022
+          Washington                    ,3072,1218,114,92,1648,oct,2022
+United States                 ,138965,81002,2628,1887,53448,aug,2022
+Northeast Region              ,11417,5221,312,277,5607,aug,2022
+     New England Division          ,2838,1725,102,83,928,aug,2022
+          Connecticut                   ,396,212,14,3,167,aug,2022
+          Maine                         ,564,476,22,12,54,aug,2022
+          Massachusetts                 ,1083,543,38,35,467,aug,2022
+          New Hampshire                 ,498,270,12,14,202,aug,2022
+          Rhode Island                  ,123,86,8,19,10,aug,2022
+          Vermont                       ,174,138,8,0,28,aug,2022
+     Middle Atlantic Division      ,8579,3496,210,194,4679,aug,2022
+          New Jersey                    ,2389,1150,92,62,1085,aug,2022
+          New York                      ,4255,967,56,54,3178,aug,2022
+          Pennsylvania                  ,1935,1379,62,78,416,aug,2022
+Midwest Region                ,19888,11006,516,457,7909,aug,2022
+     East North Central Division   ,11062,6463,320,193,4086,aug,2022
+          Illinois                      ,1720,832,32,77,779,aug,2022
+          Indiana                       ,2207,1447,42,11,707,aug,2022
+          Michigan                      ,2446,1389,26,46,985,aug,2022
+          Ohio                          ,2767,1622,36,41,1068,aug,2022
+          Wisconsin                     ,1922,1173,184,18,547,aug,2022
+     West North Central Division   ,8826,4543,196,264,3823,aug,2022
+          Iowa                          ,1263,665,28,38,532,aug,2022
+          Kansas                        ,704,546,68,4,86,aug,2022
+          Minnesota                     ,2725,1232,28,54,1411,aug,2022
+          Missouri                      ,2156,1021,26,98,1011,aug,2022
+          Nebraska                      ,670,442,28,18,182,aug,2022
+          North Dakota                  ,285,265,12,3,5,aug,2022
+          South Dakota                  ,1023,372,6,49,596,aug,2022
+South Region                  ,75669,47072,1102,589,26906,aug,2022
+     South Atlantic Division       ,43288,26558,380,294,16056,aug,2022
+          Delaware                      ,595,556,26,0,13,aug,2022
+          District of Columbia          ,1555,14,6,4,1531,aug,2022
+          Florida                       ,16834,10905,220,141,5568,aug,2022
+          Georgia                       ,7694,3792,48,84,3770,aug,2022
+          Maryland                      ,1125,691,4,23,407,aug,2022
+          North Carolina                ,8119,5367,44,11,2697,aug,2022
+          South Carolina                ,3797,3244,10,25,518,aug,2022
+          Virginia                      ,3245,1702,20,3,1520,aug,2022
+          West Virginia                 ,324,287,2,3,32,aug,2022
+     East South Central Division   ,7419,5143,164,101,2011,aug,2022
+          Alabama                       ,2542,1290,64,57,1131,aug,2022
+          Kentucky                      ,1407,743,50,25,589,aug,2022
+          Mississippi                   ,670,624,4,9,33,aug,2022
+          Tennessee                     ,2800,2486,46,10,258,aug,2022
+     West South Central Division   ,24962,15371,558,194,8839,aug,2022
+          Arkansas                      ,1412,829,58,65,460,aug,2022
+          Louisiana                     ,1439,1209,80,7,143,aug,2022
+          Oklahoma                      ,1161,855,90,3,213,aug,2022
+          Texas                         ,20950,12478,330,119,8023,aug,2022
+West Region                   ,31991,17703,698,564,13026,aug,2022
+     Mountain Division             ,15059,9090,276,345,5348,aug,2022
+          Arizona                       ,4603,2827,120,19,1637,aug,2022
+          Colorado                      ,3927,1835,32,43,2017,aug,2022
+          Idaho                         ,1589,1101,36,105,347,aug,2022
+          Montana                       ,483,361,14,14,94,aug,2022
+          Nevada                        ,1267,869,12,18,368,aug,2022
+          New Mexico                    ,616,593,0,0,23,aug,2022
+          Utah                          ,2175,1322,54,54,745,aug,2022
+          Wyoming                       ,399,182,8,92,117,aug,2022
+     Pacific Division              ,16932,8613,422,219,7678,aug,2022
+          Alaska                        ,134,104,6,4,20,aug,2022
+          California                    ,11045,5637,270,105,5033,aug,2022
+          Hawaii                        ,228,185,6,0,37,aug,2022
+          Oregon                        ,1446,825,34,6,581,aug,2022
+          Washington                    ,4079,1862,106,104,2007,aug,2022
+United States                 ,148984,95355,2854,1880,48895,may,2022
+Northeast Region              ,10895,5797,374,250,4474,may,2022
+     New England Division          ,3144,1858,110,80,1096,may,2022
+          Connecticut                   ,342,223,8,3,108,may,2022
+          Maine                         ,639,529,14,11,85,may,2022
+          Massachusetts                 ,1482,555,52,57,818,may,2022
+          New Hampshire                 ,369,330,12,6,21,may,2022
+          Rhode Island                  ,128,91,16,3,18,may,2022
+          Vermont                       ,184,130,8,0,46,may,2022
+     Middle Atlantic Division      ,7751,3939,264,170,3378,may,2022
+          New Jersey                    ,2239,1251,96,24,868,may,2022
+          New York                      ,3325,1124,98,42,2061,may,2022
+          Pennsylvania                  ,2187,1564,70,104,449,may,2022
+Midwest Region                ,22239,13001,448,476,8314,may,2022
+     East North Central Division   ,11668,7583,244,308,3533,may,2022
+          Illinois                      ,1702,897,40,95,670,may,2022
+          Indiana                       ,2848,2117,30,4,697,may,2022
+          Michigan                      ,2386,1598,32,56,700,may,2022
+          Ohio                          ,2305,1723,26,138,418,may,2022
+          Wisconsin                     ,2427,1248,116,15,1048,may,2022
+     West North Central Division   ,10571,5418,204,168,4781,may,2022
+          Iowa                          ,1257,857,20,15,365,may,2022
+          Kansas                        ,739,584,72,9,74,may,2022
+          Minnesota                     ,3607,1631,22,32,1922,may,2022
+          Missouri                      ,1779,1119,48,17,595,may,2022
+          Nebraska                      ,1069,489,12,3,565,may,2022
+          North Dakota                  ,340,267,18,3,52,may,2022
+          South Dakota                  ,1780,471,12,89,1208,may,2022
+South Region                  ,81228,55286,1228,493,24221,may,2022
+     South Atlantic Division       ,46032,30721,372,201,14738,may,2022
+          Delaware                      ,606,582,12,0,12,may,2022
+          District of Columbia          ,540,14,4,0,522,may,2022
+          Florida                       ,20152,12635,184,123,7210,may,2022
+          Georgia                       ,5973,4419,58,21,1475,may,2022
+          Maryland                      ,1517,1008,2,0,507,may,2022
+          North Carolina                ,8648,6084,42,3,2519,may,2022
+          South Carolina                ,4192,3547,46,51,548,may,2022
+          Virginia                      ,4004,2073,18,3,1910,may,2022
+          West Virginia                 ,400,359,6,0,35,may,2022
+     East South Central Division   ,7644,6432,168,116,928,may,2022
+          Alabama                       ,1788,1540,54,17,177,may,2022
+          Kentucky                      ,1251,916,58,45,232,may,2022
+          Mississippi                   ,830,785,6,7,32,may,2022
+          Tennessee                     ,3775,3191,50,47,487,may,2022
+     West South Central Division   ,27552,18133,688,176,8555,may,2022
+          Arkansas                      ,1745,961,94,68,622,may,2022
+          Louisiana                     ,1478,1295,46,7,130,may,2022
+          Oklahoma                      ,1411,1045,70,0,296,may,2022
+          Texas                         ,22918,14832,478,101,7507,may,2022
+West Region                   ,34622,21271,804,661,11886,may,2022
+     Mountain Division             ,18309,11804,344,257,5904,may,2022
+          Arizona                       ,5264,3834,172,8,1250,may,2022
+          Colorado                      ,4583,2384,90,92,2017,may,2022
+          Idaho                         ,2160,1388,30,90,652,may,2022
+          Montana                       ,531,249,12,13,257,may,2022
+          Nevada                        ,1641,1282,10,13,336,may,2022
+          New Mexico                    ,1004,618,0,0,386,may,2022
+          Utah                          ,2890,1830,22,37,1001,may,2022
+          Wyoming                       ,236,219,8,4,5,may,2022
+     Pacific Division              ,16313,9467,460,404,5982,may,2022
+          Alaska                        ,148,109,8,7,24,may,2022
+          California                    ,10263,6022,202,239,3800,may,2022
+          Hawaii                        ,193,105,54,0,34,may,2022
+          Oregon                        ,1448,1033,42,14,359,may,2022
+          Washington                    ,4261,2198,154,144,1765,may,2022

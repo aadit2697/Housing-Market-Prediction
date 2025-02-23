@@ -1,0 +1,781 @@
+Region,Total,1 Unit,2 Units,3 and 4 Units,5 Units or More,Month,Year
+United States                 ,104944,64918,1956,1465,36605,dec,2023
+Northeast Region              ,8108,3489,174,131,4314,dec,2023
+     New England Division          ,2838,993,56,51,1738,dec,2023
+          Connecticut                   ,406,139,6,4,257,dec,2023
+          Maine                         ,294,211,8,3,72,dec,2023
+          Massachusetts                 ,1798,403,24,41,1330,dec,2023
+          New Hampshire                 ,215,140,8,0,67,dec,2023
+          Rhode Island                  ,54,47,4,3,0,dec,2023
+          Vermont                       ,71,53,6,0,12,dec,2023
+     Middle Atlantic Division      ,5270,2496,118,80,2576,dec,2023
+          New Jersey                    ,2507,837,82,35,1553,dec,2023
+          New York                      ,1323,570,20,18,715,dec,2023
+          Pennsylvania                  ,1440,1089,16,27,308,dec,2023
+Midwest Region                ,11786,6856,324,224,4382,dec,2023
+     East North Central Division   ,6830,4238,218,131,2243,dec,2023
+          Illinois                      ,911,647,16,64,184,dec,2023
+          Indiana                       ,1779,1105,74,12,588,dec,2023
+          Michigan                      ,1199,861,28,0,310,dec,2023
+          Ohio                          ,1544,1052,34,35,423,dec,2023
+          Wisconsin                     ,1397,573,66,20,738,dec,2023
+     West North Central Division   ,4956,2618,106,93,2139,dec,2023
+          Iowa                          ,860,448,8,28,376,dec,2023
+          Kansas                        ,777,380,50,16,331,dec,2023
+          Minnesota                     ,1459,636,12,10,801,dec,2023
+          Missouri                      ,1043,712,30,29,272,dec,2023
+          Nebraska                      ,461,261,4,0,196,dec,2023
+          North Dakota                  ,32,32,0,0,0,dec,2023
+          South Dakota                  ,324,149,2,10,163,dec,2023
+South Region                  ,59076,39435,948,785,17908,dec,2023
+     South Atlantic Division       ,35437,22687,290,307,12153,dec,2023
+          Delaware                      ,881,414,12,0,455,dec,2023
+          District of Columbia          ,93,13,4,0,76,dec,2023
+          Florida                       ,14796,9584,158,186,4868,dec,2023
+          Georgia                       ,4159,3147,30,41,941,dec,2023
+          Maryland                      ,1320,719,4,12,585,dec,2023
+          North Carolina                ,8080,4505,40,3,3532,dec,2023
+          South Carolina                ,2802,2587,38,47,130,dec,2023
+          Virginia                      ,3085,1515,4,15,1551,dec,2023
+          West Virginia                 ,221,203,0,3,15,dec,2023
+     East South Central Division   ,6450,4380,92,74,1904,dec,2023
+          Alabama                       ,1856,1214,12,8,622,dec,2023
+          Kentucky                      ,1109,489,42,13,565,dec,2023
+          Mississippi                   ,551,511,0,3,37,dec,2023
+          Tennessee                     ,2934,2166,38,50,680,dec,2023
+     West South Central Division   ,17189,12368,566,404,3851,dec,2023
+          Arkansas                      ,1110,918,134,20,38,dec,2023
+          Louisiana                     ,1114,765,46,0,303,dec,2023
+          Oklahoma                      ,785,702,40,18,25,dec,2023
+          Texas                         ,14180,9983,346,366,3485,dec,2023
+West Region                   ,25974,15138,510,325,10001,dec,2023
+     Mountain Division             ,14800,8471,240,185,5904,dec,2023
+          Arizona                       ,4737,2841,104,0,1792,dec,2023
+          Colorado                      ,4177,1939,68,29,2141,dec,2023
+          Idaho                         ,1416,758,12,49,597,dec,2023
+          Montana                       ,195,117,6,13,59,dec,2023
+          Nevada                        ,1698,1177,8,18,495,dec,2023
+          New Mexico                    ,547,471,16,4,56,dec,2023
+          Utah                          ,1926,1107,18,42,759,dec,2023
+          Wyoming                       ,104,61,8,30,5,dec,2023
+     Pacific Division              ,11174,6667,270,140,4097,dec,2023
+          Alaska                        ,24,22,2,0,0,dec,2023
+          California                    ,7179,4534,152,83,2410,dec,2023
+          Hawaii                        ,334,154,22,0,158,dec,2023
+          Oregon                        ,895,633,30,17,215,dec,2023
+          Washington                    ,2742,1324,64,40,1314,dec,2023
+United States                 ,110878,58654,2070,1151,49003,feb,2023
+Northeast Region              ,7337,3347,224,126,3640,feb,2023
+     New England Division          ,2317,906,110,23,1278,feb,2023
+          Connecticut                   ,493,118,14,3,358,feb,2023
+          Maine                         ,266,206,8,7,45,feb,2023
+          Massachusetts                 ,1165,327,22,7,809,feb,2023
+          New Hampshire                 ,222,155,6,6,55,feb,2023
+          Rhode Island                  ,87,55,32,0,0,feb,2023
+          Vermont                       ,84,45,28,0,11,feb,2023
+     Middle Atlantic Division      ,5020,2441,114,103,2362,feb,2023
+          New Jersey                    ,1862,1078,76,29,679,feb,2023
+          New York                      ,1855,485,12,17,1341,feb,2023
+          Pennsylvania                  ,1303,878,26,57,342,feb,2023
+Midwest Region                ,10582,5898,248,234,4202,feb,2023
+     East North Central Division   ,5964,3699,150,169,1946,feb,2023
+          Illinois                      ,784,496,16,43,229,feb,2023
+          Indiana                       ,1466,978,30,3,455,feb,2023
+          Michigan                      ,1008,647,14,10,337,feb,2023
+          Ohio                          ,1605,1019,22,109,455,feb,2023
+          Wisconsin                     ,1101,559,68,4,470,feb,2023
+     West North Central Division   ,4618,2199,98,65,2256,feb,2023
+          Iowa                          ,638,363,8,16,251,feb,2023
+          Kansas                        ,349,284,38,0,27,feb,2023
+          Minnesota                     ,1302,520,6,12,764,feb,2023
+          Missouri                      ,1111,637,24,18,432,feb,2023
+          Nebraska                      ,814,237,12,9,556,feb,2023
+          North Dakota                  ,253,36,2,0,215,feb,2023
+          South Dakota                  ,151,122,8,10,11,feb,2023
+South Region                  ,65533,37804,1104,476,26149,feb,2023
+     South Atlantic Division       ,37436,21782,420,178,15056,feb,2023
+          Delaware                      ,356,340,4,0,12,feb,2023
+          District of Columbia          ,299,19,4,4,272,feb,2023
+          Florida                       ,16279,8402,278,122,7477,feb,2023
+          Georgia                       ,5136,3086,24,30,1996,feb,2023
+          Maryland                      ,1351,749,6,4,592,feb,2023
+          North Carolina                ,8095,4768,54,8,3265,feb,2023
+          South Carolina                ,3039,2609,4,10,416,feb,2023
+          Virginia                      ,2642,1606,42,0,994,feb,2023
+          West Virginia                 ,239,203,4,0,32,feb,2023
+     East South Central Division   ,7998,4324,124,104,3446,feb,2023
+          Alabama                       ,1518,1006,10,18,484,feb,2023
+          Kentucky                      ,1191,570,32,25,564,feb,2023
+          Mississippi                   ,656,518,12,6,120,feb,2023
+          Tennessee                     ,4633,2230,70,55,2278,feb,2023
+     West South Central Division   ,20099,11698,560,194,7647,feb,2023
+          Arkansas                      ,948,593,90,14,251,feb,2023
+          Louisiana                     ,991,761,32,3,195,feb,2023
+          Oklahoma                      ,797,700,48,27,22,feb,2023
+          Texas                         ,17363,9644,390,150,7179,feb,2023
+West Region                   ,27426,11605,494,315,15012,feb,2023
+     Mountain Division             ,13144,6004,156,196,6788,feb,2023
+          Arizona                       ,4600,1995,86,0,2519,feb,2023
+          Colorado                      ,3247,1241,14,56,1936,feb,2023
+          Idaho                         ,1060,692,18,43,307,feb,2023
+          Montana                       ,380,75,6,4,295,feb,2023
+          Nevada                        ,1041,779,16,9,237,feb,2023
+          New Mexico                    ,397,381,0,0,16,feb,2023
+          Utah                          ,2342,770,14,80,1478,feb,2023
+          Wyoming                       ,77,71,2,4,0,feb,2023
+     Pacific Division              ,14282,5601,338,119,8224,feb,2023
+          Alaska                        ,80,52,2,3,23,feb,2023
+          California                    ,8275,3612,176,64,4423,feb,2023
+          Hawaii                        ,203,159,2,0,42,feb,2023
+          Oregon                        ,1519,632,50,12,825,feb,2023
+          Washington                    ,4205,1146,108,40,2911,feb,2023
+United States                 ,131310,79384,3060,1687,47179,mar,2023
+Northeast Region              ,12611,4528,360,252,7471,mar,2023
+     New England Division          ,3180,1293,156,111,1620,mar,2023
+          Connecticut                   ,542,176,8,3,355,mar,2023
+          Maine                         ,476,299,12,4,161,mar,2023
+          Massachusetts                 ,1475,444,94,64,873,mar,2023
+          New Hampshire                 ,258,194,14,27,23,mar,2023
+          Rhode Island                  ,101,71,14,6,10,mar,2023
+          Vermont                       ,328,109,14,7,198,mar,2023
+     Middle Atlantic Division      ,9431,3235,204,141,5851,mar,2023
+          New Jersey                    ,3498,1302,130,55,2011,mar,2023
+          New York                      ,3888,788,26,33,3041,mar,2023
+          Pennsylvania                  ,2045,1145,48,53,799,mar,2023
+Midwest Region                ,17562,9255,414,281,7612,mar,2023
+     East North Central Division   ,10496,5719,230,135,4412,mar,2023
+          Illinois                      ,1850,787,34,47,982,mar,2023
+          Indiana                       ,2087,1454,16,4,613,mar,2023
+          Michigan                      ,1738,1174,50,13,501,mar,2023
+          Ohio                          ,3347,1454,60,68,1765,mar,2023
+          Wisconsin                     ,1474,850,70,3,551,mar,2023
+     West North Central Division   ,7066,3536,184,146,3200,mar,2023
+          Iowa                          ,1048,615,28,34,371,mar,2023
+          Kansas                        ,548,398,38,25,87,mar,2023
+          Minnesota                     ,1840,859,20,14,947,mar,2023
+          Missouri                      ,1623,949,72,57,545,mar,2023
+          Nebraska                      ,671,399,10,9,253,mar,2023
+          North Dakota                  ,216,103,8,0,105,mar,2023
+          South Dakota                  ,1120,213,8,7,892,mar,2023
+South Region                  ,71840,49003,1662,573,20602,mar,2023
+     South Atlantic Division       ,41777,28274,526,205,12772,mar,2023
+          Delaware                      ,536,480,18,0,38,mar,2023
+          District of Columbia          ,129,18,6,0,105,mar,2023
+          Florida                       ,18743,10891,290,112,7450,mar,2023
+          Georgia                       ,5357,4167,38,63,1089,mar,2023
+          Maryland                      ,1035,871,4,0,160,mar,2023
+          North Carolina                ,8515,6164,76,20,2255,mar,2023
+          South Carolina                ,3820,3375,44,3,398,mar,2023
+          Virginia                      ,3308,2020,46,4,1238,mar,2023
+          West Virginia                 ,334,288,4,3,39,mar,2023
+     East South Central Division   ,8175,5586,100,123,2366,mar,2023
+          Alabama                       ,2455,1563,14,32,846,mar,2023
+          Kentucky                      ,1637,701,56,57,823,mar,2023
+          Mississippi                   ,625,578,6,12,29,mar,2023
+          Tennessee                     ,3458,2744,24,22,668,mar,2023
+     West South Central Division   ,21888,15143,1036,245,5464,mar,2023
+          Arkansas                      ,812,705,36,25,46,mar,2023
+          Louisiana                     ,1234,1040,44,7,143,mar,2023
+          Oklahoma                      ,946,857,50,22,17,mar,2023
+          Texas                         ,18896,12541,906,191,5258,mar,2023
+West Region                   ,29297,16598,624,581,11494,mar,2023
+     Mountain Division             ,16630,9318,236,326,6750,mar,2023
+          Arizona                       ,6525,2938,140,18,3429,mar,2023
+          Colorado                      ,3580,1849,30,44,1657,mar,2023
+          Idaho                         ,1297,957,26,84,230,mar,2023
+          Montana                       ,468,143,18,30,277,mar,2023
+          Nevada                        ,1781,1526,4,70,181,mar,2023
+          New Mexico                    ,894,543,0,4,347,mar,2023
+          Utah                          ,1928,1251,14,40,623,mar,2023
+          Wyoming                       ,157,111,4,36,6,mar,2023
+     Pacific Division              ,12667,7280,388,255,4744,mar,2023
+          Alaska                        ,122,70,2,4,46,mar,2023
+          California                    ,7410,4608,152,120,2530,mar,2023
+          Hawaii                        ,300,238,30,0,32,mar,2023
+          Oregon                        ,1442,906,36,22,478,mar,2023
+          Washington                    ,3393,1458,168,109,1658,mar,2023
+United States                 ,117601,75123,2802,1859,37817,apr,2023
+Northeast Region              ,8498,4663,292,142,3401,apr,2023
+     New England Division          ,2354,1544,124,35,651,apr,2023
+          Connecticut                   ,289,171,8,8,102,apr,2023
+          Maine                         ,596,448,20,6,122,apr,2023
+          Massachusetts                 ,819,417,28,15,359,apr,2023
+          New Hampshire                 ,397,312,42,3,40,apr,2023
+          Rhode Island                  ,88,59,18,3,8,apr,2023
+          Vermont                       ,165,137,8,0,20,apr,2023
+     Middle Atlantic Division      ,6144,3119,168,107,2750,apr,2023
+          New Jersey                    ,2194,965,78,34,1117,apr,2023
+          New York                      ,2011,863,38,33,1077,apr,2023
+          Pennsylvania                  ,1939,1291,52,40,556,apr,2023
+Midwest Region                ,15192,10029,466,403,4294,apr,2023
+     East North Central Division   ,8837,5913,232,215,2477,apr,2023
+          Illinois                      ,1576,756,26,53,741,apr,2023
+          Indiana                       ,2401,1567,34,30,770,apr,2023
+          Michigan                      ,1688,1323,18,29,318,apr,2023
+          Ohio                          ,1845,1360,48,93,344,apr,2023
+          Wisconsin                     ,1327,907,106,10,304,apr,2023
+     West North Central Division   ,6355,4116,234,188,1817,apr,2023
+          Iowa                          ,924,766,48,44,66,apr,2023
+          Kansas                        ,561,407,46,11,97,apr,2023
+          Minnesota                     ,2088,1031,18,14,1025,apr,2023
+          Missouri                      ,1295,1017,74,65,139,apr,2023
+          Nebraska                      ,606,411,6,33,156,apr,2023
+          North Dakota                  ,164,160,4,0,0,apr,2023
+          South Dakota                  ,717,324,38,21,334,apr,2023
+South Region                  ,65898,45269,1368,714,18547,apr,2023
+     South Atlantic Division       ,36552,24599,542,234,11177,apr,2023
+          Delaware                      ,471,424,8,0,39,apr,2023
+          District of Columbia          ,224,13,4,0,207,apr,2023
+          Florida                       ,14957,9388,358,117,5094,apr,2023
+          Georgia                       ,5256,3772,48,64,1372,apr,2023
+          Maryland                      ,1230,837,4,4,385,apr,2023
+          North Carolina                ,7997,5314,58,9,2616,apr,2023
+          South Carolina                ,3472,2935,34,18,485,apr,2023
+          Virginia                      ,2657,1665,22,14,956,apr,2023
+          West Virginia                 ,288,251,6,8,23,apr,2023
+     East South Central Division   ,8660,5210,138,132,3180,apr,2023
+          Alabama                       ,1402,1226,48,34,94,apr,2023
+          Kentucky                      ,1540,689,46,47,758,apr,2023
+          Mississippi                   ,634,596,14,6,18,apr,2023
+          Tennessee                     ,5084,2699,30,45,2310,apr,2023
+     West South Central Division   ,20686,15460,688,348,4190,apr,2023
+          Arkansas                      ,851,613,78,72,88,apr,2023
+          Louisiana                     ,1393,988,48,3,354,apr,2023
+          Oklahoma                      ,1096,1010,66,7,13,apr,2023
+          Texas                         ,17346,12849,496,266,3735,apr,2023
+West Region                   ,28013,15162,676,600,11575,apr,2023
+     Mountain Division             ,13787,8116,374,278,5019,apr,2023
+          Arizona                       ,4268,2582,170,43,1473,apr,2023
+          Colorado                      ,3857,1580,104,39,2134,apr,2023
+          Idaho                         ,1450,972,26,81,371,apr,2023
+          Montana                       ,354,203,18,12,121,apr,2023
+          Nevada                        ,1245,975,6,19,245,apr,2023
+          New Mexico                    ,680,530,14,0,136,apr,2023
+          Utah                          ,1804,1163,26,81,534,apr,2023
+          Wyoming                       ,129,111,10,3,5,apr,2023
+     Pacific Division              ,14226,7046,302,322,6556,apr,2023
+          Alaska                        ,41,41,0,0,0,apr,2023
+          California                    ,9186,4470,186,181,4349,apr,2023
+          Hawaii                        ,341,206,12,0,123,apr,2023
+          Oregon                        ,1840,810,20,23,987,apr,2023
+          Washington                    ,2818,1519,84,118,1097,apr,2023
+United States                 ,108831,69619,2252,1418,35542,nov,2023
+Northeast Region              ,7128,4337,392,200,2199,nov,2023
+     New England Division          ,1904,1335,98,63,408,nov,2023
+          Connecticut                   ,268,161,18,32,57,nov,2023
+          Maine                         ,423,345,22,3,53,nov,2023
+          Massachusetts                 ,729,455,40,16,218,nov,2023
+          New Hampshire                 ,309,223,8,3,75,nov,2023
+          Rhode Island                  ,76,67,6,3,0,nov,2023
+          Vermont                       ,99,84,4,6,5,nov,2023
+     Middle Atlantic Division      ,5224,3002,294,137,1791,nov,2023
+          New Jersey                    ,1852,1031,230,63,528,nov,2023
+          New York                      ,1528,760,38,20,710,nov,2023
+          Pennsylvania                  ,1844,1211,26,54,553,nov,2023
+Midwest Region                ,14898,8648,472,342,5436,nov,2023
+     East North Central Division   ,8923,5175,280,228,3240,nov,2023
+          Illinois                      ,1139,845,28,45,221,nov,2023
+          Indiana                       ,2187,1232,62,31,862,nov,2023
+          Michigan                      ,1759,1050,36,55,618,nov,2023
+          Ohio                          ,2237,1239,74,86,838,nov,2023
+          Wisconsin                     ,1601,809,80,11,701,nov,2023
+     West North Central Division   ,5975,3473,192,114,2196,nov,2023
+          Iowa                          ,870,744,22,22,82,nov,2023
+          Kansas                        ,861,408,80,9,364,nov,2023
+          Minnesota                     ,1453,837,14,18,584,nov,2023
+          Missouri                      ,1373,870,38,52,413,nov,2023
+          Nebraska                      ,842,374,26,4,438,nov,2023
+          North Dakota                  ,54,52,2,0,0,nov,2023
+          South Dakota                  ,522,188,10,9,315,nov,2023
+South Region                  ,56229,41073,810,466,13880,nov,2023
+     South Atlantic Division       ,31622,23293,316,193,7820,nov,2023
+          Delaware                      ,475,454,16,0,5,nov,2023
+          District of Columbia          ,9,9,0,0,0,nov,2023
+          Florida                       ,12776,9379,170,50,3177,nov,2023
+          Georgia                       ,4470,3222,46,71,1131,nov,2023
+          Maryland                      ,1288,718,0,8,562,nov,2023
+          North Carolina                ,6761,5034,54,3,1670,nov,2023
+          South Carolina                ,2960,2664,16,49,231,nov,2023
+          Virginia                      ,2673,1614,14,12,1033,nov,2023
+          West Virginia                 ,210,199,0,0,11,nov,2023
+     East South Central Division   ,6624,4604,126,23,1871,nov,2023
+          Alabama                       ,1348,1161,8,10,169,nov,2023
+          Kentucky                      ,1157,609,44,0,504,nov,2023
+          Mississippi                   ,495,463,2,3,27,nov,2023
+          Tennessee                     ,3624,2371,72,10,1171,nov,2023
+     West South Central Division   ,17983,13176,368,250,4189,nov,2023
+          Arkansas                      ,1172,676,54,57,385,nov,2023
+          Louisiana                     ,962,882,34,3,43,nov,2023
+          Oklahoma                      ,894,783,32,3,76,nov,2023
+          Texas                         ,14955,10835,248,187,3685,nov,2023
+West Region                   ,30576,15561,578,410,14027,nov,2023
+     Mountain Division             ,16698,8673,238,178,7609,nov,2023
+          Arizona                       ,5590,3048,134,15,2393,nov,2023
+          Colorado                      ,3641,1546,32,30,2033,nov,2023
+          Idaho                         ,1551,924,16,24,587,nov,2023
+          Montana                       ,343,152,12,18,161,nov,2023
+          Nevada                        ,1414,1114,16,22,262,nov,2023
+          New Mexico                    ,1335,526,0,4,805,nov,2023
+          Utah                          ,2708,1279,24,45,1360,nov,2023
+          Wyoming                       ,116,84,4,20,8,nov,2023
+     Pacific Division              ,13878,6888,340,232,6418,nov,2023
+          Alaska                        ,52,24,0,0,28,nov,2023
+          California                    ,9757,4543,222,151,4841,nov,2023
+          Hawaii                        ,366,183,14,0,169,nov,2023
+          Oregon                        ,1328,784,32,21,491,nov,2023
+          Washington                    ,2375,1354,72,60,889,nov,2023
+United States                 ,100998,53062,2516,1295,44125,jan,2023
+Northeast Region              ,7488,3662,300,177,3349,jan,2023
+     New England Division          ,2444,1023,92,58,1271,jan,2023
+          Connecticut                   ,682,150,8,3,521,jan,2023
+          Maine                         ,255,230,12,3,10,jan,2023
+          Massachusetts                 ,1088,388,42,37,621,jan,2023
+          New Hampshire                 ,269,146,12,8,103,jan,2023
+          Rhode Island                  ,79,58,14,7,0,jan,2023
+          Vermont                       ,71,51,4,0,16,jan,2023
+     Middle Atlantic Division      ,5044,2639,208,119,2078,jan,2023
+          New Jersey                    ,2482,1121,124,27,1210,jan,2023
+          New York                      ,1258,574,30,24,630,jan,2023
+          Pennsylvania                  ,1304,944,54,68,238,jan,2023
+Midwest Region                ,9820,4829,352,173,4466,jan,2023
+     East North Central Division   ,5752,2947,146,106,2553,jan,2023
+          Illinois                      ,978,370,16,31,561,jan,2023
+          Indiana                       ,1529,783,22,15,709,jan,2023
+          Michigan                      ,1187,575,16,20,576,jan,2023
+          Ohio                          ,1150,795,26,40,289,jan,2023
+          Wisconsin                     ,908,424,66,0,418,jan,2023
+     West North Central Division   ,4068,1882,206,67,1913,jan,2023
+          Iowa                          ,355,207,4,10,134,jan,2023
+          Kansas                        ,492,313,132,3,44,jan,2023
+          Minnesota                     ,1366,425,6,7,928,jan,2023
+          Missouri                      ,1028,528,54,27,419,jan,2023
+          Nebraska                      ,429,276,6,3,144,jan,2023
+          North Dakota                  ,137,38,0,3,96,jan,2023
+          South Dakota                  ,261,95,4,14,148,jan,2023
+South Region                  ,62217,34404,1358,544,25911,jan,2023
+     South Atlantic Division       ,37164,20134,458,201,16371,jan,2023
+          Delaware                      ,412,339,6,0,67,jan,2023
+          District of Columbia          ,800,12,6,0,782,jan,2023
+          Florida                       ,14964,8060,260,99,6545,jan,2023
+          Georgia                       ,5940,2809,30,28,3073,jan,2023
+          Maryland                      ,1502,706,12,33,751,jan,2023
+          North Carolina                ,7066,4254,82,3,2727,jan,2023
+          South Carolina                ,3018,2400,46,18,554,jan,2023
+          Virginia                      ,3272,1399,16,17,1840,jan,2023
+          West Virginia                 ,190,155,0,3,32,jan,2023
+     East South Central Division   ,5139,3999,104,59,977,jan,2023
+          Alabama                       ,1250,1082,18,15,135,jan,2023
+          Kentucky                      ,937,476,30,14,417,jan,2023
+          Mississippi                   ,585,537,14,3,31,jan,2023
+          Tennessee                     ,2367,1904,42,27,394,jan,2023
+     West South Central Division   ,19914,10271,796,284,8563,jan,2023
+          Arkansas                      ,1034,628,166,31,209,jan,2023
+          Louisiana                     ,1392,894,38,3,457,jan,2023
+          Oklahoma                      ,641,594,34,3,10,jan,2023
+          Texas                         ,16847,8155,558,247,7887,jan,2023
+West Region                   ,21473,10167,506,401,10399,jan,2023
+     Mountain Division             ,10316,5275,186,184,4671,jan,2023
+          Arizona                       ,2033,1592,82,36,323,jan,2023
+          Colorado                      ,3235,1181,36,35,1983,jan,2023
+          Idaho                         ,922,528,8,39,347,jan,2023
+          Montana                       ,225,106,8,9,102,jan,2023
+          Nevada                        ,1476,600,8,3,865,jan,2023
+          New Mexico                    ,581,410,2,0,169,jan,2023
+          Utah                          ,1776,799,36,59,882,jan,2023
+          Wyoming                       ,68,59,6,3,0,jan,2023
+     Pacific Division              ,11157,4892,320,217,5728,jan,2023
+          Alaska                        ,101,47,2,3,49,jan,2023
+          California                    ,7138,3068,178,91,3801,jan,2023
+          Hawaii                        ,176,144,2,0,30,jan,2023
+          Oregon                        ,1484,630,62,29,763,jan,2023
+          Washington                    ,2258,1003,76,94,1085,jan,2023
+United States                 ,118742,77815,2398,1402,37127,jul,2023
+Northeast Region              ,8946,4478,240,156,4072,jul,2023
+     New England Division          ,2592,1420,80,47,1045,jul,2023
+          Connecticut                   ,302,153,8,12,129,jul,2023
+          Maine                         ,503,395,12,6,90,jul,2023
+          Massachusetts                 ,1201,450,40,13,698,jul,2023
+          New Hampshire                 ,306,258,8,6,34,jul,2023
+          Rhode Island                  ,82,65,8,0,9,jul,2023
+          Vermont                       ,198,99,4,10,85,jul,2023
+     Middle Atlantic Division      ,6354,3058,160,109,3027,jul,2023
+          New Jersey                    ,2625,987,92,36,1510,jul,2023
+          New York                      ,1912,734,38,43,1097,jul,2023
+          Pennsylvania                  ,1817,1337,30,30,420,jul,2023
+Midwest Region                ,15422,10174,490,357,4401,jul,2023
+     East North Central Division   ,8952,6012,292,197,2451,jul,2023
+          Illinois                      ,1165,803,46,53,263,jul,2023
+          Indiana                       ,2049,1453,28,17,551,jul,2023
+          Michigan                      ,1883,1316,56,17,494,jul,2023
+          Ohio                          ,2112,1353,50,95,614,jul,2023
+          Wisconsin                     ,1743,1087,112,15,529,jul,2023
+     West North Central Division   ,6470,4162,198,160,1950,jul,2023
+          Iowa                          ,817,616,32,63,106,jul,2023
+          Kansas                        ,630,412,68,4,146,jul,2023
+          Minnesota                     ,2145,1239,30,27,849,jul,2023
+          Missouri                      ,1486,995,38,28,425,jul,2023
+          Nebraska                      ,641,409,12,23,197,jul,2023
+          North Dakota                  ,306,155,6,4,141,jul,2023
+          South Dakota                  ,445,336,12,11,86,jul,2023
+South Region                  ,66530,46342,1004,547,18637,jul,2023
+     South Atlantic Division       ,36714,25944,406,190,10174,jul,2023
+          Delaware                      ,536,428,0,0,108,jul,2023
+          District of Columbia          ,299,7,10,4,278,jul,2023
+          Florida                       ,15574,10513,176,92,4793,jul,2023
+          Georgia                       ,5423,4013,32,60,1318,jul,2023
+          Maryland                      ,1339,644,2,0,693,jul,2023
+          North Carolina                ,7218,5255,82,9,1872,jul,2023
+          South Carolina                ,3424,3017,82,14,311,jul,2023
+          Virginia                      ,2561,1760,20,11,770,jul,2023
+          West Virginia                 ,340,307,2,0,31,jul,2023
+     East South Central Division   ,6843,5378,78,49,1338,jul,2023
+          Alabama                       ,1491,1323,4,4,160,jul,2023
+          Kentucky                      ,966,686,52,22,206,jul,2023
+          Mississippi                   ,588,565,2,3,18,jul,2023
+          Tennessee                     ,3798,2804,20,20,954,jul,2023
+     West South Central Division   ,22973,15020,520,308,7125,jul,2023
+          Arkansas                      ,1335,1042,58,26,209,jul,2023
+          Louisiana                     ,1270,1037,34,3,196,jul,2023
+          Oklahoma                      ,1471,779,66,45,581,jul,2023
+          Texas                         ,18897,12162,362,234,6139,jul,2023
+West Region                   ,27844,16821,664,342,10017,jul,2023
+     Mountain Division             ,15049,9549,286,153,5061,jul,2023
+          Arizona                       ,5367,3108,164,20,2075,jul,2023
+          Colorado                      ,2737,1658,46,18,1015,jul,2023
+          Idaho                         ,1599,1086,18,26,469,jul,2023
+          Montana                       ,520,184,14,18,304,jul,2023
+          Nevada                        ,1766,1250,20,28,468,jul,2023
+          New Mexico                    ,682,658,4,0,20,jul,2023
+          Utah                          ,2254,1488,16,40,710,jul,2023
+          Wyoming                       ,124,117,4,3,0,jul,2023
+     Pacific Division              ,12795,7272,378,189,4956,jul,2023
+          Alaska                        ,111,52,6,8,45,jul,2023
+          California                    ,8190,4545,206,97,3342,jul,2023
+          Hawaii                        ,306,187,12,0,107,jul,2023
+          Oregon                        ,1525,873,40,13,599,jul,2023
+          Washington                    ,2663,1615,114,71,863,jul,2023
+United States                 ,135692,91039,3128,1851,39674,jun,2023
+Northeast Region              ,10542,5804,312,197,4229,jun,2023
+     New England Division          ,3289,1817,140,43,1289,jun,2023
+          Connecticut                   ,427,169,14,4,240,jun,2023
+          Maine                         ,613,520,48,7,38,jun,2023
+          Massachusetts                 ,1355,563,34,20,738,jun,2023
+          New Hampshire                 ,525,358,20,6,141,jun,2023
+          Rhode Island                  ,140,66,14,0,60,jun,2023
+          Vermont                       ,229,141,10,6,72,jun,2023
+     Middle Atlantic Division      ,7253,3987,172,154,2940,jun,2023
+          New Jersey                    ,2515,1290,80,50,1095,jun,2023
+          New York                      ,2346,1023,70,53,1200,jun,2023
+          Pennsylvania                  ,2392,1674,22,51,645,jun,2023
+Midwest Region                ,18942,11520,566,414,6442,jun,2023
+     East North Central Division   ,11275,6971,298,235,3771,jun,2023
+          Illinois                      ,1481,841,44,80,516,jun,2023
+          Indiana                       ,2772,1720,44,14,994,jun,2023
+          Michigan                      ,1906,1506,26,35,339,jun,2023
+          Ohio                          ,3052,1723,42,103,1184,jun,2023
+          Wisconsin                     ,2064,1181,142,3,738,jun,2023
+     West North Central Division   ,7667,4549,268,179,2671,jun,2023
+          Iowa                          ,1115,720,40,28,327,jun,2023
+          Kansas                        ,750,437,88,7,218,jun,2023
+          Minnesota                     ,2484,1322,36,24,1102,jun,2023
+          Missouri                      ,1642,1088,58,71,425,jun,2023
+          Nebraska                      ,849,438,28,8,375,jun,2023
+          North Dakota                  ,204,176,10,0,18,jun,2023
+          South Dakota                  ,623,368,8,41,206,jun,2023
+South Region                  ,73338,53475,1150,585,18128,jun,2023
+     South Atlantic Division       ,41885,30277,540,161,10907,jun,2023
+          Delaware                      ,632,551,4,0,77,jun,2023
+          District of Columbia          ,290,13,0,0,277,jun,2023
+          Florida                       ,18825,12569,270,50,5936,jun,2023
+          Georgia                       ,5758,4379,44,62,1273,jun,2023
+          Maryland                      ,1210,1074,2,0,134,jun,2023
+          North Carolina                ,7820,6012,122,6,1680,jun,2023
+          South Carolina                ,3778,3505,56,29,188,jun,2023
+          Virginia                      ,3252,1893,38,6,1315,jun,2023
+          West Virginia                 ,320,281,4,8,27,jun,2023
+     East South Central Division   ,7456,6274,140,99,943,jun,2023
+          Alabama                       ,1853,1621,50,6,176,jun,2023
+          Kentucky                      ,1157,835,52,33,237,jun,2023
+          Mississippi                   ,658,628,4,9,17,jun,2023
+          Tennessee                     ,3788,3190,34,51,513,jun,2023
+     West South Central Division   ,23997,16924,470,325,6278,jun,2023
+          Arkansas                      ,1313,1013,78,26,196,jun,2023
+          Louisiana                     ,1270,1140,38,3,89,jun,2023
+          Oklahoma                      ,970,893,42,3,32,jun,2023
+          Texas                         ,20444,13878,312,293,5961,jun,2023
+West Region                   ,32870,20240,1100,655,10875,jun,2023
+     Mountain Division             ,14425,10410,714,343,2958,jun,2023
+          Arizona                       ,3840,3035,456,103,246,jun,2023
+          Colorado                      ,3515,2071,114,55,1275,jun,2023
+          Idaho                         ,1687,1274,52,72,289,jun,2023
+          Montana                       ,443,213,28,59,143,jun,2023
+          Nevada                        ,1528,1305,14,24,185,jun,2023
+          New Mexico                    ,834,716,14,0,104,jun,2023
+          Utah                          ,2416,1649,24,27,716,jun,2023
+          Wyoming                       ,162,147,12,3,0,jun,2023
+     Pacific Division              ,18445,9830,386,312,7917,jun,2023
+          Alaska                        ,94,48,2,4,40,jun,2023
+          California                    ,13326,6776,168,141,6241,jun,2023
+          Hawaii                        ,335,202,16,0,117,jun,2023
+          Oregon                        ,1513,969,44,23,477,jun,2023
+          Washington                    ,3177,1835,156,144,1042,jun,2023
+United States                 ,116711,76502,2348,1699,36162,sep,2023
+Northeast Region              ,8366,4577,266,173,3350,sep,2023
+     New England Division          ,2603,1396,90,69,1048,sep,2023
+          Connecticut                   ,323,167,12,8,136,sep,2023
+          Maine                         ,659,394,22,7,236,sep,2023
+          Massachusetts                 ,1009,402,34,40,533,sep,2023
+          New Hampshire                 ,328,266,10,11,41,sep,2023
+          Rhode Island                  ,71,57,8,0,6,sep,2023
+          Vermont                       ,213,110,4,3,96,sep,2023
+     Middle Atlantic Division      ,5763,3181,176,104,2302,sep,2023
+          New Jersey                    ,2238,1104,90,42,1002,sep,2023
+          New York                      ,1269,778,44,29,418,sep,2023
+          Pennsylvania                  ,2256,1299,42,33,882,sep,2023
+Midwest Region                ,17168,10491,572,480,5625,sep,2023
+     East North Central Division   ,10139,6184,340,269,3346,sep,2023
+          Illinois                      ,1470,781,56,76,557,sep,2023
+          Indiana                       ,2527,1570,50,7,900,sep,2023
+          Michigan                      ,1691,1367,28,120,176,sep,2023
+          Ohio                          ,2485,1369,78,62,976,sep,2023
+          Wisconsin                     ,1966,1097,128,4,737,sep,2023
+     West North Central Division   ,7029,4307,232,211,2279,sep,2023
+          Iowa                          ,931,559,44,76,252,sep,2023
+          Kansas                        ,649,443,98,16,92,sep,2023
+          Minnesota                     ,1982,1269,30,27,656,sep,2023
+          Missouri                      ,1489,1017,36,25,411,sep,2023
+          Nebraska                      ,648,372,4,14,258,sep,2023
+          North Dakota                  ,263,197,8,4,54,sep,2023
+          South Dakota                  ,1067,450,12,49,556,sep,2023
+South Region                  ,64067,45743,942,703,16679,sep,2023
+     South Atlantic Division       ,37155,27098,400,218,9439,sep,2023
+          Delaware                      ,468,429,4,0,35,sep,2023
+          District of Columbia          ,537,9,8,3,517,sep,2023
+          Florida                       ,15871,11590,204,51,4026,sep,2023
+          Georgia                       ,4651,3769,30,30,822,sep,2023
+          Maryland                      ,951,784,2,8,157,sep,2023
+          North Carolina                ,8318,5566,54,15,2683,sep,2023
+          South Carolina                ,3378,3022,34,99,223,sep,2023
+          Virginia                      ,2655,1627,62,9,957,sep,2023
+          West Virginia                 ,326,302,2,3,19,sep,2023
+     East South Central Division   ,6319,4971,96,132,1120,sep,2023
+          Alabama                       ,1346,1294,4,4,44,sep,2023
+          Kentucky                      ,1377,585,50,31,711,sep,2023
+          Mississippi                   ,605,573,14,6,12,sep,2023
+          Tennessee                     ,2991,2519,28,91,353,sep,2023
+     West South Central Division   ,20593,13674,446,353,6120,sep,2023
+          Arkansas                      ,889,759,28,63,39,sep,2023
+          Louisiana                     ,1386,857,84,0,445,sep,2023
+          Oklahoma                      ,1245,857,74,51,263,sep,2023
+          Texas                         ,17073,11201,260,239,5373,sep,2023
+West Region                   ,27110,15691,568,343,10508,sep,2023
+     Mountain Division             ,14399,8785,238,125,5251,sep,2023
+          Arizona                       ,5793,3135,132,20,2506,sep,2023
+          Colorado                      ,2255,1519,30,27,679,sep,2023
+          Idaho                         ,2013,887,36,23,1067,sep,2023
+          Montana                       ,305,239,10,9,47,sep,2023
+          Nevada                        ,1351,1118,14,17,202,sep,2023
+          New Mexico                    ,595,561,8,0,26,sep,2023
+          Utah                          ,1957,1211,8,25,713,sep,2023
+          Wyoming                       ,130,115,0,4,11,sep,2023
+     Pacific Division              ,12711,6906,330,218,5257,sep,2023
+          Alaska                        ,64,42,6,0,16,sep,2023
+          California                    ,8212,4359,160,127,3566,sep,2023
+          Hawaii                        ,387,174,10,0,203,sep,2023
+          Oregon                        ,1173,829,58,4,282,sep,2023
+          Washington                    ,2875,1502,96,87,1190,sep,2023
+United States                 ,125279,79781,2824,1684,40990,oct,2023
+Northeast Region              ,10472,4909,356,202,5005,oct,2023
+     New England Division          ,2581,1516,84,57,924,oct,2023
+          Connecticut                   ,450,176,4,0,270,oct,2023
+          Maine                         ,471,390,14,6,61,oct,2023
+          Massachusetts                 ,841,465,36,24,316,oct,2023
+          New Hampshire                 ,410,313,20,13,64,oct,2023
+          Rhode Island                  ,80,67,4,3,6,oct,2023
+          Vermont                       ,329,105,6,11,207,oct,2023
+     Middle Atlantic Division      ,7891,3393,272,145,4081,oct,2023
+          New Jersey                    ,2896,1192,180,64,1460,oct,2023
+          New York                      ,2060,854,48,47,1111,oct,2023
+          Pennsylvania                  ,2935,1347,44,34,1510,oct,2023
+Midwest Region                ,16594,10630,602,498,4864,oct,2023
+     East North Central Division   ,10209,6335,342,312,3220,oct,2023
+          Illinois                      ,1473,844,28,57,544,oct,2023
+          Indiana                       ,3197,1512,74,32,1579,oct,2023
+          Michigan                      ,1763,1333,42,128,260,oct,2023
+          Ohio                          ,2046,1548,38,87,373,oct,2023
+          Wisconsin                     ,1730,1098,160,8,464,oct,2023
+     West North Central Division   ,6385,4295,260,186,1644,oct,2023
+          Iowa                          ,912,685,30,33,164,oct,2023
+          Kansas                        ,565,470,70,8,17,oct,2023
+          Minnesota                     ,1665,1179,46,26,414,oct,2023
+          Missouri                      ,1244,991,30,93,130,oct,2023
+          Nebraska                      ,1316,522,56,7,731,oct,2023
+          North Dakota                  ,175,159,16,0,0,oct,2023
+          South Dakota                  ,508,289,12,19,188,oct,2023
+South Region                  ,70633,47770,1170,663,21030,oct,2023
+     South Atlantic Division       ,39112,27180,462,262,11208,oct,2023
+          Delaware                      ,586,550,0,0,36,oct,2023
+          District of Columbia          ,185,11,10,0,164,oct,2023
+          Florida                       ,14930,11269,192,136,3333,oct,2023
+          Georgia                       ,5487,3803,52,68,1564,oct,2023
+          Maryland                      ,1573,820,2,12,739,oct,2023
+          North Carolina                ,9180,5588,64,23,3505,oct,2023
+          South Carolina                ,3605,3121,80,12,392,oct,2023
+          Virginia                      ,3304,1779,56,11,1458,oct,2023
+          West Virginia                 ,262,239,6,0,17,oct,2023
+     East South Central Division   ,7466,5276,74,93,2023,oct,2023
+          Alabama                       ,1242,1204,2,6,30,oct,2023
+          Kentucky                      ,1717,682,34,10,991,oct,2023
+          Mississippi                   ,604,575,2,3,24,oct,2023
+          Tennessee                     ,3903,2815,36,74,978,oct,2023
+     West South Central Division   ,24055,15314,634,308,7799,oct,2023
+          Arkansas                      ,1123,772,88,31,232,oct,2023
+          Louisiana                     ,1126,989,70,3,64,oct,2023
+          Oklahoma                      ,976,837,94,24,21,oct,2023
+          Texas                         ,20830,12716,382,250,7482,oct,2023
+West Region                   ,27580,16472,696,321,10091,oct,2023
+     Mountain Division             ,14559,9133,350,179,4897,oct,2023
+          Arizona                       ,5110,3275,222,6,1607,oct,2023
+          Colorado                      ,2934,1777,62,40,1055,oct,2023
+          Idaho                         ,1624,1141,28,41,414,oct,2023
+          Montana                       ,467,197,4,10,256,oct,2023
+          Nevada                        ,1672,851,8,10,803,oct,2023
+          New Mexico                    ,747,533,4,0,210,oct,2023
+          Utah                          ,1852,1258,14,51,529,oct,2023
+          Wyoming                       ,153,101,8,21,23,oct,2023
+     Pacific Division              ,13021,7339,346,142,5194,oct,2023
+          Alaska                        ,82,44,6,0,32,oct,2023
+          California                    ,8338,4673,192,76,3397,oct,2023
+          Hawaii                        ,343,200,10,0,133,oct,2023
+          Oregon                        ,1301,840,18,11,432,oct,2023
+          Washington                    ,2957,1582,120,55,1200,oct,2023
+United States                 ,141799,88312,3510,2096,47881,aug,2023
+Northeast Region              ,11030,5160,356,286,5228,aug,2023
+     New England Division          ,3140,1724,136,91,1189,aug,2023
+          Connecticut                   ,519,188,10,12,309,aug,2023
+          Maine                         ,691,500,22,14,155,aug,2023
+          Massachusetts                 ,1117,522,62,48,485,aug,2023
+          New Hampshire                 ,491,328,28,7,128,aug,2023
+          Rhode Island                  ,73,63,6,4,0,aug,2023
+          Vermont                       ,249,123,8,6,112,aug,2023
+     Middle Atlantic Division      ,7890,3436,220,195,4039,aug,2023
+          New Jersey                    ,3145,1068,134,71,1872,aug,2023
+          New York                      ,2868,913,50,74,1831,aug,2023
+          Pennsylvania                  ,1877,1455,36,50,336,aug,2023
+Midwest Region                ,20412,11643,590,454,7725,aug,2023
+     East North Central Division   ,11067,6929,270,242,3626,aug,2023
+          Illinois                      ,1435,830,34,90,481,aug,2023
+          Indiana                       ,2165,1738,44,18,365,aug,2023
+          Michigan                      ,2298,1530,36,66,666,aug,2023
+          Ohio                          ,2977,1568,36,58,1315,aug,2023
+          Wisconsin                     ,2192,1263,120,10,799,aug,2023
+     West North Central Division   ,9345,4714,320,212,4099,aug,2023
+          Iowa                          ,976,788,74,38,76,aug,2023
+          Kansas                        ,1413,507,96,66,744,aug,2023
+          Minnesota                     ,3185,1257,36,39,1853,aug,2023
+          Missouri                      ,1718,1110,50,17,541,aug,2023
+          Nebraska                      ,892,471,10,11,400,aug,2023
+          North Dakota                  ,403,195,22,8,178,aug,2023
+          South Dakota                  ,758,386,32,33,307,aug,2023
+South Region                  ,76502,52503,1728,829,21442,aug,2023
+     South Atlantic Division       ,41386,29410,698,157,11121,aug,2023
+          Delaware                      ,662,502,22,0,138,aug,2023
+          District of Columbia          ,120,17,10,0,93,aug,2023
+          Florida                       ,17996,12214,406,67,5309,aug,2023
+          Georgia                       ,5917,4350,42,34,1491,aug,2023
+          Maryland                      ,1575,1006,6,0,563,aug,2023
+          North Carolina                ,7365,5878,126,14,1347,aug,2023
+          South Carolina                ,4084,3428,70,18,568,aug,2023
+          Virginia                      ,3386,1762,16,13,1595,aug,2023
+          West Virginia                 ,281,253,0,11,17,aug,2023
+     East South Central Division   ,9733,5862,130,286,3455,aug,2023
+          Alabama                       ,1672,1436,10,7,219,aug,2023
+          Kentucky                      ,1389,806,64,235,284,aug,2023
+          Mississippi                   ,679,647,10,3,19,aug,2023
+          Tennessee                     ,5993,2973,46,41,2933,aug,2023
+     West South Central Division   ,25383,17231,900,386,6866,aug,2023
+          Arkansas                      ,1053,808,134,30,81,aug,2023
+          Louisiana                     ,1284,1100,56,9,119,aug,2023
+          Oklahoma                      ,1323,1036,158,8,121,aug,2023
+          Texas                         ,21723,14287,552,339,6545,aug,2023
+West Region                   ,33855,19006,836,527,13486,aug,2023
+     Mountain Division             ,15443,10573,400,258,4212,aug,2023
+          Arizona                       ,4967,3615,224,11,1117,aug,2023
+          Colorado                      ,3304,1847,110,25,1322,aug,2023
+          Idaho                         ,1880,1313,24,42,501,aug,2023
+          Montana                       ,395,284,10,15,86,aug,2023
+          Nevada                        ,1298,1031,6,54,207,aug,2023
+          New Mexico                    ,851,759,10,49,33,aug,2023
+          Utah                          ,2591,1582,12,51,946,aug,2023
+          Wyoming                       ,157,142,4,11,0,aug,2023
+     Pacific Division              ,18412,8433,436,269,9274,aug,2023
+          Alaska                        ,44,40,4,0,0,aug,2023
+          California                    ,12630,5464,250,186,6730,aug,2023
+          Hawaii                        ,392,224,16,0,152,aug,2023
+          Oregon                        ,1654,971,48,7,628,aug,2023
+          Washington                    ,3692,1734,118,76,1764,aug,2023
+United States                 ,139585,88913,3320,1517,45835,may,2023
+Northeast Region              ,12302,5511,262,187,6342,may,2023
+     New England Division          ,3541,1757,98,61,1625,may,2023
+          Connecticut                   ,548,192,14,0,342,may,2023
+          Maine                         ,699,508,28,10,153,may,2023
+          Massachusetts                 ,1481,501,24,41,915,may,2023
+          New Hampshire                 ,472,330,12,7,123,may,2023
+          Rhode Island                  ,131,69,8,0,54,may,2023
+          Vermont                       ,210,157,12,3,38,may,2023
+     Middle Atlantic Division      ,8761,3754,164,126,4717,may,2023
+          New Jersey                    ,3757,1173,90,70,2424,may,2023
+          New York                      ,2586,930,56,23,1577,may,2023
+          Pennsylvania                  ,2418,1651,18,33,716,may,2023
+Midwest Region                ,19000,11352,614,373,6661,may,2023
+     East North Central Division   ,9888,6669,280,192,2747,may,2023
+          Illinois                      ,1418,899,40,46,433,may,2023
+          Indiana                       ,2522,1677,36,0,809,may,2023
+          Michigan                      ,1614,1303,34,39,238,may,2023
+          Ohio                          ,2327,1516,44,63,704,may,2023
+          Wisconsin                     ,2007,1274,126,44,563,may,2023
+     West North Central Division   ,9112,4683,334,181,3914,may,2023
+          Iowa                          ,1327,782,28,45,472,may,2023
+          Kansas                        ,1132,505,150,14,463,may,2023
+          Minnesota                     ,2847,1301,22,17,1507,may,2023
+          Missouri                      ,1818,1079,78,28,633,may,2023
+          Nebraska                      ,777,463,16,40,258,may,2023
+          North Dakota                  ,450,215,20,4,211,may,2023
+          South Dakota                  ,761,338,20,33,370,may,2023
+South Region                  ,76042,52558,1682,573,21229,may,2023
+     South Atlantic Division       ,41485,29714,508,129,11134,may,2023
+          Delaware                      ,642,550,14,0,78,may,2023
+          District of Columbia          ,35,25,2,0,8,may,2023
+          Florida                       ,15062,11411,204,27,3420,may,2023
+          Georgia                       ,7066,4357,64,64,2581,may,2023
+          Maryland                      ,1744,985,2,0,757,may,2023
+          North Carolina                ,9184,6375,136,6,2667,may,2023
+          South Carolina                ,4258,3520,58,14,666,may,2023
+          Virginia                      ,3161,2176,28,18,939,may,2023
+          West Virginia                 ,333,315,0,0,18,may,2023
+     East South Central Division   ,8246,6105,168,77,1896,may,2023
+          Alabama                       ,2445,1639,58,14,734,may,2023
+          Kentucky                      ,1147,741,54,20,332,may,2023
+          Mississippi                   ,690,661,4,6,19,may,2023
+          Tennessee                     ,3964,3064,52,37,811,may,2023
+     West South Central Division   ,26311,16739,1006,367,8199,may,2023
+          Arkansas                      ,1053,878,40,25,110,may,2023
+          Louisiana                     ,1351,1194,56,6,95,may,2023
+          Oklahoma                      ,1929,1082,98,23,726,may,2023
+          Texas                         ,21978,13585,812,313,7268,may,2023
+West Region                   ,32241,19492,762,384,11603,may,2023
+     Mountain Division             ,16339,10493,342,222,5282,may,2023
+          Arizona                       ,4534,3182,172,42,1138,may,2023
+          Colorado                      ,4311,1990,72,22,2227,may,2023
+          Idaho                         ,1765,1223,18,21,503,may,2023
+          Montana                       ,573,427,10,24,112,may,2023
+          Nevada                        ,2224,1344,38,18,824,may,2023
+          New Mexico                    ,658,645,6,0,7,may,2023
+          Utah                          ,2091,1511,22,92,466,may,2023
+          Wyoming                       ,183,171,4,3,5,may,2023
+     Pacific Division              ,15902,8999,420,162,6321,may,2023
+          Alaska                        ,55,49,6,0,0,may,2023
+          California                    ,10066,6003,220,98,3745,may,2023
+          Hawaii                        ,224,214,10,0,0,may,2023
+          Oregon                        ,1602,951,54,16,581,may,2023
+          Washington                    ,3955,1782,130,48,1995,may,2023

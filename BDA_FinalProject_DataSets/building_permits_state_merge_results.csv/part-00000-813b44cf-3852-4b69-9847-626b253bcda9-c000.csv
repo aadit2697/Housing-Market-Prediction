@@ -1,0 +1,5331 @@
+Region,Total,Month,Year,StateName
+united states,117572,mar,2018,united states
+northeast,10470,mar,2018,northeast
+new england,2362,mar,2018,NE
+connecticut,321,mar,2018,CT
+maine,248,mar,2018,ME
+massachusetts,1291,mar,2018,MA
+new hampshire,247,mar,2018,NH
+rhode island,118,mar,2018,RI
+vermont,137,mar,2018,VT
+middle atlantic,8108,mar,2018,middle atlantic
+new jersey,2319,mar,2018,NJ
+new york,3841,mar,2018,NY
+pennsylvania,1948,mar,2018,PA
+midwest,15918,mar,2018,midwest
+east north central d,9549,mar,2018,east north central d
+illinois,2224,mar,2018,IL
+indiana,2360,mar,2018,IN
+michigan,1644,mar,2018,MI
+ohio,1799,mar,2018,OH
+wisconsin,1522,mar,2018,WI
+west north central d,6369,mar,2018,west north central d
+iowa,1025,mar,2018,IA
+kansas,773,mar,2018,KS
+minnesota,1650,mar,2018,MN
+missouri,1789,mar,2018,MO
+nebraska,585,mar,2018,NE
+north dakota,129,mar,2018,ND
+south dakota,418,mar,2018,SD
+south,57301,mar,2018,south
+south atlantic,32267,mar,2018,south atlantic
+delaware,507,mar,2018,DE
+district of columbia,359,mar,2018,district of columbia
+florida,11321,mar,2018,FL
+georgia,5989,mar,2018,GA
+maryland,1990,mar,2018,MD
+north carolina,5582,mar,2018,NC
+south carolina,3337,mar,2018,SC
+virginia,2914,mar,2018,VA
+west virginia,268,mar,2018,WV
+east south central d,5956,mar,2018,east south central d
+alabama,1136,mar,2018,AL
+kentucky,1230,mar,2018,KY
+mississippi,568,mar,2018,MS
+tennessee,3022,mar,2018,TN
+west south central d,19078,mar,2018,west south central d
+arkansas,1244,mar,2018,AR
+louisiana,1449,mar,2018,LA
+oklahoma,899,mar,2018,OK
+texas,15486,mar,2018,TX
+west,33883,mar,2018,west
+mountain,15175,mar,2018,mountain
+arizona,3132,mar,2018,AZ
+colorado,5473,mar,2018,CO
+idaho,1480,mar,2018,ID
+montana,295,mar,2018,MT
+nevada,1577,mar,2018,NV
+new mexico,635,mar,2018,NM
+utah,2417,mar,2018,UT
+wyoming,166,mar,2018,WY
+pacific,18708,mar,2018,pacific
+alaska,140,mar,2018,AK
+california,11546,mar,2018,CA
+hawaii,355,mar,2018,HI
+oregon,1661,mar,2018,OR
+washington,5006,mar,2018,WA
+united states,92091,feb,2018,united states
+northeast,8197,feb,2018,northeast
+new england,2100,feb,2018,NE
+connecticut,470,feb,2018,CT
+maine,291,feb,2018,ME
+massachusetts,864,feb,2018,MA
+new hampshire,314,feb,2018,NH
+rhode island,89,feb,2018,RI
+vermont,72,feb,2018,VT
+middle atlantic,6097,feb,2018,middle atlantic
+new jersey,2235,feb,2018,NJ
+new york,2276,feb,2018,NY
+pennsylvania,1586,feb,2018,PA
+midwest,9748,feb,2018,midwest
+east north central d,5785,feb,2018,east north central d
+illinois,946,feb,2018,IL
+indiana,1269,feb,2018,IN
+michigan,1125,feb,2018,MI
+ohio,1545,feb,2018,OH
+wisconsin,900,feb,2018,WI
+west north central d,3963,feb,2018,west north central d
+iowa,406,feb,2018,IA
+kansas,401,feb,2018,KS
+minnesota,1221,feb,2018,MN
+missouri,858,feb,2018,MO
+nebraska,680,feb,2018,NE
+north dakota,44,feb,2018,ND
+south dakota,353,feb,2018,SD
+south,47702,feb,2018,south
+south atlantic,28139,feb,2018,south atlantic
+delaware,445,feb,2018,DE
+district of columbia,275,feb,2018,district of columbia
+florida,10235,feb,2018,FL
+georgia,3956,feb,2018,GA
+maryland,1055,feb,2018,MD
+north carolina,6325,feb,2018,NC
+south carolina,2608,feb,2018,SC
+virginia,3048,feb,2018,VA
+west virginia,192,feb,2018,WV
+east south central d,4830,feb,2018,east south central d
+alabama,1225,feb,2018,AL
+kentucky,700,feb,2018,KY
+mississippi,482,feb,2018,MS
+tennessee,2423,feb,2018,TN
+west south central d,14733,feb,2018,west south central d
+arkansas,654,feb,2018,AR
+louisiana,1028,feb,2018,LA
+oklahoma,847,feb,2018,OK
+texas,12204,feb,2018,TX
+west,26444,feb,2018,west
+mountain,12878,feb,2018,mountain
+arizona,3005,feb,2018,AZ
+colorado,4177,feb,2018,CO
+idaho,1226,feb,2018,ID
+montana,179,feb,2018,MT
+nevada,1588,feb,2018,NV
+new mexico,440,feb,2018,NM
+utah,2150,feb,2018,UT
+wyoming,113,feb,2018,WY
+pacific,13566,feb,2018,pacific
+alaska,111,feb,2018,AK
+california,8016,feb,2018,CA
+hawaii,701,feb,2018,HI
+oregon,1694,feb,2018,OR
+washington,3044,feb,2018,WA
+united states,95351,dec,2018,united states
+northeast,9100,dec,2018,northeast
+new england,2492,dec,2018,NE
+connecticut,525,dec,2018,CT
+maine,282,dec,2018,ME
+massachusetts,1339,dec,2018,MA
+new hampshire,185,dec,2018,NH
+rhode island,64,dec,2018,RI
+vermont,97,dec,2018,VT
+middle atlantic,6608,dec,2018,middle atlantic
+new jersey,1701,dec,2018,NJ
+new york,3277,dec,2018,NY
+pennsylvania,1630,dec,2018,PA
+midwest,8283,dec,2018,midwest
+east north central d,5128,dec,2018,east north central d
+illinois,1204,dec,2018,IL
+indiana,1091,dec,2018,IN
+michigan,981,dec,2018,MI
+ohio,1155,dec,2018,OH
+wisconsin,697,dec,2018,WI
+west north central d,3155,dec,2018,west north central d
+iowa,417,dec,2018,IA
+kansas,379,dec,2018,KS
+minnesota,987,dec,2018,MN
+missouri,654,dec,2018,MO
+nebraska,435,dec,2018,NE
+north dakota,112,dec,2018,ND
+south dakota,171,dec,2018,SD
+south,49321,dec,2018,south
+south atlantic,27548,dec,2018,south atlantic
+delaware,500,dec,2018,DE
+district of columbia,637,dec,2018,district of columbia
+florida,11548,dec,2018,FL
+georgia,3316,dec,2018,GA
+maryland,1314,dec,2018,MD
+north carolina,5512,dec,2018,NC
+south carolina,2843,dec,2018,SC
+virginia,1665,dec,2018,VA
+west virginia,213,dec,2018,WV
+east south central d,4387,dec,2018,east south central d
+alabama,865,dec,2018,AL
+kentucky,887,dec,2018,KY
+mississippi,496,dec,2018,MS
+tennessee,2139,dec,2018,TN
+west south central d,17386,dec,2018,west south central d
+arkansas,789,dec,2018,AR
+louisiana,979,dec,2018,LA
+oklahoma,634,dec,2018,OK
+texas,14984,dec,2018,TX
+west,28647,dec,2018,west
+mountain,12521,dec,2018,mountain
+arizona,3166,dec,2018,AZ
+colorado,4293,dec,2018,CO
+idaho,938,dec,2018,ID
+montana,324,dec,2018,MT
+nevada,1140,dec,2018,NV
+new mexico,349,dec,2018,NM
+utah,2210,dec,2018,UT
+wyoming,101,dec,2018,WY
+pacific,16126,dec,2018,pacific
+alaska,136,dec,2018,AK
+california,10709,dec,2018,CA
+hawaii,222,dec,2018,HI
+oregon,1495,dec,2018,OR
+washington,3564,dec,2018,WA
+united states,119860,apr,2018,united states
+northeast,7838,apr,2018,northeast
+new england,1865,apr,2018,NE
+connecticut,290,apr,2018,CT
+maine,343,apr,2018,ME
+massachusetts,813,apr,2018,MA
+new hampshire,226,apr,2018,NH
+rhode island,93,apr,2018,RI
+vermont,100,apr,2018,VT
+middle atlantic,5973,apr,2018,middle atlantic
+new jersey,1611,apr,2018,NJ
+new york,2300,apr,2018,NY
+pennsylvania,2062,apr,2018,PA
+midwest,18194,apr,2018,midwest
+east north central d,10563,apr,2018,east north central d
+illinois,1985,apr,2018,IL
+indiana,2345,apr,2018,IN
+michigan,2129,apr,2018,MI
+ohio,2089,apr,2018,OH
+wisconsin,2015,apr,2018,WI
+west north central d,7631,apr,2018,west north central d
+iowa,1294,apr,2018,IA
+kansas,792,apr,2018,KS
+minnesota,1860,apr,2018,MN
+missouri,1487,apr,2018,MO
+nebraska,1410,apr,2018,NE
+north dakota,321,apr,2018,ND
+south dakota,467,apr,2018,SD
+south,63965,apr,2018,south
+south atlantic,33206,apr,2018,south atlantic
+delaware,532,apr,2018,DE
+district of columbia,63,apr,2018,district of columbia
+florida,13793,apr,2018,FL
+georgia,4471,apr,2018,GA
+maryland,1555,apr,2018,MD
+north carolina,6368,apr,2018,NC
+south carolina,3219,apr,2018,SC
+virginia,2909,apr,2018,VA
+west virginia,296,apr,2018,WV
+east south central d,7456,apr,2018,east south central d
+alabama,1353,apr,2018,AL
+kentucky,1769,apr,2018,KY
+mississippi,676,apr,2018,MS
+tennessee,3658,apr,2018,TN
+west south central d,23303,apr,2018,west south central d
+arkansas,1088,apr,2018,AR
+louisiana,1480,apr,2018,LA
+oklahoma,940,apr,2018,OK
+texas,19795,apr,2018,TX
+west,29863,apr,2018,west
+mountain,13588,apr,2018,mountain
+arizona,4261,apr,2018,AZ
+colorado,3672,apr,2018,CO
+idaho,1117,apr,2018,ID
+montana,422,apr,2018,MT
+nevada,1510,apr,2018,NV
+new mexico,429,apr,2018,NM
+utah,2028,apr,2018,UT
+wyoming,149,apr,2018,WY
+pacific,16275,apr,2018,pacific
+alaska,129,apr,2018,AK
+california,10136,apr,2018,CA
+hawaii,265,apr,2018,HI
+oregon,1595,apr,2018,OR
+washington,4150,apr,2018,WA
+united states,121639,jun,2018,united states
+northeast,11496,jun,2018,northeast
+new england,3184,jun,2018,NE
+connecticut,413,jun,2018,CT
+maine,467,jun,2018,ME
+massachusetts,1587,jun,2018,MA
+new hampshire,476,jun,2018,NH
+rhode island,88,jun,2018,RI
+vermont,153,jun,2018,VT
+middle atlantic,8312,jun,2018,middle atlantic
+new jersey,2909,jun,2018,NJ
+new york,3276,jun,2018,NY
+pennsylvania,2127,jun,2018,PA
+midwest,16483,jun,2018,midwest
+east north central d,9054,jun,2018,east north central d
+illinois,1896,jun,2018,IL
+indiana,1710,jun,2018,IN
+michigan,1758,jun,2018,MI
+ohio,1737,jun,2018,OH
+wisconsin,1953,jun,2018,WI
+west north central d,7429,jun,2018,west north central d
+iowa,1209,jun,2018,IA
+kansas,586,jun,2018,KS
+minnesota,2621,jun,2018,MN
+missouri,1797,jun,2018,MO
+nebraska,570,jun,2018,NE
+north dakota,304,jun,2018,ND
+south dakota,342,jun,2018,SD
+south,61094,jun,2018,south
+south atlantic,31752,jun,2018,south atlantic
+delaware,489,jun,2018,DE
+district of columbia,799,jun,2018,district of columbia
+florida,12957,jun,2018,FL
+georgia,4016,jun,2018,GA
+maryland,1334,jun,2018,MD
+north carolina,5519,jun,2018,NC
+south carolina,3438,jun,2018,SC
+virginia,2886,jun,2018,VA
+west virginia,314,jun,2018,WV
+east south central d,7106,jun,2018,east south central d
+alabama,1225,jun,2018,AL
+kentucky,1466,jun,2018,KY
+mississippi,799,jun,2018,MS
+tennessee,3616,jun,2018,TN
+west south central d,22236,jun,2018,west south central d
+arkansas,916,jun,2018,AR
+louisiana,1401,jun,2018,LA
+oklahoma,833,jun,2018,OK
+texas,19086,jun,2018,TX
+west,32566,jun,2018,west
+mountain,13458,jun,2018,mountain
+arizona,3557,jun,2018,AZ
+colorado,3674,jun,2018,CO
+idaho,1400,jun,2018,ID
+montana,436,jun,2018,MT
+nevada,1163,jun,2018,NV
+new mexico,497,jun,2018,NM
+utah,2535,jun,2018,UT
+wyoming,196,jun,2018,WY
+pacific,19108,jun,2018,pacific
+alaska,221,jun,2018,AK
+california,12952,jun,2018,CA
+hawaii,464,jun,2018,HI
+oregon,1347,jun,2018,OR
+washington,4124,jun,2018,WA
+united states,113033,jul,2018,united states
+northeast,11138,jul,2018,northeast
+new england,2486,jul,2018,NE
+connecticut,494,jul,2018,CT
+maine,347,jul,2018,ME
+massachusetts,1038,jul,2018,MA
+new hampshire,321,jul,2018,NH
+rhode island,99,jul,2018,RI
+vermont,187,jul,2018,VT
+middle atlantic,8652,jul,2018,middle atlantic
+new jersey,1960,jul,2018,NJ
+new york,4095,jul,2018,NY
+pennsylvania,2597,jul,2018,PA
+midwest,16504,jul,2018,midwest
+east north central d,9656,jul,2018,east north central d
+illinois,1621,jul,2018,IL
+indiana,1958,jul,2018,IN
+michigan,1645,jul,2018,MI
+ohio,2603,jul,2018,OH
+wisconsin,1829,jul,2018,WI
+west north central d,6848,jul,2018,west north central d
+iowa,1365,jul,2018,IA
+kansas,714,jul,2018,KS
+minnesota,2595,jul,2018,MN
+missouri,897,jul,2018,MO
+nebraska,604,jul,2018,NE
+north dakota,308,jul,2018,ND
+south dakota,365,jul,2018,SD
+south,57878,jul,2018,south
+south atlantic,32195,jul,2018,south atlantic
+delaware,499,jul,2018,DE
+district of columbia,30,jul,2018,district of columbia
+florida,12952,jul,2018,FL
+georgia,4666,jul,2018,GA
+maryland,1810,jul,2018,MD
+north carolina,6055,jul,2018,NC
+south carolina,3021,jul,2018,SC
+virginia,2956,jul,2018,VA
+west virginia,206,jul,2018,WV
+east south central d,6796,jul,2018,east south central d
+alabama,1278,jul,2018,AL
+kentucky,1097,jul,2018,KY
+mississippi,677,jul,2018,MS
+tennessee,3744,jul,2018,TN
+west south central d,18887,jul,2018,west south central d
+arkansas,774,jul,2018,AR
+louisiana,1148,jul,2018,LA
+oklahoma,794,jul,2018,OK
+texas,16171,jul,2018,TX
+west,27513,jul,2018,west
+mountain,13245,jul,2018,mountain
+arizona,4509,jul,2018,AZ
+colorado,3283,jul,2018,CO
+idaho,1205,jul,2018,ID
+montana,398,jul,2018,MT
+nevada,1236,jul,2018,NV
+new mexico,413,jul,2018,NM
+utah,2032,jul,2018,UT
+wyoming,169,jul,2018,WY
+pacific,14268,jul,2018,pacific
+alaska,133,jul,2018,AK
+california,9497,jul,2018,CA
+hawaii,270,jul,2018,HI
+oregon,1345,jul,2018,OR
+washington,3023,jul,2018,WA
+united states,100999,nov,2018,united states
+northeast,9450,nov,2018,northeast
+new england,2177,nov,2018,NE
+connecticut,354,nov,2018,CT
+maine,335,nov,2018,ME
+massachusetts,1023,nov,2018,MA
+new hampshire,232,nov,2018,NH
+rhode island,80,nov,2018,RI
+vermont,153,nov,2018,VT
+middle atlantic,7273,nov,2018,middle atlantic
+new jersey,2058,nov,2018,NJ
+new york,3575,nov,2018,NY
+pennsylvania,1640,nov,2018,PA
+midwest,13880,nov,2018,midwest
+east north central d,8437,nov,2018,east north central d
+illinois,2494,nov,2018,IL
+indiana,1552,nov,2018,IN
+michigan,1353,nov,2018,MI
+ohio,1870,nov,2018,OH
+wisconsin,1168,nov,2018,WI
+west north central d,5443,nov,2018,west north central d
+iowa,759,nov,2018,IA
+kansas,499,nov,2018,KS
+minnesota,1787,nov,2018,MN
+missouri,1357,nov,2018,MO
+nebraska,740,nov,2018,NE
+north dakota,111,nov,2018,ND
+south dakota,190,nov,2018,SD
+south,52198,nov,2018,south
+south atlantic,29365,nov,2018,south atlantic
+delaware,548,nov,2018,DE
+district of columbia,662,nov,2018,district of columbia
+florida,12159,nov,2018,FL
+georgia,4924,nov,2018,GA
+maryland,1477,nov,2018,MD
+north carolina,4571,nov,2018,NC
+south carolina,2718,nov,2018,SC
+virginia,2073,nov,2018,VA
+west virginia,233,nov,2018,WV
+east south central d,5078,nov,2018,east south central d
+alabama,1111,nov,2018,AL
+kentucky,792,nov,2018,KY
+mississippi,496,nov,2018,MS
+tennessee,2679,nov,2018,TN
+west south central d,17755,nov,2018,west south central d
+arkansas,759,nov,2018,AR
+louisiana,983,nov,2018,LA
+oklahoma,748,nov,2018,OK
+texas,15265,nov,2018,TX
+west,25471,nov,2018,west
+mountain,11589,nov,2018,mountain
+arizona,2563,nov,2018,AZ
+colorado,3649,nov,2018,CO
+idaho,1138,nov,2018,ID
+montana,240,nov,2018,MT
+nevada,1632,nov,2018,NV
+new mexico,324,nov,2018,NM
+utah,1910,nov,2018,UT
+wyoming,133,nov,2018,WY
+pacific,13882,nov,2018,pacific
+alaska,106,nov,2018,AK
+california,7741,nov,2018,CA
+hawaii,270,nov,2018,HI
+oregon,1824,nov,2018,OR
+washington,3941,nov,2018,WA
+united states,96674,jan,2018,united states
+northeast,7500,jan,2018,northeast
+new england,2352,jan,2018,NE
+connecticut,342,jan,2018,CT
+maine,193,jan,2018,ME
+massachusetts,1369,jan,2018,MA
+new hampshire,332,jan,2018,NH
+rhode island,59,jan,2018,RI
+vermont,57,jan,2018,VT
+middle atlantic,5148,jan,2018,middle atlantic
+new jersey,1510,jan,2018,NJ
+new york,2382,jan,2018,NY
+pennsylvania,1256,jan,2018,PA
+midwest,9174,jan,2018,midwest
+east north central d,5203,jan,2018,east north central d
+illinois,733,jan,2018,IL
+indiana,1008,jan,2018,IN
+michigan,1209,jan,2018,MI
+ohio,1487,jan,2018,OH
+wisconsin,766,jan,2018,WI
+west north central d,3971,jan,2018,west north central d
+iowa,459,jan,2018,IA
+kansas,451,jan,2018,KS
+minnesota,1706,jan,2018,MN
+missouri,840,jan,2018,MO
+nebraska,313,jan,2018,NE
+north dakota,36,jan,2018,ND
+south dakota,166,jan,2018,SD
+south,53716,jan,2018,south
+south atlantic,29879,jan,2018,south atlantic
+delaware,501,jan,2018,DE
+district of columbia,87,jan,2018,district of columbia
+florida,11346,jan,2018,FL
+georgia,5010,jan,2018,GA
+maryland,1360,jan,2018,MD
+north carolina,6168,jan,2018,NC
+south carolina,2811,jan,2018,SC
+virginia,2437,jan,2018,VA
+west virginia,159,jan,2018,WV
+east south central d,5279,jan,2018,east south central d
+alabama,1212,jan,2018,AL
+kentucky,854,jan,2018,KY
+mississippi,453,jan,2018,MS
+tennessee,2760,jan,2018,TN
+west south central d,18558,jan,2018,west south central d
+arkansas,1278,jan,2018,AR
+louisiana,1168,jan,2018,LA
+oklahoma,905,jan,2018,OK
+texas,15207,jan,2018,TX
+west,26284,jan,2018,west
+mountain,12476,jan,2018,mountain
+arizona,3531,jan,2018,AZ
+colorado,3875,jan,2018,CO
+idaho,911,jan,2018,ID
+montana,138,jan,2018,MT
+nevada,1189,jan,2018,NV
+new mexico,393,jan,2018,NM
+utah,2363,jan,2018,UT
+wyoming,76,jan,2018,WY
+pacific,13808,jan,2018,pacific
+alaska,111,jan,2018,AK
+california,8730,jan,2018,CA
+hawaii,224,jan,2018,HI
+oregon,1905,jan,2018,OR
+washington,2838,jan,2018,WA
+united states,125034,may,2018,united states
+northeast,13507,may,2018,northeast
+new england,3751,may,2018,NE
+connecticut,383,may,2018,CT
+maine,429,may,2018,ME
+massachusetts,2238,may,2018,MA
+new hampshire,377,may,2018,NH
+rhode island,152,may,2018,RI
+vermont,172,may,2018,VT
+middle atlantic,9756,may,2018,middle atlantic
+new jersey,2353,may,2018,NJ
+new york,4844,may,2018,NY
+pennsylvania,2559,may,2018,PA
+midwest,21594,may,2018,midwest
+east north central d,12863,may,2018,east north central d
+illinois,2998,may,2018,IL
+indiana,2537,may,2018,IN
+michigan,2148,may,2018,MI
+ohio,3147,may,2018,OH
+wisconsin,2033,may,2018,WI
+west north central d,8731,may,2018,west north central d
+iowa,1279,may,2018,IA
+kansas,1001,may,2018,KS
+minnesota,2908,may,2018,MN
+missouri,1587,may,2018,MO
+nebraska,781,may,2018,NE
+north dakota,571,may,2018,ND
+south dakota,604,may,2018,SD
+south,58412,may,2018,south
+south atlantic,31415,may,2018,south atlantic
+delaware,677,may,2018,DE
+district of columbia,112,may,2018,district of columbia
+florida,11192,may,2018,FL
+georgia,5600,may,2018,GA
+maryland,1391,may,2018,MD
+north carolina,6649,may,2018,NC
+south carolina,3072,may,2018,SC
+virginia,2432,may,2018,VA
+west virginia,290,may,2018,WV
+east south central d,6943,may,2018,east south central d
+alabama,1546,may,2018,AL
+kentucky,1055,may,2018,KY
+mississippi,677,may,2018,MS
+tennessee,3665,may,2018,TN
+west south central d,20054,may,2018,west south central d
+arkansas,792,may,2018,AR
+louisiana,1655,may,2018,LA
+oklahoma,1081,may,2018,OK
+texas,16526,may,2018,TX
+west,31521,may,2018,west
+mountain,14164,may,2018,mountain
+arizona,3621,may,2018,AZ
+colorado,3675,may,2018,CO
+idaho,1311,may,2018,ID
+montana,380,may,2018,MT
+nevada,2080,may,2018,NV
+new mexico,417,may,2018,NM
+utah,2486,may,2018,UT
+wyoming,194,may,2018,WY
+pacific,17357,may,2018,pacific
+alaska,186,may,2018,AK
+california,12089,may,2018,CA
+hawaii,348,may,2018,HI
+oregon,1416,may,2018,OR
+washington,3318,may,2018,WA
+united states,116933,aug,2018,united states
+northeast,8988,aug,2018,northeast
+new england,2240,aug,2018,NE
+connecticut,349,aug,2018,CT
+maine,375,aug,2018,ME
+massachusetts,864,aug,2018,MA
+new hampshire,328,aug,2018,NH
+rhode island,187,aug,2018,RI
+vermont,137,aug,2018,VT
+middle atlantic,6748,aug,2018,middle atlantic
+new jersey,2083,aug,2018,NJ
+new york,2825,aug,2018,NY
+pennsylvania,1840,aug,2018,PA
+midwest,19690,aug,2018,midwest
+east north central d,9755,aug,2018,east north central d
+illinois,1853,aug,2018,IL
+indiana,2098,aug,2018,IN
+michigan,2176,aug,2018,MI
+ohio,1962,aug,2018,OH
+wisconsin,1666,aug,2018,WI
+west north central d,9935,aug,2018,west north central d
+iowa,1016,aug,2018,IA
+kansas,1346,aug,2018,KS
+minnesota,4176,aug,2018,MN
+missouri,1580,aug,2018,MO
+nebraska,789,aug,2018,NE
+north dakota,404,aug,2018,ND
+south dakota,624,aug,2018,SD
+south,59783,aug,2018,south
+south atlantic,33654,aug,2018,south atlantic
+delaware,535,aug,2018,DE
+district of columbia,340,aug,2018,district of columbia
+florida,12439,aug,2018,FL
+georgia,4476,aug,2018,GA
+maryland,2181,aug,2018,MD
+north carolina,7348,aug,2018,NC
+south carolina,3612,aug,2018,SC
+virginia,2214,aug,2018,VA
+west virginia,509,aug,2018,WV
+east south central d,7216,aug,2018,east south central d
+alabama,1381,aug,2018,AL
+kentucky,1526,aug,2018,KY
+mississippi,572,aug,2018,MS
+tennessee,3737,aug,2018,TN
+west south central d,18913,aug,2018,west south central d
+arkansas,715,aug,2018,AR
+louisiana,1767,aug,2018,LA
+oklahoma,867,aug,2018,OK
+texas,15564,aug,2018,TX
+west,28472,aug,2018,west
+mountain,13105,aug,2018,mountain
+arizona,3738,aug,2018,AZ
+colorado,3320,aug,2018,CO
+idaho,1379,aug,2018,ID
+montana,339,aug,2018,MT
+nevada,1352,aug,2018,NV
+new mexico,416,aug,2018,NM
+utah,2406,aug,2018,UT
+wyoming,155,aug,2018,WY
+pacific,15367,aug,2018,pacific
+alaska,165,aug,2018,AK
+california,8826,aug,2018,CA
+hawaii,332,aug,2018,HI
+oregon,1706,aug,2018,OR
+washington,4338,aug,2018,WA
+united states,112566,oct,2018,united states
+northeast,10795,oct,2018,northeast
+new england,2903,oct,2018,NE
+connecticut,439,oct,2018,CT
+maine,485,oct,2018,ME
+massachusetts,1155,oct,2018,MA
+new hampshire,447,oct,2018,NH
+rhode island,91,oct,2018,RI
+vermont,286,oct,2018,VT
+middle atlantic,7892,oct,2018,middle atlantic
+new jersey,2376,oct,2018,NJ
+new york,2748,oct,2018,NY
+pennsylvania,2768,oct,2018,PA
+midwest,19524,oct,2018,midwest
+east north central d,10941,oct,2018,east north central d
+illinois,2117,oct,2018,IL
+indiana,2083,oct,2018,IN
+michigan,2936,oct,2018,MI
+ohio,2167,oct,2018,OH
+wisconsin,1638,oct,2018,WI
+west north central d,8583,oct,2018,west north central d
+iowa,1452,oct,2018,IA
+kansas,1340,oct,2018,KS
+minnesota,2631,oct,2018,MN
+missouri,1671,oct,2018,MO
+nebraska,690,oct,2018,NE
+north dakota,342,oct,2018,ND
+south dakota,457,oct,2018,SD
+south,54687,oct,2018,south
+south atlantic,31278,oct,2018,south atlantic
+delaware,569,oct,2018,DE
+district of columbia,1023,oct,2018,district of columbia
+florida,12123,oct,2018,FL
+georgia,5778,oct,2018,GA
+maryland,1271,oct,2018,MD
+north carolina,5022,oct,2018,NC
+south carolina,2856,oct,2018,SC
+virginia,2415,oct,2018,VA
+west virginia,221,oct,2018,WV
+east south central d,7084,oct,2018,east south central d
+alabama,1130,oct,2018,AL
+kentucky,1303,oct,2018,KY
+mississippi,695,oct,2018,MS
+tennessee,3956,oct,2018,TN
+west south central d,16325,oct,2018,west south central d
+arkansas,707,oct,2018,AR
+louisiana,1285,oct,2018,LA
+oklahoma,1092,oct,2018,OK
+texas,13241,oct,2018,TX
+west,27560,oct,2018,west
+mountain,12708,oct,2018,mountain
+arizona,3156,oct,2018,AZ
+colorado,3326,oct,2018,CO
+idaho,1329,oct,2018,ID
+montana,420,oct,2018,MT
+nevada,1736,oct,2018,NV
+new mexico,423,oct,2018,NM
+utah,2146,oct,2018,UT
+wyoming,172,oct,2018,WY
+pacific,14852,oct,2018,pacific
+alaska,129,oct,2018,AK
+california,8745,oct,2018,CA
+hawaii,364,oct,2018,HI
+oregon,2008,oct,2018,OR
+washington,3606,oct,2018,WA
+united states,99380,sep,2018,united states
+northeast,8165,sep,2018,northeast
+new england,2137,sep,2018,NE
+connecticut,269,sep,2018,CT
+maine,457,sep,2018,ME
+massachusetts,905,sep,2018,MA
+new hampshire,253,sep,2018,NH
+rhode island,72,sep,2018,RI
+vermont,181,sep,2018,VT
+middle atlantic,6028,sep,2018,middle atlantic
+new jersey,2076,sep,2018,NJ
+new york,2122,sep,2018,NY
+pennsylvania,1830,sep,2018,PA
+midwest,15247,sep,2018,midwest
+east north central d,8812,sep,2018,east north central d
+illinois,2482,sep,2018,IL
+indiana,1361,sep,2018,IN
+michigan,1614,sep,2018,MI
+ohio,1478,sep,2018,OH
+wisconsin,1877,sep,2018,WI
+west north central d,6435,sep,2018,west north central d
+iowa,736,sep,2018,IA
+kansas,766,sep,2018,KS
+minnesota,2215,sep,2018,MN
+missouri,870,sep,2018,MO
+nebraska,718,sep,2018,NE
+north dakota,675,sep,2018,ND
+south dakota,455,sep,2018,SD
+south,50248,sep,2018,south
+south atlantic,27369,sep,2018,south atlantic
+delaware,440,sep,2018,DE
+district of columbia,228,sep,2018,district of columbia
+florida,10481,sep,2018,FL
+georgia,4264,sep,2018,GA
+maryland,1535,sep,2018,MD
+north carolina,4247,sep,2018,NC
+south carolina,2620,sep,2018,SC
+virginia,3306,sep,2018,VA
+west virginia,248,sep,2018,WV
+east south central d,6727,sep,2018,east south central d
+alabama,1040,sep,2018,AL
+kentucky,1364,sep,2018,KY
+mississippi,524,sep,2018,MS
+tennessee,3799,sep,2018,TN
+west south central d,16152,sep,2018,west south central d
+arkansas,720,sep,2018,AR
+louisiana,1354,sep,2018,LA
+oklahoma,716,sep,2018,OK
+texas,13362,sep,2018,TX
+west,25720,sep,2018,west
+mountain,12856,sep,2018,mountain
+arizona,3230,sep,2018,AZ
+colorado,4166,sep,2018,CO
+idaho,1407,sep,2018,ID
+montana,396,sep,2018,MT
+nevada,1118,sep,2018,NV
+new mexico,309,sep,2018,NM
+utah,2091,sep,2018,UT
+wyoming,139,sep,2018,WY
+pacific,12864,sep,2018,pacific
+alaska,128,sep,2018,AK
+california,7424,sep,2018,CA
+hawaii,487,sep,2018,HI
+oregon,1433,sep,2018,OR
+washington,3392,sep,2018,WA
+united states,105729,mar,2019,united states
+northeast,9455,mar,2019,northeast
+new england,2613,mar,2019,NE
+connecticut,491,mar,2019,CT
+maine,618,mar,2019,ME
+massachusetts,1026,mar,2019,MA
+new hampshire,264,mar,2019,NH
+rhode island,66,mar,2019,RI
+vermont,148,mar,2019,VT
+middle atlantic,6842,mar,2019,middle atlantic
+new jersey,2288,mar,2019,NJ
+new york,2699,mar,2019,NY
+pennsylvania,1855,mar,2019,PA
+midwest,13862,mar,2019,midwest
+east north central d,7888,mar,2019,east north central d
+illinois,1192,mar,2019,IL
+indiana,1642,mar,2019,IN
+michigan,2053,mar,2019,MI
+ohio,1873,mar,2019,OH
+wisconsin,1128,mar,2019,WI
+west north central d,5974,mar,2019,west north central d
+iowa,617,mar,2019,IA
+kansas,507,mar,2019,KS
+minnesota,2136,mar,2019,MN
+missouri,1787,mar,2019,MO
+nebraska,572,mar,2019,NE
+north dakota,86,mar,2019,ND
+south dakota,269,mar,2019,SD
+south,55557,mar,2019,south
+south atlantic,29628,mar,2019,south atlantic
+delaware,508,mar,2019,DE
+district of columbia,250,mar,2019,district of columbia
+florida,11661,mar,2019,FL
+georgia,4690,mar,2019,GA
+maryland,1788,mar,2019,MD
+north carolina,5174,mar,2019,NC
+south carolina,2734,mar,2019,SC
+virginia,2496,mar,2019,VA
+west virginia,327,mar,2019,WV
+east south central d,6556,mar,2019,east south central d
+alabama,1283,mar,2019,AL
+kentucky,811,mar,2019,KY
+mississippi,585,mar,2019,MS
+tennessee,3877,mar,2019,TN
+west south central d,19373,mar,2019,west south central d
+arkansas,746,mar,2019,AR
+louisiana,1496,mar,2019,LA
+oklahoma,1279,mar,2019,OK
+texas,15852,mar,2019,TX
+west,26855,mar,2019,west
+mountain,11597,mar,2019,mountain
+arizona,3691,mar,2019,AZ
+colorado,3078,mar,2019,CO
+idaho,1125,mar,2019,ID
+montana,316,mar,2019,MT
+nevada,1100,mar,2019,NV
+new mexico,398,mar,2019,NM
+utah,1751,mar,2019,UT
+wyoming,138,mar,2019,WY
+pacific,15258,mar,2019,pacific
+alaska,120,mar,2019,AK
+california,8345,mar,2019,CA
+hawaii,247,mar,2019,HI
+oregon,2252,mar,2019,OR
+washington,4294,mar,2019,WA
+united states,89694,feb,2019,united states
+northeast,8001,feb,2019,northeast
+new england,1871,feb,2019,NE
+connecticut,310,feb,2019,CT
+maine,380,feb,2019,ME
+massachusetts,816,feb,2019,MA
+new hampshire,161,feb,2019,NH
+rhode island,70,feb,2019,RI
+vermont,134,feb,2019,VT
+middle atlantic,6130,feb,2019,middle atlantic
+new jersey,1520,feb,2019,NJ
+new york,2924,feb,2019,NY
+pennsylvania,1686,feb,2019,PA
+midwest,9929,feb,2019,midwest
+east north central d,6359,feb,2019,east north central d
+illinois,1229,feb,2019,IL
+indiana,1279,feb,2019,IN
+michigan,1611,feb,2019,MI
+ohio,1506,feb,2019,OH
+wisconsin,734,feb,2019,WI
+west north central d,3570,feb,2019,west north central d
+iowa,248,feb,2019,IA
+kansas,366,feb,2019,KS
+minnesota,1558,feb,2019,MN
+missouri,838,feb,2019,MO
+nebraska,404,feb,2019,NE
+north dakota,32,feb,2019,ND
+south dakota,124,feb,2019,SD
+south,51405,feb,2019,south
+south atlantic,28721,feb,2019,south atlantic
+delaware,534,feb,2019,DE
+district of columbia,954,feb,2019,district of columbia
+florida,11099,feb,2019,FL
+georgia,4422,feb,2019,GA
+maryland,930,feb,2019,MD
+north carolina,5092,feb,2019,NC
+south carolina,2815,feb,2019,SC
+virginia,2610,feb,2019,VA
+west virginia,265,feb,2019,WV
+east south central d,4771,feb,2019,east south central d
+alabama,1089,feb,2019,AL
+kentucky,770,feb,2019,KY
+mississippi,410,feb,2019,MS
+tennessee,2502,feb,2019,TN
+west south central d,17913,feb,2019,west south central d
+arkansas,954,feb,2019,AR
+louisiana,1347,feb,2019,LA
+oklahoma,1101,feb,2019,OK
+texas,14511,feb,2019,TX
+west,20359,feb,2019,west
+mountain,9969,feb,2019,mountain
+arizona,2897,feb,2019,AZ
+colorado,2676,feb,2019,CO
+idaho,789,feb,2019,ID
+montana,134,feb,2019,MT
+nevada,1335,feb,2019,NV
+new mexico,444,feb,2019,NM
+utah,1570,feb,2019,UT
+wyoming,124,feb,2019,WY
+pacific,10390,feb,2019,pacific
+alaska,88,feb,2019,AK
+california,6228,feb,2019,CA
+hawaii,246,feb,2019,HI
+oregon,1544,feb,2019,OR
+washington,2284,feb,2019,WA
+united states,107300,dec,2019,united states
+northeast region,11880,dec,2019,northeast region
+new england division,2416,dec,2019,new england division
+connecticut,444,dec,2019,CT
+maine,189,dec,2019,ME
+massachusetts,1410,dec,2019,MA
+new hampshire,202,dec,2019,NH
+rhode island,113,dec,2019,RI
+vermont,58,dec,2019,VT
+middle atlantic division,9464,dec,2019,middle atlantic division
+new jersey,2690,dec,2019,NJ
+new york,4560,dec,2019,NY
+pennsylvania,2214,dec,2019,PA
+midwest region,12901,dec,2019,midwest region
+east north central division,6859,dec,2019,east north central division
+illinois,2025,dec,2019,IL
+indiana,1475,dec,2019,IN
+michigan,1105,dec,2019,MI
+ohio,1384,dec,2019,OH
+wisconsin,870,dec,2019,WI
+west north central division,6042,dec,2019,west north central division
+iowa,506,dec,2019,IA
+kansas,497,dec,2019,KS
+minnesota,2979,dec,2019,MN
+missouri,1311,dec,2019,MO
+nebraska,410,dec,2019,NE
+north dakota,35,dec,2019,ND
+south dakota,304,dec,2019,SD
+south region,51811,dec,2019,south region
+south atlantic division,28090,dec,2019,south atlantic division
+delaware,453,dec,2019,DE
+district of columbia,57,dec,2019,district of columbia
+florida,12079,dec,2019,FL
+georgia,3727,dec,2019,GA
+maryland,1557,dec,2019,MD
+north carolina,5044,dec,2019,NC
+south carolina,2509,dec,2019,SC
+virginia,2468,dec,2019,VA
+west virginia,196,dec,2019,WV
+east south central division,5783,dec,2019,east south central division
+alabama,1366,dec,2019,AL
+kentucky,712,dec,2019,KY
+mississippi,515,dec,2019,MS
+tennessee,3190,dec,2019,TN
+west south central division,17938,dec,2019,west south central division
+arkansas,1322,dec,2019,AR
+louisiana,1099,dec,2019,LA
+oklahoma,803,dec,2019,OK
+texas,14714,dec,2019,TX
+west region,30708,dec,2019,west region
+mountain division,12464,dec,2019,mountain division
+arizona,3779,dec,2019,AZ
+colorado,4037,dec,2019,CO
+idaho,1248,dec,2019,ID
+montana,189,dec,2019,MT
+nevada,1276,dec,2019,NV
+new mexico,308,dec,2019,NM
+utah,1559,dec,2019,UT
+wyoming,68,dec,2019,WY
+pacific division,18244,dec,2019,pacific division
+alaska,117,dec,2019,AK
+california,11523,dec,2019,CA
+hawaii,342,dec,2019,HI
+oregon,1821,dec,2019,OR
+washington,4441,dec,2019,WA
+united states,118711,apr,2019,united states
+northeast,10193,apr,2019,northeast
+new england,2605,apr,2019,NE
+connecticut,721,apr,2019,CT
+maine,318,apr,2019,ME
+massachusetts,1021,apr,2019,MA
+new hampshire,280,apr,2019,NH
+rhode island,86,apr,2019,RI
+vermont,179,apr,2019,VT
+middle atlantic,7588,apr,2019,middle atlantic
+new jersey,1900,apr,2019,NJ
+new york,3752,apr,2019,NY
+pennsylvania,1936,apr,2019,PA
+midwest,18654,apr,2019,midwest
+east north central d,11643,apr,2019,east north central d
+illinois,3378,apr,2019,IL
+indiana,2130,apr,2019,IN
+michigan,2035,apr,2019,MI
+ohio,2133,apr,2019,OH
+wisconsin,1967,apr,2019,WI
+west north central d,7011,apr,2019,west north central d
+iowa,1000,apr,2019,IA
+kansas,869,apr,2019,KS
+minnesota,2570,apr,2019,MN
+missouri,1107,apr,2019,MO
+nebraska,734,apr,2019,NE
+north dakota,281,apr,2019,ND
+south dakota,450,apr,2019,SD
+south,59049,apr,2019,south
+south atlantic,33764,apr,2019,south atlantic
+delaware,413,apr,2019,DE
+district of columbia,473,apr,2019,district of columbia
+florida,14518,apr,2019,FL
+georgia,4440,apr,2019,GA
+maryland,1805,apr,2019,MD
+north carolina,5588,apr,2019,NC
+south carolina,3114,apr,2019,SC
+virginia,3186,apr,2019,VA
+west virginia,227,apr,2019,WV
+east south central d,6286,apr,2019,east south central d
+alabama,1500,apr,2019,AL
+kentucky,1245,apr,2019,KY
+mississippi,593,apr,2019,MS
+tennessee,2948,apr,2019,TN
+west south central d,18999,apr,2019,west south central d
+arkansas,758,apr,2019,AR
+louisiana,1442,apr,2019,LA
+oklahoma,904,apr,2019,OK
+texas,15895,apr,2019,TX
+west,30815,apr,2019,west
+mountain,14570,apr,2019,mountain
+arizona,4590,apr,2019,AZ
+colorado,3593,apr,2019,CO
+idaho,1365,apr,2019,ID
+montana,413,apr,2019,MT
+nevada,1310,apr,2019,NV
+new mexico,484,apr,2019,NM
+utah,2608,apr,2019,UT
+wyoming,207,apr,2019,WY
+pacific,16245,apr,2019,pacific
+alaska,150,apr,2019,AK
+california,9045,apr,2019,CA
+hawaii,153,apr,2019,HI
+oregon,1820,apr,2019,OR
+washington,5077,apr,2019,WA
+united states,111010,jun,2019,united states
+northeast,11770,jun,2019,northeast
+new england,2684,jun,2019,NE
+connecticut,336,jun,2019,CT
+maine,421,jun,2019,ME
+massachusetts,1378,jun,2019,MA
+new hampshire,329,jun,2019,NH
+rhode island,102,jun,2019,RI
+vermont,118,jun,2019,VT
+middle atlantic,9086,jun,2019,middle atlantic
+new jersey,2715,jun,2019,NJ
+new york,3684,jun,2019,NY
+pennsylvania,2687,jun,2019,PA
+midwest,15448,jun,2019,midwest
+east north central d,8678,jun,2019,east north central d
+illinois,1284,jun,2019,IL
+indiana,2141,jun,2019,IN
+michigan,1832,jun,2019,MI
+ohio,1907,jun,2019,OH
+wisconsin,1514,jun,2019,WI
+west north central d,6770,jun,2019,west north central d
+iowa,1427,jun,2019,IA
+kansas,611,jun,2019,KS
+minnesota,2208,jun,2019,MN
+missouri,1131,jun,2019,MO
+nebraska,779,jun,2019,NE
+north dakota,219,jun,2019,ND
+south dakota,395,jun,2019,SD
+south,53812,jun,2019,south
+south atlantic,29635,jun,2019,south atlantic
+delaware,636,jun,2019,DE
+district of columbia,130,jun,2019,district of columbia
+florida,10983,jun,2019,FL
+georgia,4056,jun,2019,GA
+maryland,1741,jun,2019,MD
+north carolina,6114,jun,2019,NC
+south carolina,2774,jun,2019,SC
+virginia,2918,jun,2019,VA
+west virginia,283,jun,2019,WV
+east south central d,5962,jun,2019,east south central d
+alabama,1395,jun,2019,AL
+kentucky,953,jun,2019,KY
+mississippi,568,jun,2019,MS
+tennessee,3046,jun,2019,TN
+west south central d,18215,jun,2019,west south central d
+arkansas,923,jun,2019,AR
+louisiana,1258,jun,2019,LA
+oklahoma,858,jun,2019,OK
+texas,15176,jun,2019,TX
+west,29980,jun,2019,west
+mountain,15559,jun,2019,mountain
+arizona,4359,jun,2019,AZ
+colorado,3902,jun,2019,CO
+idaho,1222,jun,2019,ID
+montana,364,jun,2019,MT
+nevada,2230,jun,2019,NV
+new mexico,418,jun,2019,NM
+utah,2883,jun,2019,UT
+wyoming,181,jun,2019,WY
+pacific,14421,jun,2019,pacific
+alaska,139,jun,2019,AK
+california,9014,jun,2019,CA
+hawaii,338,jun,2019,HI
+oregon,1283,jun,2019,OR
+washington,3647,jun,2019,WA
+united states,118777,jul,2019,united states
+northeast,11129,jul,2019,northeast
+new england,2787,jul,2019,NE
+connecticut,435,jul,2019,CT
+maine,466,jul,2019,ME
+massachusetts,1289,jul,2019,MA
+new hampshire,353,jul,2019,NH
+rhode island,113,jul,2019,RI
+vermont,131,jul,2019,VT
+middle atlantic,8342,jul,2019,middle atlantic
+new jersey,2502,jul,2019,NJ
+new york,3694,jul,2019,NY
+pennsylvania,2146,jul,2019,PA
+midwest,15704,jul,2019,midwest
+east north central d,9232,jul,2019,east north central d
+illinois,2095,jul,2019,IL
+indiana,1861,jul,2019,IN
+michigan,1890,jul,2019,MI
+ohio,1839,jul,2019,OH
+wisconsin,1547,jul,2019,WI
+west north central d,6472,jul,2019,west north central d
+iowa,1042,jul,2019,IA
+kansas,622,jul,2019,KS
+minnesota,2383,jul,2019,MN
+missouri,1307,jul,2019,MO
+nebraska,416,jul,2019,NE
+north dakota,288,jul,2019,ND
+south dakota,414,jul,2019,SD
+south,60906,jul,2019,south
+south atlantic,32583,jul,2019,south atlantic
+delaware,624,jul,2019,DE
+district of columbia,997,jul,2019,district of columbia
+florida,13109,jul,2019,FL
+georgia,4151,jul,2019,GA
+maryland,1279,jul,2019,MD
+north carolina,5746,jul,2019,NC
+south carolina,3091,jul,2019,SC
+virginia,3263,jul,2019,VA
+west virginia,323,jul,2019,WV
+east south central d,7251,jul,2019,east south central d
+alabama,1556,jul,2019,AL
+kentucky,1320,jul,2019,KY
+mississippi,679,jul,2019,MS
+tennessee,3696,jul,2019,TN
+west south central d,21072,jul,2019,west south central d
+arkansas,996,jul,2019,AR
+louisiana,1454,jul,2019,LA
+oklahoma,1107,jul,2019,OK
+texas,17515,jul,2019,TX
+west,31038,jul,2019,west
+mountain,14485,jul,2019,mountain
+arizona,3918,jul,2019,AZ
+colorado,3848,jul,2019,CO
+idaho,1671,jul,2019,ID
+montana,319,jul,2019,MT
+nevada,1865,jul,2019,NV
+new mexico,484,jul,2019,NM
+utah,2207,jul,2019,UT
+wyoming,173,jul,2019,WY
+pacific,16553,jul,2019,pacific
+alaska,182,jul,2019,AK
+california,9924,jul,2019,CA
+hawaii,270,jul,2019,HI
+oregon,1749,jul,2019,OR
+washington,4428,jul,2019,WA
+united states,107538,nov,2019,united states
+northeast region,12559,nov,2019,northeast region
+new england division,2721,nov,2019,new england division
+connecticut,561,nov,2019,CT
+maine,277,nov,2019,ME
+massachusetts,1415,nov,2019,MA
+new hampshire,304,nov,2019,NH
+rhode island,91,nov,2019,RI
+vermont,73,nov,2019,VT
+middle atlantic division,9838,nov,2019,middle atlantic division
+new jersey,3175,nov,2019,NJ
+new york,5323,nov,2019,NY
+pennsylvania,1340,nov,2019,PA
+midwest region,15466,nov,2019,midwest region
+east north central division,9383,nov,2019,east north central division
+illinois,1817,nov,2019,IL
+indiana,1890,nov,2019,IN
+michigan,1321,nov,2019,MI
+ohio,2406,nov,2019,OH
+wisconsin,1949,nov,2019,WI
+west north central division,6083,nov,2019,west north central division
+iowa,674,nov,2019,IA
+kansas,464,nov,2019,KS
+minnesota,2651,nov,2019,MN
+missouri,1115,nov,2019,MO
+nebraska,665,nov,2019,NE
+north dakota,200,nov,2019,ND
+south dakota,314,nov,2019,SD
+south region,51635,nov,2019,south region
+south atlantic division,25865,nov,2019,south atlantic division
+delaware,482,nov,2019,DE
+district of columbia,269,nov,2019,district of columbia
+florida,10374,nov,2019,FL
+georgia,3409,nov,2019,GA
+maryland,1163,nov,2019,MD
+north carolina,5290,nov,2019,NC
+south carolina,2434,nov,2019,SC
+virginia,2170,nov,2019,VA
+west virginia,274,nov,2019,WV
+east south central division,5848,nov,2019,east south central division
+alabama,1218,nov,2019,AL
+kentucky,880,nov,2019,KY
+mississippi,513,nov,2019,MS
+tennessee,3237,nov,2019,TN
+west south central division,19922,nov,2019,west south central division
+arkansas,1006,nov,2019,AR
+louisiana,1127,nov,2019,LA
+oklahoma,909,nov,2019,OK
+texas,16880,nov,2019,TX
+west region,27878,nov,2019,west region
+mountain division,13661,nov,2019,mountain division
+arizona,4175,nov,2019,AZ
+colorado,3606,nov,2019,CO
+idaho,1383,nov,2019,ID
+montana,242,nov,2019,MT
+nevada,1087,nov,2019,NV
+new mexico,471,nov,2019,NM
+utah,2584,nov,2019,UT
+wyoming,113,nov,2019,WY
+pacific division,14217,nov,2019,pacific division
+alaska,115,nov,2019,AK
+california,7630,nov,2019,CA
+hawaii,179,nov,2019,HI
+oregon,1124,nov,2019,OR
+washington,5169,nov,2019,WA
+united states,94439,jan,2019,united states
+northeast,9099,jan,2019,northeast
+new england,1932,jan,2019,NE
+connecticut,278,jan,2019,CT
+maine,357,jan,2019,ME
+massachusetts,819,jan,2019,MA
+new hampshire,338,jan,2019,NH
+rhode island,67,jan,2019,RI
+vermont,73,jan,2019,VT
+middle atlantic,7167,jan,2019,middle atlantic
+new jersey,1778,jan,2019,NJ
+new york,4036,jan,2019,NY
+pennsylvania,1353,jan,2019,PA
+midwest,9983,jan,2019,midwest
+east north central d,5832,jan,2019,east north central d
+illinois,1296,jan,2019,IL
+indiana,1528,jan,2019,IN
+michigan,1187,jan,2019,MI
+ohio,1095,jan,2019,OH
+wisconsin,726,jan,2019,WI
+west north central d,4151,jan,2019,west north central d
+iowa,425,jan,2019,IA
+kansas,428,jan,2019,KS
+minnesota,1352,jan,2019,MN
+missouri,1098,jan,2019,MO
+nebraska,621,jan,2019,NE
+north dakota,45,jan,2019,ND
+south dakota,182,jan,2019,SD
+south,51255,jan,2019,south
+south atlantic,29021,jan,2019,south atlantic
+delaware,604,jan,2019,DE
+district of columbia,591,jan,2019,district of columbia
+florida,11190,jan,2019,FL
+georgia,4045,jan,2019,GA
+maryland,1743,jan,2019,MD
+north carolina,4219,jan,2019,NC
+south carolina,3483,jan,2019,SC
+virginia,2859,jan,2019,VA
+west virginia,287,jan,2019,WV
+east south central d,5460,jan,2019,east south central d
+alabama,1169,jan,2019,AL
+kentucky,935,jan,2019,KY
+mississippi,623,jan,2019,MS
+tennessee,2733,jan,2019,TN
+west south central d,16774,jan,2019,west south central d
+arkansas,643,jan,2019,AR
+louisiana,1133,jan,2019,LA
+oklahoma,740,jan,2019,OK
+texas,14258,jan,2019,TX
+west,24102,jan,2019,west
+mountain,10077,jan,2019,mountain
+arizona,2641,jan,2019,AZ
+colorado,3026,jan,2019,CO
+idaho,880,jan,2019,ID
+montana,280,jan,2019,MT
+nevada,1204,jan,2019,NV
+new mexico,349,jan,2019,NM
+utah,1594,jan,2019,UT
+wyoming,103,jan,2019,WY
+pacific,14025,jan,2019,pacific
+alaska,90,jan,2019,AK
+california,9373,jan,2019,CA
+hawaii,432,jan,2019,HI
+oregon,1255,jan,2019,OR
+washington,2875,jan,2019,WA
+united states,124331,may,2019,united states
+northeast,9194,may,2019,northeast
+new england,2312,may,2019,NE
+connecticut,341,may,2019,CT
+maine,431,may,2019,ME
+massachusetts,1069,may,2019,MA
+new hampshire,251,may,2019,NH
+rhode island,107,may,2019,RI
+vermont,113,may,2019,VT
+middle atlantic,6882,may,2019,middle atlantic
+new jersey,2411,may,2019,NJ
+new york,2599,may,2019,NY
+pennsylvania,1872,may,2019,PA
+midwest,17946,may,2019,midwest
+east north central d,9720,may,2019,east north central d
+illinois,2094,may,2019,IL
+indiana,1838,may,2019,IN
+michigan,2387,may,2019,MI
+ohio,1759,may,2019,OH
+wisconsin,1642,may,2019,WI
+west north central d,8226,may,2019,west north central d
+iowa,1113,may,2019,IA
+kansas,782,may,2019,KS
+minnesota,3281,may,2019,MN
+missouri,1431,may,2019,MO
+nebraska,905,may,2019,NE
+north dakota,314,may,2019,ND
+south dakota,400,may,2019,SD
+south,65014,may,2019,south
+south atlantic,34917,may,2019,south atlantic
+delaware,586,may,2019,DE
+district of columbia,698,may,2019,district of columbia
+florida,12393,may,2019,FL
+georgia,4346,may,2019,GA
+maryland,2244,may,2019,MD
+north carolina,7763,may,2019,NC
+south carolina,3617,may,2019,SC
+virginia,2761,may,2019,VA
+west virginia,509,may,2019,WV
+east south central d,7788,may,2019,east south central d
+alabama,1296,may,2019,AL
+kentucky,1304,may,2019,KY
+mississippi,701,may,2019,MS
+tennessee,4487,may,2019,TN
+west south central d,22309,may,2019,west south central d
+arkansas,945,may,2019,AR
+louisiana,1303,may,2019,LA
+oklahoma,980,may,2019,OK
+texas,19081,may,2019,TX
+west,32177,may,2019,west
+mountain,15239,may,2019,mountain
+arizona,4282,may,2019,AZ
+colorado,3653,may,2019,CO
+idaho,1751,may,2019,ID
+montana,367,may,2019,MT
+nevada,1673,may,2019,NV
+new mexico,474,may,2019,NM
+utah,2799,may,2019,UT
+wyoming,240,may,2019,WY
+pacific,16938,may,2019,pacific
+alaska,192,may,2019,AK
+california,9883,may,2019,CA
+hawaii,866,may,2019,HI
+oregon,1658,may,2019,OR
+washington,4339,may,2019,WA
+united states,127752,aug,2019,united states
+northeast,13056,aug,2019,northeast
+new england,3010,aug,2019,NE
+connecticut,376,aug,2019,CT
+maine,478,aug,2019,ME
+massachusetts,1179,aug,2019,MA
+new hampshire,710,aug,2019,NH
+rhode island,84,aug,2019,RI
+vermont,183,aug,2019,VT
+middle atlantic,10046,aug,2019,middle atlantic
+new jersey,4085,aug,2019,NJ
+new york,3708,aug,2019,NY
+pennsylvania,2253,aug,2019,PA
+midwest,18392,aug,2019,midwest
+east north central d,9482,aug,2019,east north central d
+illinois,1529,aug,2019,IL
+indiana,2172,aug,2019,IN
+michigan,1644,aug,2019,MI
+ohio,2502,aug,2019,OH
+wisconsin,1635,aug,2019,WI
+west north central d,8910,aug,2019,west north central d
+iowa,1409,aug,2019,IA
+kansas,927,aug,2019,KS
+minnesota,3304,aug,2019,MN
+missouri,1710,aug,2019,MO
+nebraska,798,aug,2019,NE
+north dakota,335,aug,2019,ND
+south dakota,427,aug,2019,SD
+south,66758,aug,2019,south
+south atlantic,35128,aug,2019,south atlantic
+delaware,512,aug,2019,DE
+district of columbia,384,aug,2019,district of columbia
+florida,15187,aug,2019,FL
+georgia,4342,aug,2019,GA
+maryland,1289,aug,2019,MD
+north carolina,6209,aug,2019,NC
+south carolina,3187,aug,2019,SC
+virginia,3703,aug,2019,VA
+west virginia,315,aug,2019,WV
+east south central d,7360,aug,2019,east south central d
+alabama,1470,aug,2019,AL
+kentucky,1303,aug,2019,KY
+mississippi,644,aug,2019,MS
+tennessee,3943,aug,2019,TN
+west south central d,24270,aug,2019,west south central d
+arkansas,2195,aug,2019,AR
+louisiana,1497,aug,2019,LA
+oklahoma,1173,aug,2019,OK
+texas,19405,aug,2019,TX
+west,29546,aug,2019,west
+mountain,14158,aug,2019,mountain
+arizona,4027,aug,2019,AZ
+colorado,3161,aug,2019,CO
+idaho,1747,aug,2019,ID
+montana,347,aug,2019,MT
+nevada,1404,aug,2019,NV
+new mexico,468,aug,2019,NM
+utah,2821,aug,2019,UT
+wyoming,183,aug,2019,WY
+pacific,15388,aug,2019,pacific
+alaska,186,aug,2019,AK
+california,8843,aug,2019,CA
+hawaii,307,aug,2019,HI
+oregon,1919,aug,2019,OR
+washington,4133,aug,2019,WA
+united states,131729,oct,2019,united states
+northeast,12934,oct,2019,northeast
+new england,3269,oct,2019,NE
+connecticut,1136,oct,2019,CT
+maine,439,oct,2019,ME
+massachusetts,1195,oct,2019,MA
+new hampshire,252,oct,2019,NH
+rhode island,102,oct,2019,RI
+vermont,145,oct,2019,VT
+middle atlantic,9665,oct,2019,middle atlantic
+new jersey,3786,oct,2019,NJ
+new york,3976,oct,2019,NY
+pennsylvania,1903,oct,2019,PA
+midwest,19085,oct,2019,midwest
+east north central d,9637,oct,2019,east north central d
+illinois,1746,oct,2019,IL
+indiana,1960,oct,2019,IN
+michigan,2298,oct,2019,MI
+ohio,1870,oct,2019,OH
+wisconsin,1763,oct,2019,WI
+west north central d,9448,oct,2019,west north central d
+iowa,1699,oct,2019,IA
+kansas,893,oct,2019,KS
+minnesota,3547,oct,2019,MN
+missouri,1808,oct,2019,MO
+nebraska,610,oct,2019,NE
+north dakota,203,oct,2019,ND
+south dakota,688,oct,2019,SD
+south,67102,oct,2019,south
+south atlantic,35615,oct,2019,south atlantic
+delaware,519,oct,2019,DE
+district of columbia,773,oct,2019,district of columbia
+florida,15381,oct,2019,FL
+georgia,5876,oct,2019,GA
+maryland,1522,oct,2019,MD
+north carolina,6325,oct,2019,NC
+south carolina,3044,oct,2019,SC
+virginia,1933,oct,2019,VA
+west virginia,242,oct,2019,WV
+east south central d,8114,oct,2019,east south central d
+alabama,1403,oct,2019,AL
+kentucky,1265,oct,2019,KY
+mississippi,668,oct,2019,MS
+tennessee,4778,oct,2019,TN
+west south central d,23373,oct,2019,west south central d
+arkansas,951,oct,2019,AR
+louisiana,1489,oct,2019,LA
+oklahoma,1072,oct,2019,OK
+texas,19861,oct,2019,TX
+west,32608,oct,2019,west
+mountain,15457,oct,2019,mountain
+arizona,4032,oct,2019,AZ
+colorado,4219,oct,2019,CO
+idaho,1610,oct,2019,ID
+montana,268,oct,2019,MT
+nevada,1699,oct,2019,NV
+new mexico,598,oct,2019,NM
+utah,2869,oct,2019,UT
+wyoming,162,oct,2019,WY
+pacific,17151,oct,2019,pacific
+alaska,130,oct,2019,AK
+california,10176,oct,2019,CA
+hawaii,672,oct,2019,HI
+oregon,2405,oct,2019,OR
+washington,3768,oct,2019,WA
+united states,114920,sep,2019,united states
+northeast,10243,sep,2019,northeast
+new england,2205,sep,2019,NE
+connecticut,478,sep,2019,CT
+maine,360,sep,2019,ME
+massachusetts,869,sep,2019,MA
+new hampshire,252,sep,2019,NH
+rhode island,137,sep,2019,RI
+vermont,109,sep,2019,VT
+middle atlantic,8038,sep,2019,middle atlantic
+new jersey,3424,sep,2019,NJ
+new york,2873,sep,2019,NY
+pennsylvania,1741,sep,2019,PA
+midwest,16274,sep,2019,midwest
+east north central d,9411,sep,2019,east north central d
+illinois,1419,sep,2019,IL
+indiana,1790,sep,2019,IN
+michigan,2202,sep,2019,MI
+ohio,2339,sep,2019,OH
+wisconsin,1661,sep,2019,WI
+west north central d,6863,sep,2019,west north central d
+iowa,1037,sep,2019,IA
+kansas,699,sep,2019,KS
+minnesota,1880,sep,2019,MN
+missouri,1339,sep,2019,MO
+nebraska,912,sep,2019,NE
+north dakota,570,sep,2019,ND
+south dakota,426,sep,2019,SD
+south,59209,sep,2019,south
+south atlantic,32902,sep,2019,south atlantic
+delaware,537,sep,2019,DE
+district of columbia,369,sep,2019,district of columbia
+florida,15067,sep,2019,FL
+georgia,4420,sep,2019,GA
+maryland,1445,sep,2019,MD
+north carolina,5589,sep,2019,NC
+south carolina,2816,sep,2019,SC
+virginia,2403,sep,2019,VA
+west virginia,256,sep,2019,WV
+east south central d,6503,sep,2019,east south central d
+alabama,1423,sep,2019,AL
+kentucky,1158,sep,2019,KY
+mississippi,593,sep,2019,MS
+tennessee,3329,sep,2019,TN
+west south central d,19804,sep,2019,west south central d
+arkansas,906,sep,2019,AR
+louisiana,1436,sep,2019,LA
+oklahoma,1010,sep,2019,OK
+texas,16452,sep,2019,TX
+west,29194,sep,2019,west
+mountain,12577,sep,2019,mountain
+arizona,3302,sep,2019,AZ
+colorado,3299,sep,2019,CO
+idaho,1194,sep,2019,ID
+montana,371,sep,2019,MT
+nevada,1378,sep,2019,NV
+new mexico,362,sep,2019,NM
+utah,2508,sep,2019,UT
+wyoming,163,sep,2019,WY
+pacific,16617,sep,2019,pacific
+alaska,193,sep,2019,AK
+california,9920,sep,2019,CA
+hawaii,370,sep,2019,HI
+oregon,2013,sep,2019,OR
+washington,4121,sep,2019,WA
+united states,133600,dec,2020,united states
+northeast region,12502,dec,2020,northeast region
+new england division,3116,dec,2020,new england division
+connecticut,395,dec,2020,CT
+maine,375,dec,2020,ME
+massachusetts,1762,dec,2020,MA
+new hampshire,342,dec,2020,NH
+rhode island,119,dec,2020,RI
+vermont,123,dec,2020,VT
+middle atlantic division,9386,dec,2020,middle atlantic division
+new jersey,3112,dec,2020,NJ
+new york,3941,dec,2020,NY
+pennsylvania,2333,dec,2020,PA
+midwest region,16034,dec,2020,midwest region
+east north central division,8761,dec,2020,east north central division
+illinois,1284,dec,2020,IL
+indiana,1843,dec,2020,IN
+michigan,2167,dec,2020,MI
+ohio,2498,dec,2020,OH
+wisconsin,969,dec,2020,WI
+west north central division,7273,dec,2020,west north central division
+iowa,1115,dec,2020,IA
+kansas,824,dec,2020,KS
+minnesota,2847,dec,2020,MN
+missouri,1241,dec,2020,MO
+nebraska,730,dec,2020,NE
+north dakota,168,dec,2020,ND
+south dakota,348,dec,2020,SD
+south region,66886,dec,2020,south region
+south atlantic division,35725,dec,2020,south atlantic division
+delaware,830,dec,2020,DE
+district of columbia,1224,dec,2020,district of columbia
+florida,14402,dec,2020,FL
+georgia,4564,dec,2020,GA
+maryland,1785,dec,2020,MD
+north carolina,6018,dec,2020,NC
+south carolina,4046,dec,2020,SC
+virginia,2612,dec,2020,VA
+west virginia,244,dec,2020,WV
+east south central division,6970,dec,2020,east south central division
+alabama,1555,dec,2020,AL
+kentucky,907,dec,2020,KY
+mississippi,629,dec,2020,MS
+tennessee,3879,dec,2020,TN
+west south central division,24191,dec,2020,west south central division
+arkansas,873,dec,2020,AR
+louisiana,1514,dec,2020,LA
+oklahoma,1169,dec,2020,OK
+texas,20635,dec,2020,TX
+west region,38178,dec,2020,west region
+mountain division,19210,dec,2020,mountain division
+arizona,6350,dec,2020,AZ
+colorado,5336,dec,2020,CO
+idaho,1637,dec,2020,ID
+montana,580,dec,2020,MT
+nevada,2141,dec,2020,NV
+new mexico,391,dec,2020,NM
+utah,2561,dec,2020,UT
+wyoming,214,dec,2020,WY
+pacific division,18968,dec,2020,pacific division
+alaska,135,dec,2020,AK
+california,12584,dec,2020,CA
+hawaii,383,dec,2020,HI
+oregon,1564,dec,2020,OR
+washington,4302,dec,2020,WA
+united states,100240,feb,2020,united states
+northeast region,7906,feb,2020,northeast region
+new england division,2014,feb,2020,new england division
+connecticut,442,feb,2020,CT
+maine,254,feb,2020,ME
+massachusetts,850,feb,2020,MA
+new hampshire,277,feb,2020,NH
+rhode island,89,feb,2020,RI
+vermont,102,feb,2020,VT
+middle atlantic division,5892,feb,2020,middle atlantic division
+new jersey,1757,feb,2020,NJ
+new york,2180,feb,2020,NY
+pennsylvania,1955,feb,2020,PA
+midwest region,10340,feb,2020,midwest region
+east north central division,6203,feb,2020,east north central division
+illinois,1247,feb,2020,IL
+indiana,1187,feb,2020,IN
+michigan,1155,feb,2020,MI
+ohio,1698,feb,2020,OH
+wisconsin,916,feb,2020,WI
+west north central division,4137,feb,2020,west north central division
+iowa,438,feb,2020,IA
+kansas,523,feb,2020,KS
+minnesota,1015,feb,2020,MN
+missouri,1339,feb,2020,MO
+nebraska,568,feb,2020,NE
+north dakota,47,feb,2020,ND
+south dakota,207,feb,2020,SD
+south region,55115,feb,2020,south region
+south atlantic division,29742,feb,2020,south atlantic division
+delaware,578,feb,2020,DE
+district of columbia,336,feb,2020,district of columbia
+florida,12111,feb,2020,FL
+georgia,4183,feb,2020,GA
+maryland,1246,feb,2020,MD
+north carolina,5691,feb,2020,NC
+south carolina,2824,feb,2020,SC
+virginia,2573,feb,2020,VA
+west virginia,200,feb,2020,WV
+east south central division,6227,feb,2020,east south central division
+alabama,1380,feb,2020,AL
+kentucky,891,feb,2020,KY
+mississippi,557,feb,2020,MS
+tennessee,3399,feb,2020,TN
+west south central division,19146,feb,2020,west south central division
+arkansas,688,feb,2020,AR
+louisiana,1274,feb,2020,LA
+oklahoma,909,feb,2020,OK
+texas,16275,feb,2020,TX
+west region,26879,feb,2020,west region
+mountain division,13643,feb,2020,mountain division
+arizona,4851,feb,2020,AZ
+colorado,3121,feb,2020,CO
+idaho,1244,feb,2020,ID
+montana,273,feb,2020,MT
+nevada,1800,feb,2020,NV
+new mexico,374,feb,2020,NM
+utah,1877,feb,2020,UT
+wyoming,103,feb,2020,WY
+pacific division,13236,feb,2020,pacific division
+alaska,114,feb,2020,AK
+california,8759,feb,2020,CA
+hawaii,182,feb,2020,HI
+oregon,888,feb,2020,OR
+washington,3293,feb,2020,WA
+united states,115908,mar,2020,united states
+northeast region,9188,mar,2020,northeast region
+new england division,2726,mar,2020,new england division
+connecticut,643,mar,2020,CT
+maine,378,mar,2020,ME
+massachusetts,1105,mar,2020,MA
+new hampshire,290,mar,2020,NH
+rhode island,97,mar,2020,RI
+vermont,213,mar,2020,VT
+middle atlantic division,6462,mar,2020,middle atlantic division
+new jersey,2762,mar,2020,NJ
+new york,1949,mar,2020,NY
+pennsylvania,1751,mar,2020,PA
+midwest region,13698,mar,2020,midwest region
+east north central division,7542,mar,2020,east north central division
+illinois,1850,mar,2020,IL
+indiana,1664,mar,2020,IN
+michigan,1134,mar,2020,MI
+ohio,1449,mar,2020,OH
+wisconsin,1445,mar,2020,WI
+west north central division,6156,mar,2020,west north central division
+iowa,979,mar,2020,IA
+kansas,427,mar,2020,KS
+minnesota,2216,mar,2020,MN
+missouri,1187,mar,2020,MO
+nebraska,593,mar,2020,NE
+north dakota,261,mar,2020,ND
+south dakota,493,mar,2020,SD
+south region,63440,mar,2020,south region
+south atlantic division,33456,mar,2020,south atlantic division
+delaware,593,mar,2020,DE
+district of columbia,687,mar,2020,district of columbia
+florida,13674,mar,2020,FL
+georgia,3814,mar,2020,GA
+maryland,1604,mar,2020,MD
+north carolina,6699,mar,2020,NC
+south carolina,3460,mar,2020,SC
+virginia,2632,mar,2020,VA
+west virginia,293,mar,2020,WV
+east south central division,6401,mar,2020,east south central division
+alabama,1573,mar,2020,AL
+kentucky,895,mar,2020,KY
+mississippi,723,mar,2020,MS
+tennessee,3210,mar,2020,TN
+west south central division,23583,mar,2020,west south central division
+arkansas,1143,mar,2020,AR
+louisiana,1674,mar,2020,LA
+oklahoma,1473,mar,2020,OK
+texas,19293,mar,2020,TX
+west region,29582,mar,2020,west region
+mountain division,15229,mar,2020,mountain division
+arizona,4463,mar,2020,AZ
+colorado,3748,mar,2020,CO
+idaho,1373,mar,2020,ID
+montana,323,mar,2020,MT
+nevada,1712,mar,2020,NV
+new mexico,431,mar,2020,NM
+utah,3056,mar,2020,UT
+wyoming,123,mar,2020,WY
+pacific division,14353,mar,2020,pacific division
+alaska,42,mar,2020,AK
+california,7949,mar,2020,CA
+hawaii,343,mar,2020,HI
+oregon,2143,mar,2020,OR
+washington,3876,mar,2020,WA
+united states,95951,apr,2020,united states
+northeast region,4868,apr,2020,northeast region
+new england division,1854,apr,2020,new england division
+connecticut,401,apr,2020,CT
+maine,481,apr,2020,ME
+massachusetts,548,apr,2020,MA
+new hampshire,231,apr,2020,NH
+rhode island,74,apr,2020,RI
+vermont,119,apr,2020,VT
+middle atlantic division,3014,apr,2020,middle atlantic division
+new jersey,1227,apr,2020,NJ
+new york,1077,apr,2020,NY
+pennsylvania,710,apr,2020,PA
+midwest region,13842,apr,2020,midwest region
+east north central division,7418,apr,2020,east north central division
+illinois,1382,apr,2020,IL
+indiana,2064,apr,2020,IN
+michigan,727,apr,2020,MI
+ohio,1900,apr,2020,OH
+wisconsin,1345,apr,2020,WI
+west north central division,6424,apr,2020,west north central division
+iowa,858,apr,2020,IA
+kansas,580,apr,2020,KS
+minnesota,2107,apr,2020,MN
+missouri,1226,apr,2020,MO
+nebraska,829,apr,2020,NE
+north dakota,419,apr,2020,ND
+south dakota,405,apr,2020,SD
+south region,54588,apr,2020,south region
+south atlantic division,27823,apr,2020,south atlantic division
+delaware,536,apr,2020,DE
+district of columbia,256,apr,2020,district of columbia
+florida,12223,apr,2020,FL
+georgia,3117,apr,2020,GA
+maryland,1131,apr,2020,MD
+north carolina,4886,apr,2020,NC
+south carolina,2717,apr,2020,SC
+virginia,2635,apr,2020,VA
+west virginia,322,apr,2020,WV
+east south central division,6881,apr,2020,east south central division
+alabama,1665,apr,2020,AL
+kentucky,778,apr,2020,KY
+mississippi,695,apr,2020,MS
+tennessee,3743,apr,2020,TN
+west south central division,19884,apr,2020,west south central division
+arkansas,1099,apr,2020,AR
+louisiana,1208,apr,2020,LA
+oklahoma,1059,apr,2020,OK
+texas,16518,apr,2020,TX
+west region,22653,apr,2020,west region
+mountain division,11811,apr,2020,mountain division
+arizona,3316,apr,2020,AZ
+colorado,3284,apr,2020,CO
+idaho,1055,apr,2020,ID
+montana,317,apr,2020,MT
+nevada,1032,apr,2020,NV
+new mexico,361,apr,2020,NM
+utah,2228,apr,2020,UT
+wyoming,218,apr,2020,WY
+pacific division,10842,apr,2020,pacific division
+alaska,98,apr,2020,AK
+california,5987,apr,2020,CA
+hawaii,241,apr,2020,HI
+oregon,1800,apr,2020,OR
+washington,2716,apr,2020,WA
+united states,119985,nov,2020,united states
+northeast region,12509,nov,2020,northeast region
+new england division,3262,nov,2020,new england division
+connecticut,446,nov,2020,CT
+maine,408,nov,2020,ME
+massachusetts,1677,nov,2020,MA
+new hampshire,448,nov,2020,NH
+rhode island,117,nov,2020,RI
+vermont,166,nov,2020,VT
+middle atlantic division,9247,nov,2020,middle atlantic division
+new jersey,3198,nov,2020,NJ
+new york,3682,nov,2020,NY
+pennsylvania,2367,nov,2020,PA
+midwest region,16791,nov,2020,midwest region
+east north central division,9055,nov,2020,east north central division
+illinois,1336,nov,2020,IL
+indiana,1834,nov,2020,IN
+michigan,2133,nov,2020,MI
+ohio,2254,nov,2020,OH
+wisconsin,1498,nov,2020,WI
+west north central division,7736,nov,2020,west north central division
+iowa,1065,nov,2020,IA
+kansas,532,nov,2020,KS
+minnesota,2402,nov,2020,MN
+missouri,1615,nov,2020,MO
+nebraska,1020,nov,2020,NE
+north dakota,248,nov,2020,ND
+south dakota,854,nov,2020,SD
+south region,61452,nov,2020,south region
+south atlantic division,32523,nov,2020,south atlantic division
+delaware,561,nov,2020,DE
+district of columbia,626,nov,2020,district of columbia
+florida,11634,nov,2020,FL
+georgia,4499,nov,2020,GA
+maryland,1403,nov,2020,MD
+north carolina,7200,nov,2020,NC
+south carolina,3805,nov,2020,SC
+virginia,2521,nov,2020,VA
+west virginia,274,nov,2020,WV
+east south central division,7218,nov,2020,east south central division
+alabama,1338,nov,2020,AL
+kentucky,1113,nov,2020,KY
+mississippi,653,nov,2020,MS
+tennessee,4114,nov,2020,TN
+west south central division,21711,nov,2020,west south central division
+arkansas,1307,nov,2020,AR
+louisiana,1342,nov,2020,LA
+oklahoma,1109,nov,2020,OK
+texas,17953,nov,2020,TX
+west region,29233,nov,2020,west region
+mountain division,15311,nov,2020,mountain division
+arizona,4580,nov,2020,AZ
+colorado,3690,nov,2020,CO
+idaho,1490,nov,2020,ID
+montana,274,nov,2020,MT
+nevada,1943,nov,2020,NV
+new mexico,407,nov,2020,NM
+utah,2783,nov,2020,UT
+wyoming,144,nov,2020,WY
+pacific division,13922,nov,2020,pacific division
+alaska,124,nov,2020,AK
+california,8367,nov,2020,CA
+hawaii,385,nov,2020,HI
+oregon,1377,nov,2020,OR
+washington,3669,nov,2020,WA
+united states,112849,jan,2020,united states
+northeast region,12329,jan,2020,northeast region
+new england division,2723,jan,2020,new england division
+connecticut,278,jan,2020,CT
+maine,234,jan,2020,ME
+massachusetts,1806,jan,2020,MA
+new hampshire,231,jan,2020,NH
+rhode island,91,jan,2020,RI
+vermont,83,jan,2020,VT
+middle atlantic division,9606,jan,2020,middle atlantic division
+new jersey,2407,jan,2020,NJ
+new york,4991,jan,2020,NY
+pennsylvania,2208,jan,2020,PA
+midwest region,12080,jan,2020,midwest region
+east north central division,7338,jan,2020,east north central division
+illinois,1142,jan,2020,IL
+indiana,1304,jan,2020,IN
+michigan,1366,jan,2020,MI
+ohio,2624,jan,2020,OH
+wisconsin,902,jan,2020,WI
+west north central division,4742,jan,2020,west north central division
+iowa,511,jan,2020,IA
+kansas,512,jan,2020,KS
+minnesota,1577,jan,2020,MN
+missouri,1371,jan,2020,MO
+nebraska,600,jan,2020,NE
+north dakota,36,jan,2020,ND
+south dakota,135,jan,2020,SD
+south region,60617,jan,2020,south region
+south atlantic division,32855,jan,2020,south atlantic division
+delaware,538,jan,2020,DE
+district of columbia,682,jan,2020,district of columbia
+florida,14395,jan,2020,FL
+georgia,4431,jan,2020,GA
+maryland,1448,jan,2020,MD
+north carolina,5553,jan,2020,NC
+south carolina,2868,jan,2020,SC
+virginia,2671,jan,2020,VA
+west virginia,269,jan,2020,WV
+east south central division,6930,jan,2020,east south central division
+alabama,1548,jan,2020,AL
+kentucky,1157,jan,2020,KY
+mississippi,665,jan,2020,MS
+tennessee,3560,jan,2020,TN
+west south central division,20832,jan,2020,west south central division
+arkansas,842,jan,2020,AR
+louisiana,1259,jan,2020,LA
+oklahoma,846,jan,2020,OK
+texas,17885,jan,2020,TX
+west region,27823,jan,2020,west region
+mountain division,14217,jan,2020,mountain division
+arizona,5080,jan,2020,AZ
+colorado,3242,jan,2020,CO
+idaho,1424,jan,2020,ID
+montana,299,jan,2020,MT
+nevada,1610,jan,2020,NV
+new mexico,371,jan,2020,NM
+utah,2088,jan,2020,UT
+wyoming,103,jan,2020,WY
+pacific division,13606,jan,2020,pacific division
+alaska,109,jan,2020,AK
+california,8673,jan,2020,CA
+hawaii,151,jan,2020,HI
+oregon,1058,jan,2020,OR
+washington,3615,jan,2020,WA
+united states,135416,jul,2020,united states
+northeast region,12726,jul,2020,northeast region
+new england division,3234,jul,2020,new england division
+connecticut,501,jul,2020,CT
+maine,566,jul,2020,ME
+massachusetts,1515,jul,2020,MA
+new hampshire,343,jul,2020,NH
+rhode island,89,jul,2020,RI
+vermont,220,jul,2020,VT
+middle atlantic division,9492,jul,2020,middle atlantic division
+new jersey,2920,jul,2020,NJ
+new york,3775,jul,2020,NY
+pennsylvania,2797,jul,2020,PA
+midwest region,21315,jul,2020,midwest region
+east north central division,11827,jul,2020,east north central division
+illinois,1973,jul,2020,IL
+indiana,2518,jul,2020,IN
+michigan,2038,jul,2020,MI
+ohio,2931,jul,2020,OH
+wisconsin,2367,jul,2020,WI
+west north central division,9488,jul,2020,west north central division
+iowa,1484,jul,2020,IA
+kansas,1034,jul,2020,KS
+minnesota,2969,jul,2020,MN
+missouri,2243,jul,2020,MO
+nebraska,699,jul,2020,NE
+north dakota,457,jul,2020,ND
+south dakota,602,jul,2020,SD
+south region,68728,jul,2020,south region
+south atlantic division,35148,jul,2020,south atlantic division
+delaware,823,jul,2020,DE
+district of columbia,414,jul,2020,district of columbia
+florida,13053,jul,2020,FL
+georgia,4552,jul,2020,GA
+maryland,1294,jul,2020,MD
+north carolina,6122,jul,2020,NC
+south carolina,4137,jul,2020,SC
+virginia,4380,jul,2020,VA
+west virginia,373,jul,2020,WV
+east south central division,9487,jul,2020,east south central division
+alabama,2037,jul,2020,AL
+kentucky,984,jul,2020,KY
+mississippi,830,jul,2020,MS
+tennessee,5636,jul,2020,TN
+west south central division,24093,jul,2020,west south central division
+arkansas,1102,jul,2020,AR
+louisiana,1554,jul,2020,LA
+oklahoma,1254,jul,2020,OK
+texas,20183,jul,2020,TX
+west region,32647,jul,2020,west region
+mountain division,16906,jul,2020,mountain division
+arizona,5758,jul,2020,AZ
+colorado,4117,jul,2020,CO
+idaho,1399,jul,2020,ID
+montana,462,jul,2020,MT
+nevada,1962,jul,2020,NV
+new mexico,455,jul,2020,NM
+utah,2522,jul,2020,UT
+wyoming,231,jul,2020,WY
+pacific division,15741,jul,2020,pacific division
+alaska,135,jul,2020,AK
+california,10350,jul,2020,CA
+hawaii,261,jul,2020,HI
+oregon,1421,jul,2020,OR
+washington,3574,jul,2020,WA
+united states,123999,jun,2020,united states
+northeast region,12886,jun,2020,northeast region
+new england division,3525,jun,2020,new england division
+connecticut,382,jun,2020,CT
+maine,607,jun,2020,ME
+massachusetts,1760,jun,2020,MA
+new hampshire,391,jun,2020,NH
+rhode island,151,jun,2020,RI
+vermont,234,jun,2020,VT
+middle atlantic division,9361,jun,2020,middle atlantic division
+new jersey,3329,jun,2020,NJ
+new york,3832,jun,2020,NY
+pennsylvania,2200,jun,2020,PA
+midwest region,18244,jun,2020,midwest region
+east north central division,9756,jun,2020,east north central division
+illinois,1480,jun,2020,IL
+indiana,2286,jun,2020,IN
+michigan,1807,jun,2020,MI
+ohio,2486,jun,2020,OH
+wisconsin,1697,jun,2020,WI
+west north central division,8488,jun,2020,west north central division
+iowa,1417,jun,2020,IA
+kansas,537,jun,2020,KS
+minnesota,3016,jun,2020,MN
+missouri,1522,jun,2020,MO
+nebraska,822,jun,2020,NE
+north dakota,433,jun,2020,ND
+south dakota,741,jun,2020,SD
+south region,63427,jun,2020,south region
+south atlantic division,34131,jun,2020,south atlantic division
+delaware,624,jun,2020,DE
+district of columbia,1025,jun,2020,district of columbia
+florida,12709,jun,2020,FL
+georgia,4278,jun,2020,GA
+maryland,1423,jun,2020,MD
+north carolina,7052,jun,2020,NC
+south carolina,3624,jun,2020,SC
+virginia,3034,jun,2020,VA
+west virginia,362,jun,2020,WV
+east south central division,7754,jun,2020,east south central division
+alabama,1684,jun,2020,AL
+kentucky,1215,jun,2020,KY
+mississippi,861,jun,2020,MS
+tennessee,3994,jun,2020,TN
+west south central division,21542,jun,2020,west south central division
+arkansas,967,jun,2020,AR
+louisiana,1751,jun,2020,LA
+oklahoma,1223,jun,2020,OK
+texas,17601,jun,2020,TX
+west region,29442,jun,2020,west region
+mountain division,15176,jun,2020,mountain division
+arizona,5394,jun,2020,AZ
+colorado,3644,jun,2020,CO
+idaho,1441,jun,2020,ID
+montana,305,jun,2020,MT
+nevada,1437,jun,2020,NV
+new mexico,460,jun,2020,NM
+utah,2305,jun,2020,UT
+wyoming,190,jun,2020,WY
+pacific division,14266,jun,2020,pacific division
+alaska,147,jun,2020,AK
+california,8844,jun,2020,CA
+hawaii,366,jun,2020,HI
+oregon,1511,jun,2020,OR
+washington,3398,jun,2020,WA
+united states,133313,sep,2020,united states
+northeast region,13156,sep,2020,northeast region
+new england division,3612,sep,2020,new england division
+connecticut,820,sep,2020,CT
+maine,686,sep,2020,ME
+massachusetts,1404,sep,2020,MA
+new hampshire,394,sep,2020,NH
+rhode island,136,sep,2020,RI
+vermont,172,sep,2020,VT
+middle atlantic division,9544,sep,2020,middle atlantic division
+new jersey,3286,sep,2020,NJ
+new york,3996,sep,2020,NY
+pennsylvania,2262,sep,2020,PA
+midwest region,19912,sep,2020,midwest region
+east north central division,11013,sep,2020,east north central division
+illinois,1729,sep,2020,IL
+indiana,2475,sep,2020,IN
+michigan,2040,sep,2020,MI
+ohio,2566,sep,2020,OH
+wisconsin,2203,sep,2020,WI
+west north central division,8899,sep,2020,west north central division
+iowa,1344,sep,2020,IA
+kansas,947,sep,2020,KS
+minnesota,2907,sep,2020,MN
+missouri,1604,sep,2020,MO
+nebraska,866,sep,2020,NE
+north dakota,469,sep,2020,ND
+south dakota,762,sep,2020,SD
+south region,69045,sep,2020,south region
+south atlantic division,35773,sep,2020,south atlantic division
+delaware,792,sep,2020,DE
+district of columbia,363,sep,2020,district of columbia
+florida,14408,sep,2020,FL
+georgia,5459,sep,2020,GA
+maryland,1932,sep,2020,MD
+north carolina,5905,sep,2020,NC
+south carolina,3562,sep,2020,SC
+virginia,3028,sep,2020,VA
+west virginia,324,sep,2020,WV
+east south central division,7740,sep,2020,east south central division
+alabama,1683,sep,2020,AL
+kentucky,1305,sep,2020,KY
+mississippi,734,sep,2020,MS
+tennessee,4018,sep,2020,TN
+west south central division,25532,sep,2020,west south central division
+arkansas,1235,sep,2020,AR
+louisiana,1547,sep,2020,LA
+oklahoma,1431,sep,2020,OK
+texas,21319,sep,2020,TX
+west region,31200,sep,2020,west region
+mountain division,15962,sep,2020,mountain division
+arizona,4340,sep,2020,AZ
+colorado,4619,sep,2020,CO
+idaho,1585,sep,2020,ID
+montana,408,sep,2020,MT
+nevada,2006,sep,2020,NV
+new mexico,445,sep,2020,NM
+utah,2363,sep,2020,UT
+wyoming,196,sep,2020,WY
+pacific division,15238,sep,2020,pacific division
+alaska,142,sep,2020,AK
+california,9476,sep,2020,CA
+hawaii,150,sep,2020,HI
+oregon,1004,sep,2020,OR
+washington,4466,sep,2020,WA
+united states,132920,oct,2020,united states
+northeast region,11477,oct,2020,northeast region
+new england division,2804,oct,2020,new england division
+connecticut,500,oct,2020,CT
+maine,607,oct,2020,ME
+massachusetts,1135,oct,2020,MA
+new hampshire,319,oct,2020,NH
+rhode island,115,oct,2020,RI
+vermont,128,oct,2020,VT
+middle atlantic division,8673,oct,2020,middle atlantic division
+new jersey,3367,oct,2020,NJ
+new york,3375,oct,2020,NY
+pennsylvania,1931,oct,2020,PA
+midwest region,21064,oct,2020,midwest region
+east north central division,12518,oct,2020,east north central division
+illinois,1660,oct,2020,IL
+indiana,2719,oct,2020,IN
+michigan,2350,oct,2020,MI
+ohio,3374,oct,2020,OH
+wisconsin,2415,oct,2020,WI
+west north central division,8546,oct,2020,west north central division
+iowa,1181,oct,2020,IA
+kansas,691,oct,2020,KS
+minnesota,2914,oct,2020,MN
+missouri,1469,oct,2020,MO
+nebraska,1079,oct,2020,NE
+north dakota,340,oct,2020,ND
+south dakota,872,oct,2020,SD
+south region,68663,oct,2020,south region
+south atlantic division,37755,oct,2020,south atlantic division
+delaware,969,oct,2020,DE
+district of columbia,1001,oct,2020,district of columbia
+florida,15768,oct,2020,FL
+georgia,5132,oct,2020,GA
+maryland,1803,oct,2020,MD
+north carolina,6359,oct,2020,NC
+south carolina,4098,oct,2020,SC
+virginia,2288,oct,2020,VA
+west virginia,337,oct,2020,WV
+east south central division,7526,oct,2020,east south central division
+alabama,1627,oct,2020,AL
+kentucky,934,oct,2020,KY
+mississippi,698,oct,2020,MS
+tennessee,4267,oct,2020,TN
+west south central division,23382,oct,2020,west south central division
+arkansas,1252,oct,2020,AR
+louisiana,1556,oct,2020,LA
+oklahoma,1200,oct,2020,OK
+texas,19374,oct,2020,TX
+west region,31716,oct,2020,west region
+mountain division,17312,oct,2020,mountain division
+arizona,5352,oct,2020,AZ
+colorado,4982,oct,2020,CO
+idaho,1502,oct,2020,ID
+montana,353,oct,2020,MT
+nevada,1483,oct,2020,NV
+new mexico,503,oct,2020,NM
+utah,3005,oct,2020,UT
+wyoming,132,oct,2020,WY
+pacific division,14404,oct,2020,pacific division
+alaska,149,oct,2020,AK
+california,8670,oct,2020,CA
+hawaii,373,oct,2020,HI
+oregon,1681,oct,2020,OR
+washington,3531,oct,2020,WA
+united states,126203,aug,2020,united states
+northeast region,9932,aug,2020,northeast region
+new england division,2656,aug,2020,new england division
+connecticut,566,aug,2020,CT
+maine,515,aug,2020,ME
+massachusetts,979,aug,2020,MA
+new hampshire,346,aug,2020,NH
+rhode island,122,aug,2020,RI
+vermont,128,aug,2020,VT
+middle atlantic division,7276,aug,2020,middle atlantic division
+new jersey,2268,aug,2020,NJ
+new york,3050,aug,2020,NY
+pennsylvania,1958,aug,2020,PA
+midwest region,17568,aug,2020,midwest region
+east north central division,9145,aug,2020,east north central division
+illinois,1212,aug,2020,IL
+indiana,1861,aug,2020,IN
+michigan,1611,aug,2020,MI
+ohio,2433,aug,2020,OH
+wisconsin,2028,aug,2020,WI
+west north central division,8423,aug,2020,west north central division
+iowa,1217,aug,2020,IA
+kansas,573,aug,2020,KS
+minnesota,3383,aug,2020,MN
+missouri,1687,aug,2020,MO
+nebraska,657,aug,2020,NE
+north dakota,330,aug,2020,ND
+south dakota,576,aug,2020,SD
+south region,68440,aug,2020,south region
+south atlantic division,36649,aug,2020,south atlantic division
+delaware,1111,aug,2020,DE
+district of columbia,363,aug,2020,district of columbia
+florida,15378,aug,2020,FL
+georgia,4962,aug,2020,GA
+maryland,1676,aug,2020,MD
+north carolina,6826,aug,2020,NC
+south carolina,3555,aug,2020,SC
+virginia,2260,aug,2020,VA
+west virginia,518,aug,2020,WV
+east south central division,9184,aug,2020,east south central division
+alabama,1853,aug,2020,AL
+kentucky,1427,aug,2020,KY
+mississippi,723,aug,2020,MS
+tennessee,5181,aug,2020,TN
+west south central division,22607,aug,2020,west south central division
+arkansas,1208,aug,2020,AR
+louisiana,1609,aug,2020,LA
+oklahoma,1177,aug,2020,OK
+texas,18613,aug,2020,TX
+west region,30263,aug,2020,west region
+mountain division,16391,aug,2020,mountain division
+arizona,4669,aug,2020,AZ
+colorado,4673,aug,2020,CO
+idaho,1424,aug,2020,ID
+montana,527,aug,2020,MT
+nevada,1514,aug,2020,NV
+new mexico,491,aug,2020,NM
+utah,2930,aug,2020,UT
+wyoming,163,aug,2020,WY
+pacific division,13872,aug,2020,pacific division
+alaska,162,aug,2020,AK
+california,8190,aug,2020,CA
+hawaii,286,aug,2020,HI
+oregon,1697,aug,2020,OR
+washington,3537,aug,2020,WA
+united states,104432,may,2020,united states
+northeast region,9171,may,2020,northeast region
+new england division,2882,may,2020,new england division
+connecticut,661,may,2020,CT
+maine,396,may,2020,ME
+massachusetts,1347,may,2020,MA
+new hampshire,242,may,2020,NH
+rhode island,98,may,2020,RI
+vermont,138,may,2020,VT
+middle atlantic division,6289,may,2020,middle atlantic division
+new jersey,1821,may,2020,NJ
+new york,2500,may,2020,NY
+pennsylvania,1968,may,2020,PA
+midwest region,15490,may,2020,midwest region
+east north central division,8773,may,2020,east north central division
+illinois,1234,may,2020,IL
+indiana,2183,may,2020,IN
+michigan,1538,may,2020,MI
+ohio,2142,may,2020,OH
+wisconsin,1676,may,2020,WI
+west north central division,6717,may,2020,west north central division
+iowa,951,may,2020,IA
+kansas,593,may,2020,KS
+minnesota,2451,may,2020,MN
+missouri,1403,may,2020,MO
+nebraska,565,may,2020,NE
+north dakota,240,may,2020,ND
+south dakota,514,may,2020,SD
+south region,55576,may,2020,south region
+south atlantic division,29650,may,2020,south atlantic division
+delaware,441,may,2020,DE
+district of columbia,393,may,2020,district of columbia
+florida,11776,may,2020,FL
+georgia,3898,may,2020,GA
+maryland,1550,may,2020,MD
+north carolina,5341,may,2020,NC
+south carolina,2731,may,2020,SC
+virginia,3233,may,2020,VA
+west virginia,287,may,2020,WV
+east south central division,6983,may,2020,east south central division
+alabama,1334,may,2020,AL
+kentucky,1090,may,2020,KY
+mississippi,860,may,2020,MS
+tennessee,3699,may,2020,TN
+west south central division,18943,may,2020,west south central division
+arkansas,1069,may,2020,AR
+louisiana,1200,may,2020,LA
+oklahoma,755,may,2020,OK
+texas,15919,may,2020,TX
+west region,24195,may,2020,west region
+mountain division,11294,may,2020,mountain division
+arizona,3128,may,2020,AZ
+colorado,2604,may,2020,CO
+idaho,1268,may,2020,ID
+montana,471,may,2020,MT
+nevada,1122,may,2020,NV
+new mexico,310,may,2020,NM
+utah,2226,may,2020,UT
+wyoming,165,may,2020,WY
+pacific division,12901,may,2020,pacific division
+alaska,113,may,2020,AK
+california,6705,may,2020,CA
+hawaii,258,may,2020,HI
+oregon,1268,may,2020,OR
+washington,4557,may,2020,WA
+united states,153150,dec,2021,united states
+northeast region,25440,dec,2021,northeast region
+new england division,4415,dec,2021,new england division
+connecticut,495,dec,2021,CT
+maine,622,dec,2021,ME
+massachusetts,2673,dec,2021,MA
+new hampshire,249,dec,2021,NH
+rhode island,137,dec,2021,RI
+vermont,239,dec,2021,VT
+middle atlantic division,21025,dec,2021,middle atlantic division
+new jersey,4530,dec,2021,NJ
+new york,3459,dec,2021,NY
+pennsylvania,13036,dec,2021,PA
+midwest region,18249,dec,2021,midwest region
+east north central division,10398,dec,2021,east north central division
+illinois,1080,dec,2021,IL
+indiana,3200,dec,2021,IN
+michigan,1596,dec,2021,MI
+ohio,2276,dec,2021,OH
+wisconsin,2246,dec,2021,WI
+west north central division,7851,dec,2021,west north central division
+iowa,716,dec,2021,IA
+kansas,855,dec,2021,KS
+minnesota,2918,dec,2021,MN
+missouri,1898,dec,2021,MO
+nebraska,743,dec,2021,NE
+north dakota,199,dec,2021,ND
+south dakota,522,dec,2021,SD
+south region,71689,dec,2021,south region
+south atlantic division,38701,dec,2021,south atlantic division
+delaware,564,dec,2021,DE
+district of columbia,343,dec,2021,district of columbia
+florida,17640,dec,2021,FL
+georgia,5456,dec,2021,GA
+maryland,1189,dec,2021,MD
+north carolina,6479,dec,2021,NC
+south carolina,3459,dec,2021,SC
+virginia,3329,dec,2021,VA
+west virginia,242,dec,2021,WV
+east south central division,8202,dec,2021,east south central division
+alabama,1437,dec,2021,AL
+kentucky,1376,dec,2021,KY
+mississippi,613,dec,2021,MS
+tennessee,4776,dec,2021,TN
+west south central division,24786,dec,2021,west south central division
+arkansas,1307,dec,2021,AR
+louisiana,1407,dec,2021,LA
+oklahoma,1181,dec,2021,OK
+texas,20891,dec,2021,TX
+west region,37772,dec,2021,west region
+mountain division,19526,dec,2021,mountain division
+arizona,5858,dec,2021,AZ
+colorado,5694,dec,2021,CO
+idaho,1467,dec,2021,ID
+montana,524,dec,2021,MT
+nevada,1784,dec,2021,NV
+new mexico,759,dec,2021,NM
+utah,3290,dec,2021,UT
+wyoming,150,dec,2021,WY
+pacific division,18246,dec,2021,pacific division
+alaska,106,dec,2021,AK
+california,10973,dec,2021,CA
+hawaii,276,dec,2021,HI
+oregon,1601,dec,2021,OR
+washington,5290,dec,2021,WA
+united states,120099,feb,2021,united states
+northeast region,10772,feb,2021,northeast region
+new england division,2066,feb,2021,new england division
+connecticut,276,feb,2021,CT
+maine,275,feb,2021,ME
+massachusetts,1062,feb,2021,MA
+new hampshire,260,feb,2021,NH
+rhode island,96,feb,2021,RI
+vermont,97,feb,2021,VT
+middle atlantic division,8706,feb,2021,middle atlantic division
+new jersey,2159,feb,2021,NJ
+new york,2956,feb,2021,NY
+pennsylvania,3591,feb,2021,PA
+midwest region,13350,feb,2021,midwest region
+east north central division,7691,feb,2021,east north central division
+illinois,1011,feb,2021,IL
+indiana,1579,feb,2021,IN
+michigan,1559,feb,2021,MI
+ohio,2271,feb,2021,OH
+wisconsin,1271,feb,2021,WI
+west north central division,5659,feb,2021,west north central division
+iowa,773,feb,2021,IA
+kansas,846,feb,2021,KS
+minnesota,2030,feb,2021,MN
+missouri,1121,feb,2021,MO
+nebraska,575,feb,2021,NE
+north dakota,69,feb,2021,ND
+south dakota,245,feb,2021,SD
+south region,64943,feb,2021,south region
+south atlantic division,35653,feb,2021,south atlantic division
+delaware,778,feb,2021,DE
+district of columbia,749,feb,2021,district of columbia
+florida,12866,feb,2021,FL
+georgia,4683,feb,2021,GA
+maryland,1790,feb,2021,MD
+north carolina,7814,feb,2021,NC
+south carolina,3588,feb,2021,SC
+virginia,2789,feb,2021,VA
+west virginia,596,feb,2021,WV
+east south central division,7610,feb,2021,east south central division
+alabama,1879,feb,2021,AL
+kentucky,1654,feb,2021,KY
+mississippi,547,feb,2021,MS
+tennessee,3530,feb,2021,TN
+west south central division,21680,feb,2021,west south central division
+arkansas,963,feb,2021,AR
+louisiana,1411,feb,2021,LA
+oklahoma,1122,feb,2021,OK
+texas,18184,feb,2021,TX
+west region,31034,feb,2021,west region
+mountain division,16626,feb,2021,mountain division
+arizona,5484,feb,2021,AZ
+colorado,3625,feb,2021,CO
+idaho,1438,feb,2021,ID
+montana,222,feb,2021,MT
+nevada,2129,feb,2021,NV
+new mexico,715,feb,2021,NM
+utah,2867,feb,2021,UT
+wyoming,146,feb,2021,WY
+pacific division,14408,feb,2021,pacific division
+alaska,115,feb,2021,AK
+california,7897,feb,2021,CA
+hawaii,293,feb,2021,HI
+oregon,1474,feb,2021,OR
+washington,4629,feb,2021,WA
+united states,157568,mar,2021,united states
+northeast region,12961,mar,2021,northeast region
+new england division,3335,mar,2021,new england division
+connecticut,564,mar,2021,CT
+maine,499,mar,2021,ME
+massachusetts,1488,mar,2021,MA
+new hampshire,456,mar,2021,NH
+rhode island,131,mar,2021,RI
+vermont,197,mar,2021,VT
+middle atlantic division,9626,mar,2021,middle atlantic division
+new jersey,2916,mar,2021,NJ
+new york,2759,mar,2021,NY
+pennsylvania,3951,mar,2021,PA
+midwest region,21042,mar,2021,midwest region
+east north central division,10992,mar,2021,east north central division
+illinois,1625,mar,2021,IL
+indiana,2421,mar,2021,IN
+michigan,2364,mar,2021,MI
+ohio,2494,mar,2021,OH
+wisconsin,2088,mar,2021,WI
+west north central division,10050,mar,2021,west north central division
+iowa,1830,mar,2021,IA
+kansas,764,mar,2021,KS
+minnesota,3167,mar,2021,MN
+missouri,2347,mar,2021,MO
+nebraska,897,mar,2021,NE
+north dakota,299,mar,2021,ND
+south dakota,746,mar,2021,SD
+south region,84756,mar,2021,south region
+south atlantic division,44529,mar,2021,south atlantic division
+delaware,838,mar,2021,DE
+district of columbia,589,mar,2021,district of columbia
+florida,17512,mar,2021,FL
+georgia,6099,mar,2021,GA
+maryland,1601,mar,2021,MD
+north carolina,8638,mar,2021,NC
+south carolina,4444,mar,2021,SC
+virginia,4361,mar,2021,VA
+west virginia,447,mar,2021,WV
+east south central division,11127,mar,2021,east south central division
+alabama,2021,mar,2021,AL
+kentucky,1700,mar,2021,KY
+mississippi,880,mar,2021,MS
+tennessee,6526,mar,2021,TN
+west south central division,29100,mar,2021,west south central division
+arkansas,1886,mar,2021,AR
+louisiana,1988,mar,2021,LA
+oklahoma,1577,mar,2021,OK
+texas,23649,mar,2021,TX
+west region,38809,mar,2021,west region
+mountain division,19417,mar,2021,mountain division
+arizona,5173,mar,2021,AZ
+colorado,4823,mar,2021,CO
+idaho,2052,mar,2021,ID
+montana,652,mar,2021,MT
+nevada,2184,mar,2021,NV
+new mexico,660,mar,2021,NM
+utah,3686,mar,2021,UT
+wyoming,187,mar,2021,WY
+pacific division,19392,mar,2021,pacific division
+alaska,145,mar,2021,AK
+california,11644,mar,2021,CA
+hawaii,254,mar,2021,HI
+oregon,2452,mar,2021,OR
+washington,4897,mar,2021,WA
+united states,157894,apr,2021,united states
+northeast region,13629,apr,2021,northeast region
+new england division,4353,apr,2021,new england division
+connecticut,690,apr,2021,CT
+maine,651,apr,2021,ME
+massachusetts,2179,apr,2021,MA
+new hampshire,419,apr,2021,NH
+rhode island,152,apr,2021,RI
+vermont,262,apr,2021,VT
+middle atlantic division,9276,apr,2021,middle atlantic division
+new jersey,3535,apr,2021,NJ
+new york,3008,apr,2021,NY
+pennsylvania,2733,apr,2021,PA
+midwest region,22401,apr,2021,midwest region
+east north central division,12438,apr,2021,east north central division
+illinois,1967,apr,2021,IL
+indiana,2640,apr,2021,IN
+michigan,2211,apr,2021,MI
+ohio,2921,apr,2021,OH
+wisconsin,2699,apr,2021,WI
+west north central division,9963,apr,2021,west north central division
+iowa,1903,apr,2021,IA
+kansas,889,apr,2021,KS
+minnesota,2868,apr,2021,MN
+missouri,2167,apr,2021,MO
+nebraska,988,apr,2021,NE
+north dakota,337,apr,2021,ND
+south dakota,811,apr,2021,SD
+south region,83023,apr,2021,south region
+south atlantic division,44705,apr,2021,south atlantic division
+delaware,861,apr,2021,DE
+district of columbia,159,apr,2021,district of columbia
+florida,19625,apr,2021,FL
+georgia,5912,apr,2021,GA
+maryland,1378,apr,2021,MD
+north carolina,8029,apr,2021,NC
+south carolina,4352,apr,2021,SC
+virginia,4116,apr,2021,VA
+west virginia,273,apr,2021,WV
+east south central division,8984,apr,2021,east south central division
+alabama,1652,apr,2021,AL
+kentucky,1258,apr,2021,KY
+mississippi,776,apr,2021,MS
+tennessee,5298,apr,2021,TN
+west south central division,29334,apr,2021,west south central division
+arkansas,1298,apr,2021,AR
+louisiana,2481,apr,2021,LA
+oklahoma,1428,apr,2021,OK
+texas,24127,apr,2021,TX
+west region,38841,apr,2021,west region
+mountain division,21478,apr,2021,mountain division
+arizona,6384,apr,2021,AZ
+colorado,5514,apr,2021,CO
+idaho,1704,apr,2021,ID
+montana,474,apr,2021,MT
+nevada,2156,apr,2021,NV
+new mexico,724,apr,2021,NM
+utah,4266,apr,2021,UT
+wyoming,256,apr,2021,WY
+pacific division,17363,apr,2021,pacific division
+alaska,166,apr,2021,AK
+california,10560,apr,2021,CA
+hawaii,290,apr,2021,HI
+oregon,2070,apr,2021,OR
+washington,4277,apr,2021,WA
+united states,131802,nov,2021,united states
+northeast region,12464,nov,2021,northeast region
+new england division,2494,nov,2021,new england division
+connecticut,445,nov,2021,CT
+maine,448,nov,2021,ME
+massachusetts,1047,nov,2021,MA
+new hampshire,288,nov,2021,NH
+rhode island,131,nov,2021,RI
+vermont,135,nov,2021,VT
+middle atlantic division,9970,nov,2021,middle atlantic division
+new jersey,3278,nov,2021,NJ
+new york,4462,nov,2021,NY
+pennsylvania,2230,nov,2021,PA
+midwest region,17387,nov,2021,midwest region
+east north central division,9648,nov,2021,east north central division
+illinois,1460,nov,2021,IL
+indiana,2232,nov,2021,IN
+michigan,1771,nov,2021,MI
+ohio,2486,nov,2021,OH
+wisconsin,1699,nov,2021,WI
+west north central division,7739,nov,2021,west north central division
+iowa,1244,nov,2021,IA
+kansas,793,nov,2021,KS
+minnesota,2724,nov,2021,MN
+missouri,1666,nov,2021,MO
+nebraska,547,nov,2021,NE
+north dakota,253,nov,2021,ND
+south dakota,512,nov,2021,SD
+south region,67333,nov,2021,south region
+south atlantic division,37677,nov,2021,south atlantic division
+delaware,702,nov,2021,DE
+district of columbia,498,nov,2021,district of columbia
+florida,14873,nov,2021,FL
+georgia,5164,nov,2021,GA
+maryland,1071,nov,2021,MD
+north carolina,7709,nov,2021,NC
+south carolina,4018,nov,2021,SC
+virginia,3373,nov,2021,VA
+west virginia,269,nov,2021,WV
+east south central division,8140,nov,2021,east south central division
+alabama,1433,nov,2021,AL
+kentucky,1298,nov,2021,KY
+mississippi,602,nov,2021,MS
+tennessee,4807,nov,2021,TN
+west south central division,21516,nov,2021,west south central division
+arkansas,1092,nov,2021,AR
+louisiana,1346,nov,2021,LA
+oklahoma,1074,nov,2021,OK
+texas,18004,nov,2021,TX
+west region,34618,nov,2021,west region
+mountain division,18574,nov,2021,mountain division
+arizona,5418,nov,2021,AZ
+colorado,4990,nov,2021,CO
+idaho,1400,nov,2021,ID
+montana,801,nov,2021,MT
+nevada,2266,nov,2021,NV
+new mexico,468,nov,2021,NM
+utah,3043,nov,2021,UT
+wyoming,188,nov,2021,WY
+pacific division,16044,nov,2021,pacific division
+alaska,114,nov,2021,AK
+california,8721,nov,2021,CA
+hawaii,456,nov,2021,HI
+oregon,1629,nov,2021,OR
+washington,5124,nov,2021,WA
+united states,128837,jan,2021,united states
+northeast region,13449,jan,2021,northeast region
+new england division,2356,jan,2021,new england division
+connecticut,241,jan,2021,CT
+maine,458,jan,2021,ME
+massachusetts,1246,jan,2021,MA
+new hampshire,216,jan,2021,NH
+rhode island,103,jan,2021,RI
+vermont,92,jan,2021,VT
+middle atlantic division,11093,jan,2021,middle atlantic division
+new jersey,3309,jan,2021,NJ
+new york,3951,jan,2021,NY
+pennsylvania,3833,jan,2021,PA
+midwest region,12577,jan,2021,midwest region
+east north central division,6874,jan,2021,east north central division
+illinois,983,jan,2021,IL
+indiana,1584,jan,2021,IN
+michigan,1640,jan,2021,MI
+ohio,1573,jan,2021,OH
+wisconsin,1094,jan,2021,WI
+west north central division,5703,jan,2021,west north central division
+iowa,494,jan,2021,IA
+kansas,495,jan,2021,KS
+minnesota,2335,jan,2021,MN
+missouri,1102,jan,2021,MO
+nebraska,478,jan,2021,NE
+north dakota,204,jan,2021,ND
+south dakota,595,jan,2021,SD
+south region,70404,jan,2021,south region
+south atlantic division,36594,jan,2021,south atlantic division
+delaware,677,jan,2021,DE
+district of columbia,313,jan,2021,district of columbia
+florida,15788,jan,2021,FL
+georgia,5331,jan,2021,GA
+maryland,1320,jan,2021,MD
+north carolina,6069,jan,2021,NC
+south carolina,3610,jan,2021,SC
+virginia,3294,jan,2021,VA
+west virginia,192,jan,2021,WV
+east south central division,7554,jan,2021,east south central division
+alabama,1941,jan,2021,AL
+kentucky,1085,jan,2021,KY
+mississippi,710,jan,2021,MS
+tennessee,3818,jan,2021,TN
+west south central division,26256,jan,2021,west south central division
+arkansas,1230,jan,2021,AR
+louisiana,1496,jan,2021,LA
+oklahoma,1270,jan,2021,OK
+texas,22260,jan,2021,TX
+west region,32407,jan,2021,west region
+mountain division,16951,jan,2021,mountain division
+arizona,5096,jan,2021,AZ
+colorado,4807,jan,2021,CO
+idaho,1369,jan,2021,ID
+montana,241,jan,2021,MT
+nevada,2029,jan,2021,NV
+new mexico,414,jan,2021,NM
+utah,2811,jan,2021,UT
+wyoming,184,jan,2021,WY
+pacific division,15456,jan,2021,pacific division
+alaska,111,jan,2021,AK
+california,9729,jan,2021,CA
+hawaii,339,jan,2021,HI
+oregon,1072,jan,2021,OR
+washington,4205,jan,2021,WA
+united states,139154,jul,2021,united states
+northeast region,11387,jul,2021,northeast region
+new england division,3070,jul,2021,new england division
+connecticut,294,jul,2021,CT
+maine,764,jul,2021,ME
+massachusetts,1341,jul,2021,MA
+new hampshire,426,jul,2021,NH
+rhode island,104,jul,2021,RI
+vermont,141,jul,2021,VT
+middle atlantic division,8317,jul,2021,middle atlantic division
+new jersey,2740,jul,2021,NJ
+new york,3007,jul,2021,NY
+pennsylvania,2570,jul,2021,PA
+midwest region,18732,jul,2021,midwest region
+east north central division,11181,jul,2021,east north central division
+illinois,2224,jul,2021,IL
+indiana,2544,jul,2021,IN
+michigan,1658,jul,2021,MI
+ohio,2376,jul,2021,OH
+wisconsin,2379,jul,2021,WI
+west north central division,7551,jul,2021,west north central division
+iowa,1116,jul,2021,IA
+kansas,724,jul,2021,KS
+minnesota,2706,jul,2021,MN
+missouri,1389,jul,2021,MO
+nebraska,614,jul,2021,NE
+north dakota,385,jul,2021,ND
+south dakota,617,jul,2021,SD
+south region,72719,jul,2021,south region
+south atlantic division,40026,jul,2021,south atlantic division
+delaware,890,jul,2021,DE
+district of columbia,279,jul,2021,district of columbia
+florida,17750,jul,2021,FL
+georgia,4709,jul,2021,GA
+maryland,1228,jul,2021,MD
+north carolina,7676,jul,2021,NC
+south carolina,4276,jul,2021,SC
+virginia,2973,jul,2021,VA
+west virginia,245,jul,2021,WV
+east south central division,7926,jul,2021,east south central division
+alabama,1830,jul,2021,AL
+kentucky,1044,jul,2021,KY
+mississippi,595,jul,2021,MS
+tennessee,4457,jul,2021,TN
+west south central division,24767,jul,2021,west south central division
+arkansas,1242,jul,2021,AR
+louisiana,1541,jul,2021,LA
+oklahoma,1222,jul,2021,OK
+texas,20762,jul,2021,TX
+west region,36316,jul,2021,west region
+mountain division,19426,jul,2021,mountain division
+arizona,5935,jul,2021,AZ
+colorado,4749,jul,2021,CO
+idaho,1522,jul,2021,ID
+montana,580,jul,2021,MT
+nevada,1795,jul,2021,NV
+new mexico,759,jul,2021,NM
+utah,3839,jul,2021,UT
+wyoming,247,jul,2021,WY
+pacific division,16890,jul,2021,pacific division
+alaska,146,jul,2021,AK
+california,9714,jul,2021,CA
+hawaii,332,jul,2021,HI
+oregon,2132,jul,2021,OR
+washington,4566,jul,2021,WA
+united states,154500,jun,2021,united states
+northeast region,13543,jun,2021,northeast region
+new england division,3449,jun,2021,new england division
+connecticut,363,jun,2021,CT
+maine,803,jun,2021,ME
+massachusetts,1445,jun,2021,MA
+new hampshire,468,jun,2021,NH
+rhode island,182,jun,2021,RI
+vermont,188,jun,2021,VT
+middle atlantic division,10094,jun,2021,middle atlantic division
+new jersey,2935,jun,2021,NJ
+new york,4505,jun,2021,NY
+pennsylvania,2654,jun,2021,PA
+midwest region,20359,jun,2021,midwest region
+east north central division,12139,jun,2021,east north central division
+illinois,1981,jun,2021,IL
+indiana,2957,jun,2021,IN
+michigan,2272,jun,2021,MI
+ohio,2753,jun,2021,OH
+wisconsin,2176,jun,2021,WI
+west north central division,8220,jun,2021,west north central division
+iowa,1359,jun,2021,IA
+kansas,639,jun,2021,KS
+minnesota,3341,jun,2021,MN
+missouri,1208,jun,2021,MO
+nebraska,780,jun,2021,NE
+north dakota,289,jun,2021,ND
+south dakota,604,jun,2021,SD
+south region,83339,jun,2021,south region
+south atlantic division,45925,jun,2021,south atlantic division
+delaware,690,jun,2021,DE
+district of columbia,110,jun,2021,district of columbia
+florida,19447,jun,2021,FL
+georgia,5956,jun,2021,GA
+maryland,1809,jun,2021,MD
+north carolina,8339,jun,2021,NC
+south carolina,5588,jun,2021,SC
+virginia,3558,jun,2021,VA
+west virginia,428,jun,2021,WV
+east south central division,9113,jun,2021,east south central division
+alabama,1679,jun,2021,AL
+kentucky,1116,jun,2021,KY
+mississippi,665,jun,2021,MS
+tennessee,5653,jun,2021,TN
+west south central division,28301,jun,2021,west south central division
+arkansas,1060,jun,2021,AR
+louisiana,2224,jun,2021,LA
+oklahoma,1338,jun,2021,OK
+texas,23679,jun,2021,TX
+west region,37259,jun,2021,west region
+mountain division,20624,jun,2021,mountain division
+arizona,5996,jun,2021,AZ
+colorado,4955,jun,2021,CO
+idaho,1916,jun,2021,ID
+montana,914,jun,2021,MT
+nevada,1770,jun,2021,NV
+new mexico,721,jun,2021,NM
+utah,4069,jun,2021,UT
+wyoming,283,jun,2021,WY
+pacific division,16635,jun,2021,pacific division
+alaska,157,jun,2021,AK
+california,10796,jun,2021,CA
+hawaii,238,jun,2021,HI
+oregon,1555,jun,2021,OR
+washington,3889,jun,2021,WA
+united states,134584,sep,2021,united states
+northeast region,10382,sep,2021,northeast region
+new england division,3294,sep,2021,new england division
+connecticut,380,sep,2021,CT
+maine,485,sep,2021,ME
+massachusetts,1828,sep,2021,MA
+new hampshire,342,sep,2021,NH
+rhode island,87,sep,2021,RI
+vermont,172,sep,2021,VT
+middle atlantic division,7088,sep,2021,middle atlantic division
+new jersey,2483,sep,2021,NJ
+new york,2653,sep,2021,NY
+pennsylvania,1952,sep,2021,PA
+midwest region,20781,sep,2021,midwest region
+east north central division,10758,sep,2021,east north central division
+illinois,1642,sep,2021,IL
+indiana,2578,sep,2021,IN
+michigan,1988,sep,2021,MI
+ohio,2480,sep,2021,OH
+wisconsin,2070,sep,2021,WI
+west north central division,10023,sep,2021,west north central division
+iowa,1319,sep,2021,IA
+kansas,819,sep,2021,KS
+minnesota,3515,sep,2021,MN
+missouri,2105,sep,2021,MO
+nebraska,1266,sep,2021,NE
+north dakota,229,sep,2021,ND
+south dakota,770,sep,2021,SD
+south region,70903,sep,2021,south region
+south atlantic division,40900,sep,2021,south atlantic division
+delaware,601,sep,2021,DE
+district of columbia,314,sep,2021,district of columbia
+florida,17123,sep,2021,FL
+georgia,5813,sep,2021,GA
+maryland,1789,sep,2021,MD
+north carolina,7802,sep,2021,NC
+south carolina,4102,sep,2021,SC
+virginia,3078,sep,2021,VA
+west virginia,278,sep,2021,WV
+east south central division,7754,sep,2021,east south central division
+alabama,1886,sep,2021,AL
+kentucky,1217,sep,2021,KY
+mississippi,741,sep,2021,MS
+tennessee,3910,sep,2021,TN
+west south central division,22249,sep,2021,west south central division
+arkansas,1590,sep,2021,AR
+louisiana,1403,sep,2021,LA
+oklahoma,1253,sep,2021,OK
+texas,18003,sep,2021,TX
+west region,32518,sep,2021,west region
+mountain division,17882,sep,2021,mountain division
+arizona,4306,sep,2021,AZ
+colorado,5444,sep,2021,CO
+idaho,1683,sep,2021,ID
+montana,505,sep,2021,MT
+nevada,1666,sep,2021,NV
+new mexico,668,sep,2021,NM
+utah,3423,sep,2021,UT
+wyoming,187,sep,2021,WY
+pacific division,14636,sep,2021,pacific division
+alaska,132,sep,2021,AK
+california,8736,sep,2021,CA
+hawaii,558,sep,2021,HI
+oregon,1509,sep,2021,OR
+washington,3701,sep,2021,WA
+united states,136353,oct,2021,united states
+northeast region,10501,oct,2021,northeast region
+new england division,2450,oct,2021,new england division
+connecticut,336,oct,2021,CT
+maine,499,oct,2021,ME
+massachusetts,1021,oct,2021,MA
+new hampshire,282,oct,2021,NH
+rhode island,114,oct,2021,RI
+vermont,198,oct,2021,VT
+middle atlantic division,8051,oct,2021,middle atlantic division
+new jersey,3013,oct,2021,NJ
+new york,3122,oct,2021,NY
+pennsylvania,1916,oct,2021,PA
+midwest region,22615,oct,2021,midwest region
+east north central division,11926,oct,2021,east north central division
+illinois,2655,oct,2021,IL
+indiana,2207,oct,2021,IN
+michigan,1582,oct,2021,MI
+ohio,2812,oct,2021,OH
+wisconsin,2670,oct,2021,WI
+west north central division,10689,oct,2021,west north central division
+iowa,1557,oct,2021,IA
+kansas,578,oct,2021,KS
+minnesota,4310,oct,2021,MN
+missouri,2081,oct,2021,MO
+nebraska,1265,oct,2021,NE
+north dakota,192,oct,2021,ND
+south dakota,706,oct,2021,SD
+south region,68451,oct,2021,south region
+south atlantic division,38518,oct,2021,south atlantic division
+delaware,607,oct,2021,DE
+district of columbia,623,oct,2021,district of columbia
+florida,16212,oct,2021,FL
+georgia,4865,oct,2021,GA
+maryland,1224,oct,2021,MD
+north carolina,8006,oct,2021,NC
+south carolina,4275,oct,2021,SC
+virginia,2451,oct,2021,VA
+west virginia,255,oct,2021,WV
+east south central division,8032,oct,2021,east south central division
+alabama,1510,oct,2021,AL
+kentucky,1100,oct,2021,KY
+mississippi,700,oct,2021,MS
+tennessee,4722,oct,2021,TN
+west south central division,21901,oct,2021,west south central division
+arkansas,1247,oct,2021,AR
+louisiana,1460,oct,2021,LA
+oklahoma,1130,oct,2021,OK
+texas,18064,oct,2021,TX
+west region,34786,oct,2021,west region
+mountain division,16850,oct,2021,mountain division
+arizona,4986,oct,2021,AZ
+colorado,4721,oct,2021,CO
+idaho,1656,oct,2021,ID
+montana,600,oct,2021,MT
+nevada,1770,oct,2021,NV
+new mexico,527,oct,2021,NM
+utah,2395,oct,2021,UT
+wyoming,195,oct,2021,WY
+pacific division,17936,oct,2021,pacific division
+alaska,125,oct,2021,AK
+california,10997,oct,2021,CA
+hawaii,267,oct,2021,HI
+oregon,1560,oct,2021,OR
+washington,4987,oct,2021,WA
+united states,154559,aug,2021,united states
+northeast region,13282,aug,2021,northeast region
+new england division,2862,aug,2021,new england division
+connecticut,299,aug,2021,CT
+maine,653,aug,2021,ME
+massachusetts,1173,aug,2021,MA
+new hampshire,425,aug,2021,NH
+rhode island,141,aug,2021,RI
+vermont,171,aug,2021,VT
+middle atlantic division,10420,aug,2021,middle atlantic division
+new jersey,3039,aug,2021,NJ
+new york,4764,aug,2021,NY
+pennsylvania,2617,aug,2021,PA
+midwest region,21232,aug,2021,midwest region
+east north central division,11864,aug,2021,east north central division
+illinois,1793,aug,2021,IL
+indiana,2317,aug,2021,IN
+michigan,1771,aug,2021,MI
+ohio,3526,aug,2021,OH
+wisconsin,2457,aug,2021,WI
+west north central division,9368,aug,2021,west north central division
+iowa,1023,aug,2021,IA
+kansas,808,aug,2021,KS
+minnesota,3715,aug,2021,MN
+missouri,2101,aug,2021,MO
+nebraska,638,aug,2021,NE
+north dakota,286,aug,2021,ND
+south dakota,797,aug,2021,SD
+south region,81979,aug,2021,south region
+south atlantic division,46411,aug,2021,south atlantic division
+delaware,627,aug,2021,DE
+district of columbia,360,aug,2021,district of columbia
+florida,22629,aug,2021,FL
+georgia,5569,aug,2021,GA
+maryland,1606,aug,2021,MD
+north carolina,8399,aug,2021,NC
+south carolina,3629,aug,2021,SC
+virginia,3265,aug,2021,VA
+west virginia,327,aug,2021,WV
+east south central division,8276,aug,2021,east south central division
+alabama,1547,aug,2021,AL
+kentucky,1118,aug,2021,KY
+mississippi,654,aug,2021,MS
+tennessee,4957,aug,2021,TN
+west south central division,27292,aug,2021,west south central division
+arkansas,1092,aug,2021,AR
+louisiana,1519,aug,2021,LA
+oklahoma,1377,aug,2021,OK
+texas,23304,aug,2021,TX
+west region,38066,aug,2021,west region
+mountain division,19778,aug,2021,mountain division
+arizona,4939,aug,2021,AZ
+colorado,5793,aug,2021,CO
+idaho,1614,aug,2021,ID
+montana,511,aug,2021,MT
+nevada,2182,aug,2021,NV
+new mexico,595,aug,2021,NM
+utah,3867,aug,2021,UT
+wyoming,277,aug,2021,WY
+pacific division,18288,aug,2021,pacific division
+alaska,145,aug,2021,AK
+california,9869,aug,2021,CA
+hawaii,203,aug,2021,HI
+oregon,1722,aug,2021,OR
+washington,6349,aug,2021,WA
+united states,142251,may,2021,united states
+northeast region,13143,may,2021,northeast region
+new england division,3805,may,2021,new england division
+connecticut,329,may,2021,CT
+maine,745,may,2021,ME
+massachusetts,1840,may,2021,MA
+new hampshire,571,may,2021,NH
+rhode island,120,may,2021,RI
+vermont,200,may,2021,VT
+middle atlantic division,9338,may,2021,middle atlantic division
+new jersey,3108,may,2021,NJ
+new york,3573,may,2021,NY
+pennsylvania,2657,may,2021,PA
+midwest region,20380,may,2021,midwest region
+east north central division,11044,may,2021,east north central division
+illinois,1460,may,2021,IL
+indiana,2357,may,2021,IN
+michigan,1979,may,2021,MI
+ohio,2932,may,2021,OH
+wisconsin,2316,may,2021,WI
+west north central division,9336,may,2021,west north central division
+iowa,944,may,2021,IA
+kansas,745,may,2021,KS
+minnesota,3823,may,2021,MN
+missouri,1592,may,2021,MO
+nebraska,1074,may,2021,NE
+north dakota,496,may,2021,ND
+south dakota,662,may,2021,SD
+south region,74883,may,2021,south region
+south atlantic division,40025,may,2021,south atlantic division
+delaware,944,may,2021,DE
+district of columbia,403,may,2021,district of columbia
+florida,17754,may,2021,FL
+georgia,5334,may,2021,GA
+maryland,1356,may,2021,MD
+north carolina,6860,may,2021,NC
+south carolina,3928,may,2021,SC
+virginia,3125,may,2021,VA
+west virginia,321,may,2021,WV
+east south central division,9422,may,2021,east south central division
+alabama,1747,may,2021,AL
+kentucky,1323,may,2021,KY
+mississippi,968,may,2021,MS
+tennessee,5384,may,2021,TN
+west south central division,25436,may,2021,west south central division
+arkansas,907,may,2021,AR
+louisiana,1614,may,2021,LA
+oklahoma,1232,may,2021,OK
+texas,21683,may,2021,TX
+west region,33845,may,2021,west region
+mountain division,17617,may,2021,mountain division
+arizona,5349,may,2021,AZ
+colorado,4380,may,2021,CO
+idaho,1489,may,2021,ID
+montana,395,may,2021,MT
+nevada,1712,may,2021,NV
+new mexico,569,may,2021,NM
+utah,3538,may,2021,UT
+wyoming,185,may,2021,WY
+pacific division,16228,may,2021,pacific division
+alaska,138,may,2021,AK
+california,9922,may,2021,CA
+hawaii,226,may,2021,HI
+oregon,1819,may,2021,OR
+washington,4123,may,2021,WA
+united states,104420,dec,2022,united states
+northeast region,10573,dec,2022,northeast region
+new england division,2853,dec,2022,new england division
+connecticut,525,dec,2022,CT
+maine,333,dec,2022,ME
+massachusetts,1510,dec,2022,MA
+new hampshire,292,dec,2022,NH
+rhode island,85,dec,2022,RI
+vermont,108,dec,2022,VT
+middle atlantic division,7720,dec,2022,middle atlantic division
+new jersey,3354,dec,2022,NJ
+new york,2411,dec,2022,NY
+pennsylvania,1955,dec,2022,PA
+midwest region,11462,dec,2022,midwest region
+east north central division,6970,dec,2022,east north central division
+illinois,1673,dec,2022,IL
+indiana,1552,dec,2022,IN
+michigan,1238,dec,2022,MI
+ohio,1483,dec,2022,OH
+wisconsin,1024,dec,2022,WI
+west north central division,4492,dec,2022,west north central division
+iowa,711,dec,2022,IA
+kansas,420,dec,2022,KS
+minnesota,1556,dec,2022,MN
+missouri,1072,dec,2022,MO
+nebraska,396,dec,2022,NE
+north dakota,98,dec,2022,ND
+south dakota,239,dec,2022,SD
+south region,56078,dec,2022,south region
+south atlantic division,33129,dec,2022,south atlantic division
+delaware,404,dec,2022,DE
+district of columbia,1000,dec,2022,district of columbia
+florida,14958,dec,2022,FL
+georgia,4592,dec,2022,GA
+maryland,1297,dec,2022,MD
+north carolina,5062,dec,2022,NC
+south carolina,2937,dec,2022,SC
+virginia,2696,dec,2022,VA
+west virginia,183,dec,2022,WV
+east south central division,4800,dec,2022,east south central division
+alabama,1161,dec,2022,AL
+kentucky,1098,dec,2022,KY
+mississippi,437,dec,2022,MS
+tennessee,2104,dec,2022,TN
+west south central division,18149,dec,2022,west south central division
+arkansas,635,dec,2022,AR
+louisiana,938,dec,2022,LA
+oklahoma,947,dec,2022,OK
+texas,15629,dec,2022,TX
+west region,26307,dec,2022,west region
+mountain division,12648,dec,2022,mountain division
+arizona,5252,dec,2022,AZ
+colorado,2943,dec,2022,CO
+idaho,644,dec,2022,ID
+montana,466,dec,2022,MT
+nevada,883,dec,2022,NV
+new mexico,471,dec,2022,NM
+utah,1907,dec,2022,UT
+wyoming,82,dec,2022,WY
+pacific division,13659,dec,2022,pacific division
+alaska,70,dec,2022,AK
+california,8220,dec,2022,CA
+hawaii,189,dec,2022,HI
+oregon,1735,dec,2022,OR
+washington,3445,dec,2022,WA
+united states,131455,feb,2022,united states
+northeast region,11441,feb,2022,northeast region
+new england division,3848,feb,2022,new england division
+connecticut,347,feb,2022,CT
+maine,871,feb,2022,ME
+massachusetts,2127,feb,2022,MA
+new hampshire,296,feb,2022,NH
+rhode island,88,feb,2022,RI
+vermont,119,feb,2022,VT
+middle atlantic division,7593,feb,2022,middle atlantic division
+new jersey,2838,feb,2022,NJ
+new york,2969,feb,2022,NY
+pennsylvania,1786,feb,2022,PA
+midwest region,13352,feb,2022,midwest region
+east north central division,7339,feb,2022,east north central division
+illinois,917,feb,2022,IL
+indiana,1965,feb,2022,IN
+michigan,1391,feb,2022,MI
+ohio,1921,feb,2022,OH
+wisconsin,1145,feb,2022,WI
+west north central division,6013,feb,2022,west north central division
+iowa,601,feb,2022,IA
+kansas,471,feb,2022,KS
+minnesota,2357,feb,2022,MN
+missouri,1447,feb,2022,MO
+nebraska,775,feb,2022,NE
+north dakota,61,feb,2022,ND
+south dakota,301,feb,2022,SD
+south region,72439,feb,2022,south region
+south atlantic division,40523,feb,2022,south atlantic division
+delaware,564,feb,2022,DE
+district of columbia,350,feb,2022,district of columbia
+florida,16284,feb,2022,FL
+georgia,6377,feb,2022,GA
+maryland,1667,feb,2022,MD
+north carolina,8329,feb,2022,NC
+south carolina,3801,feb,2022,SC
+virginia,2873,feb,2022,VA
+west virginia,278,feb,2022,WV
+east south central division,7502,feb,2022,east south central division
+alabama,1703,feb,2022,AL
+kentucky,990,feb,2022,KY
+mississippi,659,feb,2022,MS
+tennessee,4150,feb,2022,TN
+west south central division,24414,feb,2022,west south central division
+arkansas,1250,feb,2022,AR
+louisiana,1614,feb,2022,LA
+oklahoma,1133,feb,2022,OK
+texas,20417,feb,2022,TX
+west region,34223,feb,2022,west region
+mountain division,18451,feb,2022,mountain division
+arizona,5522,feb,2022,AZ
+colorado,4475,feb,2022,CO
+idaho,1802,feb,2022,ID
+montana,617,feb,2022,MT
+nevada,1833,feb,2022,NV
+new mexico,462,feb,2022,NM
+utah,3496,feb,2022,UT
+wyoming,244,feb,2022,WY
+pacific division,15772,feb,2022,pacific division
+alaska,128,feb,2022,AK
+california,9130,feb,2022,CA
+hawaii,236,feb,2022,HI
+oregon,1962,feb,2022,OR
+washington,4316,feb,2022,WA
+united states,168996,mar,2022,united states
+northeast region,15873,mar,2022,northeast region
+new england division,3174,mar,2022,new england division
+connecticut,351,mar,2022,CT
+maine,414,mar,2022,ME
+massachusetts,1795,mar,2022,MA
+new hampshire,358,mar,2022,NH
+rhode island,84,mar,2022,RI
+vermont,172,mar,2022,VT
+middle atlantic division,12699,mar,2022,middle atlantic division
+new jersey,4179,mar,2022,NJ
+new york,5928,mar,2022,NY
+pennsylvania,2592,mar,2022,PA
+midwest region,21628,mar,2022,midwest region
+east north central division,11571,mar,2022,east north central division
+illinois,2090,mar,2022,IL
+indiana,2806,mar,2022,IN
+michigan,2208,mar,2022,MI
+ohio,2680,mar,2022,OH
+wisconsin,1787,mar,2022,WI
+west north central division,10057,mar,2022,west north central division
+iowa,1083,mar,2022,IA
+kansas,735,mar,2022,KS
+minnesota,3913,mar,2022,MN
+missouri,1825,mar,2022,MO
+nebraska,943,mar,2022,NE
+north dakota,214,mar,2022,ND
+south dakota,1344,mar,2022,SD
+south region,89518,mar,2022,south region
+south atlantic division,49003,mar,2022,south atlantic division
+delaware,623,mar,2022,DE
+district of columbia,777,mar,2022,district of columbia
+florida,19387,mar,2022,FL
+georgia,7692,mar,2022,GA
+maryland,2191,mar,2022,MD
+north carolina,8109,mar,2022,NC
+south carolina,4829,mar,2022,SC
+virginia,5047,mar,2022,VA
+west virginia,348,mar,2022,WV
+east south central division,9255,mar,2022,east south central division
+alabama,2489,mar,2022,AL
+kentucky,1301,mar,2022,KY
+mississippi,922,mar,2022,MS
+tennessee,4543,mar,2022,TN
+west south central division,31260,mar,2022,west south central division
+arkansas,1491,mar,2022,AR
+louisiana,1565,mar,2022,LA
+oklahoma,1481,mar,2022,OK
+texas,26723,mar,2022,TX
+west region,41977,mar,2022,west region
+mountain division,23165,mar,2022,mountain division
+arizona,7221,mar,2022,AZ
+colorado,5711,mar,2022,CO
+idaho,2509,mar,2022,ID
+montana,566,mar,2022,MT
+nevada,2263,mar,2022,NV
+new mexico,845,mar,2022,NM
+utah,3811,mar,2022,UT
+wyoming,239,mar,2022,WY
+pacific division,18812,mar,2022,pacific division
+alaska,149,mar,2022,AK
+california,10883,mar,2022,CA
+hawaii,721,mar,2022,HI
+oregon,1690,mar,2022,OR
+washington,5369,mar,2022,WA
+united states,156589,apr,2022,united states
+northeast region,12836,apr,2022,northeast region
+new england division,3709,apr,2022,new england division
+connecticut,406,apr,2022,CT
+maine,655,apr,2022,ME
+massachusetts,1960,apr,2022,MA
+new hampshire,373,apr,2022,NH
+rhode island,121,apr,2022,RI
+vermont,194,apr,2022,VT
+middle atlantic division,9127,apr,2022,middle atlantic division
+new jersey,3346,apr,2022,NJ
+new york,3674,apr,2022,NY
+pennsylvania,2107,apr,2022,PA
+midwest region,23277,apr,2022,midwest region
+east north central division,12682,apr,2022,east north central division
+illinois,2270,apr,2022,IL
+indiana,3592,apr,2022,IN
+michigan,1963,apr,2022,MI
+ohio,2568,apr,2022,OH
+wisconsin,2289,apr,2022,WI
+west north central division,10595,apr,2022,west north central division
+iowa,1580,apr,2022,IA
+kansas,1025,apr,2022,KS
+minnesota,3209,apr,2022,MN
+missouri,2029,apr,2022,MO
+nebraska,1572,apr,2022,NE
+north dakota,254,apr,2022,ND
+south dakota,926,apr,2022,SD
+south region,84465,apr,2022,south region
+south atlantic division,46792,apr,2022,south atlantic division
+delaware,538,apr,2022,DE
+district of columbia,81,apr,2022,district of columbia
+florida,20051,apr,2022,FL
+georgia,6745,apr,2022,GA
+maryland,2054,apr,2022,MD
+north carolina,9028,apr,2022,NC
+south carolina,4453,apr,2022,SC
+virginia,3435,apr,2022,VA
+west virginia,407,apr,2022,WV
+east south central division,8012,apr,2022,east south central division
+alabama,1920,apr,2022,AL
+kentucky,1080,apr,2022,KY
+mississippi,712,apr,2022,MS
+tennessee,4300,apr,2022,TN
+west south central division,29661,apr,2022,west south central division
+arkansas,1319,apr,2022,AR
+louisiana,1617,apr,2022,LA
+oklahoma,1207,apr,2022,OK
+texas,25518,apr,2022,TX
+west region,36011,apr,2022,west region
+mountain division,19088,apr,2022,mountain division
+arizona,5268,apr,2022,AZ
+colorado,4201,apr,2022,CO
+idaho,1994,apr,2022,ID
+montana,566,apr,2022,MT
+nevada,2634,apr,2022,NV
+new mexico,1005,apr,2022,NM
+utah,3193,apr,2022,UT
+wyoming,227,apr,2022,WY
+pacific division,16923,apr,2022,pacific division
+alaska,152,apr,2022,AK
+california,10615,apr,2022,CA
+hawaii,228,apr,2022,HI
+oregon,1801,apr,2022,OR
+washington,4127,apr,2022,WA
+united states,102461,nov,2022,united states
+northeast region,9831,nov,2022,northeast region
+new england division,2658,nov,2022,new england division
+connecticut,492,nov,2022,CT
+maine,369,nov,2022,ME
+massachusetts,1293,nov,2022,MA
+new hampshire,319,nov,2022,NH
+rhode island,66,nov,2022,RI
+vermont,119,nov,2022,VT
+middle atlantic division,7173,nov,2022,middle atlantic division
+new jersey,2792,nov,2022,NJ
+new york,2140,nov,2022,NY
+pennsylvania,2241,nov,2022,PA
+midwest region,15592,nov,2022,midwest region
+east north central division,9385,nov,2022,east north central division
+illinois,1534,nov,2022,IL
+indiana,1857,nov,2022,IN
+michigan,1026,nov,2022,MI
+ohio,3122,nov,2022,OH
+wisconsin,1846,nov,2022,WI
+west north central division,6207,nov,2022,west north central division
+iowa,954,nov,2022,IA
+kansas,460,nov,2022,KS
+minnesota,1870,nov,2022,MN
+missouri,1393,nov,2022,MO
+nebraska,1070,nov,2022,NE
+north dakota,163,nov,2022,ND
+south dakota,297,nov,2022,SD
+south region,55432,nov,2022,south region
+south atlantic division,32886,nov,2022,south atlantic division
+delaware,498,nov,2022,DE
+district of columbia,988,nov,2022,district of columbia
+florida,12504,nov,2022,FL
+georgia,5516,nov,2022,GA
+maryland,1102,nov,2022,MD
+north carolina,7276,nov,2022,NC
+south carolina,2816,nov,2022,SC
+virginia,2000,nov,2022,VA
+west virginia,186,nov,2022,WV
+east south central division,5079,nov,2022,east south central division
+alabama,1324,nov,2022,AL
+kentucky,996,nov,2022,KY
+mississippi,457,nov,2022,MS
+tennessee,2302,nov,2022,TN
+west south central division,17467,nov,2022,west south central division
+arkansas,708,nov,2022,AR
+louisiana,949,nov,2022,LA
+oklahoma,693,nov,2022,OK
+texas,15117,nov,2022,TX
+west region,21606,nov,2022,west region
+mountain division,10184,nov,2022,mountain division
+arizona,2931,nov,2022,AZ
+colorado,2602,nov,2022,CO
+idaho,1229,nov,2022,ID
+montana,188,nov,2022,MT
+nevada,1171,nov,2022,NV
+new mexico,439,nov,2022,NM
+utah,1491,nov,2022,UT
+wyoming,133,nov,2022,WY
+pacific division,11422,nov,2022,pacific division
+alaska,68,nov,2022,AK
+california,6800,nov,2022,CA
+hawaii,532,nov,2022,HI
+oregon,946,nov,2022,OR
+washington,3076,nov,2022,WA
+united states,132316,jan,2022,united states
+northeast region,10309,jan,2022,northeast region
+new england division,2498,jan,2022,new england division
+connecticut,454,jan,2022,CT
+maine,437,jan,2022,ME
+massachusetts,1173,jan,2022,MA
+new hampshire,231,jan,2022,NH
+rhode island,98,jan,2022,RI
+vermont,105,jan,2022,VT
+middle atlantic division,7811,jan,2022,middle atlantic division
+new jersey,2932,jan,2022,NJ
+new york,3085,jan,2022,NY
+pennsylvania,1794,jan,2022,PA
+midwest region,14512,jan,2022,midwest region
+east north central division,8147,jan,2022,east north central division
+illinois,1314,jan,2022,IL
+indiana,2301,jan,2022,IN
+michigan,1351,jan,2022,MI
+ohio,2169,jan,2022,OH
+wisconsin,1012,jan,2022,WI
+west north central division,6365,jan,2022,west north central division
+iowa,563,jan,2022,IA
+kansas,1161,jan,2022,KS
+minnesota,1564,jan,2022,MN
+missouri,1862,jan,2022,MO
+nebraska,828,jan,2022,NE
+north dakota,35,jan,2022,ND
+south dakota,352,jan,2022,SD
+south region,75628,jan,2022,south region
+south atlantic division,40621,jan,2022,south atlantic division
+delaware,586,jan,2022,DE
+district of columbia,14,jan,2022,district of columbia
+florida,17533,jan,2022,FL
+georgia,5267,jan,2022,GA
+maryland,2062,jan,2022,MD
+north carolina,8061,jan,2022,NC
+south carolina,4124,jan,2022,SC
+virginia,2714,jan,2022,VA
+west virginia,260,jan,2022,WV
+east south central division,8043,jan,2022,east south central division
+alabama,1564,jan,2022,AL
+kentucky,1005,jan,2022,KY
+mississippi,663,jan,2022,MS
+tennessee,4811,jan,2022,TN
+west south central division,26964,jan,2022,west south central division
+arkansas,1044,jan,2022,AR
+louisiana,1507,jan,2022,LA
+oklahoma,1258,jan,2022,OK
+texas,23155,jan,2022,TX
+west region,31867,jan,2022,west region
+mountain division,17826,jan,2022,mountain division
+arizona,5727,jan,2022,AZ
+colorado,4122,jan,2022,CO
+idaho,1264,jan,2022,ID
+montana,401,jan,2022,MT
+nevada,2608,jan,2022,NV
+new mexico,531,jan,2022,NM
+utah,3022,jan,2022,UT
+wyoming,151,jan,2022,WY
+pacific division,14041,jan,2022,pacific division
+alaska,109,jan,2022,AK
+california,8276,jan,2022,CA
+hawaii,305,jan,2022,HI
+oregon,1333,jan,2022,OR
+washington,4018,jan,2022,WA
+united states,134413,jul,2022,united states
+northeast region,13018,jul,2022,northeast region
+new england division,3675,jul,2022,new england division
+connecticut,743,jul,2022,CT
+maine,551,jul,2022,ME
+massachusetts,1650,jul,2022,MA
+new hampshire,378,jul,2022,NH
+rhode island,92,jul,2022,RI
+vermont,261,jul,2022,VT
+middle atlantic division,9343,jul,2022,middle atlantic division
+new jersey,3537,jul,2022,NJ
+new york,3702,jul,2022,NY
+pennsylvania,2104,jul,2022,PA
+midwest region,17838,jul,2022,midwest region
+east north central division,9481,jul,2022,east north central division
+illinois,1418,jul,2022,IL
+indiana,2108,jul,2022,IN
+michigan,1629,jul,2022,MI
+ohio,2515,jul,2022,OH
+wisconsin,1811,jul,2022,WI
+west north central division,8357,jul,2022,west north central division
+iowa,842,jul,2022,IA
+kansas,840,jul,2022,KS
+minnesota,2495,jul,2022,MN
+missouri,1625,jul,2022,MO
+nebraska,778,jul,2022,NE
+north dakota,430,jul,2022,ND
+south dakota,1347,jul,2022,SD
+south region,73382,jul,2022,south region
+south atlantic division,38738,jul,2022,south atlantic division
+delaware,435,jul,2022,DE
+district of columbia,254,jul,2022,district of columbia
+florida,15502,jul,2022,FL
+georgia,6229,jul,2022,GA
+maryland,1981,jul,2022,MD
+north carolina,6605,jul,2022,NC
+south carolina,3874,jul,2022,SC
+virginia,3556,jul,2022,VA
+west virginia,302,jul,2022,WV
+east south central division,7089,jul,2022,east south central division
+alabama,1677,jul,2022,AL
+kentucky,1173,jul,2022,KY
+mississippi,605,jul,2022,MS
+tennessee,3634,jul,2022,TN
+west south central division,27555,jul,2022,west south central division
+arkansas,1238,jul,2022,AR
+louisiana,1494,jul,2022,LA
+oklahoma,909,jul,2022,OK
+texas,23914,jul,2022,TX
+west region,30175,jul,2022,west region
+mountain division,15981,jul,2022,mountain division
+arizona,5509,jul,2022,AZ
+colorado,3967,jul,2022,CO
+idaho,1499,jul,2022,ID
+montana,440,jul,2022,MT
+nevada,1174,jul,2022,NV
+new mexico,668,jul,2022,NM
+utah,2435,jul,2022,UT
+wyoming,289,jul,2022,WY
+pacific division,14194,jul,2022,pacific division
+alaska,110,jul,2022,AK
+california,7663,jul,2022,CA
+hawaii,244,jul,2022,HI
+oregon,2064,jul,2022,OR
+washington,4113,jul,2022,WA
+united states,157198,jun,2022,united states
+northeast region,15177,jun,2022,northeast region
+new england division,3937,jun,2022,new england division
+connecticut,394,jun,2022,CT
+maine,593,jun,2022,ME
+massachusetts,2200,jun,2022,MA
+new hampshire,418,jun,2022,NH
+rhode island,100,jun,2022,RI
+vermont,232,jun,2022,VT
+middle atlantic division,11240,jun,2022,middle atlantic division
+new jersey,3636,jun,2022,NJ
+new york,5419,jun,2022,NY
+pennsylvania,2185,jun,2022,PA
+midwest region,19063,jun,2022,midwest region
+east north central division,9716,jun,2022,east north central division
+illinois,1437,jun,2022,IL
+indiana,1950,jun,2022,IN
+michigan,2034,jun,2022,MI
+ohio,2425,jun,2022,OH
+wisconsin,1870,jun,2022,WI
+west north central division,9347,jun,2022,west north central division
+iowa,1481,jun,2022,IA
+kansas,759,jun,2022,KS
+minnesota,3076,jun,2022,MN
+missouri,1944,jun,2022,MO
+nebraska,739,jun,2022,NE
+north dakota,720,jun,2022,ND
+south dakota,628,jun,2022,SD
+south region,82942,jun,2022,south region
+south atlantic division,44180,jun,2022,south atlantic division
+delaware,549,jun,2022,DE
+district of columbia,709,jun,2022,district of columbia
+florida,20160,jun,2022,FL
+georgia,5645,jun,2022,GA
+maryland,2027,jun,2022,MD
+north carolina,7106,jun,2022,NC
+south carolina,4170,jun,2022,SC
+virginia,3463,jun,2022,VA
+west virginia,351,jun,2022,WV
+east south central division,7654,jun,2022,east south central division
+alabama,1854,jun,2022,AL
+kentucky,1119,jun,2022,KY
+mississippi,864,jun,2022,MS
+tennessee,3817,jun,2022,TN
+west south central division,31108,jun,2022,west south central division
+arkansas,1503,jun,2022,AR
+louisiana,1873,jun,2022,LA
+oklahoma,1650,jun,2022,OK
+texas,26082,jun,2022,TX
+west region,40016,jun,2022,west region
+mountain division,19609,jun,2022,mountain division
+arizona,5537,jun,2022,AZ
+colorado,4961,jun,2022,CO
+idaho,2145,jun,2022,ID
+montana,895,jun,2022,MT
+nevada,1938,jun,2022,NV
+new mexico,758,jun,2022,NM
+utah,3106,jun,2022,UT
+wyoming,269,jun,2022,WY
+pacific division,20407,jun,2022,pacific division
+alaska,128,jun,2022,AK
+california,12675,jun,2022,CA
+hawaii,254,jun,2022,HI
+oregon,1927,jun,2022,OR
+washington,5423,jun,2022,WA
+united states,129579,sep,2022,united states
+northeast region,10273,sep,2022,northeast region
+new england division,3223,sep,2022,new england division
+connecticut,384,sep,2022,CT
+maine,488,sep,2022,ME
+massachusetts,1611,sep,2022,MA
+new hampshire,397,sep,2022,NH
+rhode island,136,sep,2022,RI
+vermont,207,sep,2022,VT
+middle atlantic division,7050,sep,2022,middle atlantic division
+new jersey,2536,sep,2022,NJ
+new york,2684,sep,2022,NY
+pennsylvania,1830,sep,2022,PA
+midwest region,19908,sep,2022,midwest region
+east north central division,11749,sep,2022,east north central division
+illinois,2255,sep,2022,IL
+indiana,3006,sep,2022,IN
+michigan,1714,sep,2022,MI
+ohio,2535,sep,2022,OH
+wisconsin,2239,sep,2022,WI
+west north central division,8159,sep,2022,west north central division
+iowa,1174,sep,2022,IA
+kansas,858,sep,2022,KS
+minnesota,2759,sep,2022,MN
+missouri,1560,sep,2022,MO
+nebraska,744,sep,2022,NE
+north dakota,321,sep,2022,ND
+south dakota,743,sep,2022,SD
+south region,68831,sep,2022,south region
+south atlantic division,39390,sep,2022,south atlantic division
+delaware,405,sep,2022,DE
+district of columbia,986,sep,2022,district of columbia
+florida,17199,sep,2022,FL
+georgia,5908,sep,2022,GA
+maryland,1653,sep,2022,MD
+north carolina,6943,sep,2022,NC
+south carolina,3204,sep,2022,SC
+virginia,2883,sep,2022,VA
+west virginia,209,sep,2022,WV
+east south central division,6903,sep,2022,east south central division
+alabama,1717,sep,2022,AL
+kentucky,1198,sep,2022,KY
+mississippi,621,sep,2022,MS
+tennessee,3367,sep,2022,TN
+west south central division,22538,sep,2022,west south central division
+arkansas,1001,sep,2022,AR
+louisiana,1172,sep,2022,LA
+oklahoma,921,sep,2022,OK
+texas,19444,sep,2022,TX
+west region,30567,sep,2022,west region
+mountain division,14053,sep,2022,mountain division
+arizona,4020,sep,2022,AZ
+colorado,3671,sep,2022,CO
+idaho,1128,sep,2022,ID
+montana,512,sep,2022,MT
+nevada,1659,sep,2022,NV
+new mexico,644,sep,2022,NM
+utah,2232,sep,2022,UT
+wyoming,187,sep,2022,WY
+pacific division,16514,sep,2022,pacific division
+alaska,131,sep,2022,AK
+california,10242,sep,2022,CA
+hawaii,479,sep,2022,HI
+oregon,2335,sep,2022,OR
+washington,3327,sep,2022,WA
+united states,120838,oct,2022,united states
+northeast region,8319,oct,2022,northeast region
+new england division,2377,oct,2022,new england division
+connecticut,410,oct,2022,CT
+maine,399,oct,2022,ME
+massachusetts,1056,oct,2022,MA
+new hampshire,311,oct,2022,NH
+rhode island,84,oct,2022,RI
+vermont,117,oct,2022,VT
+middle atlantic division,5942,oct,2022,middle atlantic division
+new jersey,1741,oct,2022,NJ
+new york,2304,oct,2022,NY
+pennsylvania,1897,oct,2022,PA
+midwest region,19877,oct,2022,midwest region
+east north central division,11685,oct,2022,east north central division
+illinois,1814,oct,2022,IL
+indiana,2355,oct,2022,IN
+michigan,1597,oct,2022,MI
+ohio,4159,oct,2022,OH
+wisconsin,1760,oct,2022,WI
+west north central division,8192,oct,2022,west north central division
+iowa,1209,oct,2022,IA
+kansas,777,oct,2022,KS
+minnesota,2752,oct,2022,MN
+missouri,1552,oct,2022,MO
+nebraska,926,oct,2022,NE
+north dakota,565,oct,2022,ND
+south dakota,411,oct,2022,SD
+south region,67616,oct,2022,south region
+south atlantic division,37243,oct,2022,south atlantic division
+delaware,580,oct,2022,DE
+district of columbia,451,oct,2022,district of columbia
+florida,15337,oct,2022,FL
+georgia,6111,oct,2022,GA
+maryland,924,oct,2022,MD
+north carolina,6781,oct,2022,NC
+south carolina,3637,oct,2022,SC
+virginia,3198,oct,2022,VA
+west virginia,224,oct,2022,WV
+east south central division,5991,oct,2022,east south central division
+alabama,1466,oct,2022,AL
+kentucky,1513,oct,2022,KY
+mississippi,629,oct,2022,MS
+tennessee,2383,oct,2022,TN
+west south central division,24382,oct,2022,west south central division
+arkansas,1007,oct,2022,AR
+louisiana,1170,oct,2022,LA
+oklahoma,842,oct,2022,OK
+texas,21363,oct,2022,TX
+west region,25026,oct,2022,west region
+mountain division,12543,oct,2022,mountain division
+arizona,3871,oct,2022,AZ
+colorado,2919,oct,2022,CO
+idaho,1057,oct,2022,ID
+montana,595,oct,2022,MT
+nevada,1250,oct,2022,NV
+new mexico,591,oct,2022,NM
+utah,1704,oct,2022,UT
+wyoming,556,oct,2022,WY
+pacific division,12483,oct,2022,pacific division
+alaska,89,oct,2022,AK
+california,7282,oct,2022,CA
+hawaii,829,oct,2022,HI
+oregon,1211,oct,2022,OR
+washington,3072,oct,2022,WA
+united states,138965,aug,2022,united states
+northeast region,11417,aug,2022,northeast region
+new england division,2838,aug,2022,new england division
+connecticut,396,aug,2022,CT
+maine,564,aug,2022,ME
+massachusetts,1083,aug,2022,MA
+new hampshire,498,aug,2022,NH
+rhode island,123,aug,2022,RI
+vermont,174,aug,2022,VT
+middle atlantic division,8579,aug,2022,middle atlantic division
+new jersey,2389,aug,2022,NJ
+new york,4255,aug,2022,NY
+pennsylvania,1935,aug,2022,PA
+midwest region,19888,aug,2022,midwest region
+east north central division,11062,aug,2022,east north central division
+illinois,1720,aug,2022,IL
+indiana,2207,aug,2022,IN
+michigan,2446,aug,2022,MI
+ohio,2767,aug,2022,OH
+wisconsin,1922,aug,2022,WI
+west north central division,8826,aug,2022,west north central division
+iowa,1263,aug,2022,IA
+kansas,704,aug,2022,KS
+minnesota,2725,aug,2022,MN
+missouri,2156,aug,2022,MO
+nebraska,670,aug,2022,NE
+north dakota,285,aug,2022,ND
+south dakota,1023,aug,2022,SD
+south region,75669,aug,2022,south region
+south atlantic division,43288,aug,2022,south atlantic division
+delaware,595,aug,2022,DE
+district of columbia,1555,aug,2022,district of columbia
+florida,16834,aug,2022,FL
+georgia,7694,aug,2022,GA
+maryland,1125,aug,2022,MD
+north carolina,8119,aug,2022,NC
+south carolina,3797,aug,2022,SC
+virginia,3245,aug,2022,VA
+west virginia,324,aug,2022,WV
+east south central division,7419,aug,2022,east south central division
+alabama,2542,aug,2022,AL
+kentucky,1407,aug,2022,KY
+mississippi,670,aug,2022,MS
+tennessee,2800,aug,2022,TN
+west south central division,24962,aug,2022,west south central division
+arkansas,1412,aug,2022,AR
+louisiana,1439,aug,2022,LA
+oklahoma,1161,aug,2022,OK
+texas,20950,aug,2022,TX
+west region,31991,aug,2022,west region
+mountain division,15059,aug,2022,mountain division
+arizona,4603,aug,2022,AZ
+colorado,3927,aug,2022,CO
+idaho,1589,aug,2022,ID
+montana,483,aug,2022,MT
+nevada,1267,aug,2022,NV
+new mexico,616,aug,2022,NM
+utah,2175,aug,2022,UT
+wyoming,399,aug,2022,WY
+pacific division,16932,aug,2022,pacific division
+alaska,134,aug,2022,AK
+california,11045,aug,2022,CA
+hawaii,228,aug,2022,HI
+oregon,1446,aug,2022,OR
+washington,4079,aug,2022,WA
+united states,148984,may,2022,united states
+northeast region,10895,may,2022,northeast region
+new england division,3144,may,2022,new england division
+connecticut,342,may,2022,CT
+maine,639,may,2022,ME
+massachusetts,1482,may,2022,MA
+new hampshire,369,may,2022,NH
+rhode island,128,may,2022,RI
+vermont,184,may,2022,VT
+middle atlantic division,7751,may,2022,middle atlantic division
+new jersey,2239,may,2022,NJ
+new york,3325,may,2022,NY
+pennsylvania,2187,may,2022,PA
+midwest region,22239,may,2022,midwest region
+east north central division,11668,may,2022,east north central division
+illinois,1702,may,2022,IL
+indiana,2848,may,2022,IN
+michigan,2386,may,2022,MI
+ohio,2305,may,2022,OH
+wisconsin,2427,may,2022,WI
+west north central division,10571,may,2022,west north central division
+iowa,1257,may,2022,IA
+kansas,739,may,2022,KS
+minnesota,3607,may,2022,MN
+missouri,1779,may,2022,MO
+nebraska,1069,may,2022,NE
+north dakota,340,may,2022,ND
+south dakota,1780,may,2022,SD
+south region,81228,may,2022,south region
+south atlantic division,46032,may,2022,south atlantic division
+delaware,606,may,2022,DE
+district of columbia,540,may,2022,district of columbia
+florida,20152,may,2022,FL
+georgia,5973,may,2022,GA
+maryland,1517,may,2022,MD
+north carolina,8648,may,2022,NC
+south carolina,4192,may,2022,SC
+virginia,4004,may,2022,VA
+west virginia,400,may,2022,WV
+east south central division,7644,may,2022,east south central division
+alabama,1788,may,2022,AL
+kentucky,1251,may,2022,KY
+mississippi,830,may,2022,MS
+tennessee,3775,may,2022,TN
+west south central division,27552,may,2022,west south central division
+arkansas,1745,may,2022,AR
+louisiana,1478,may,2022,LA
+oklahoma,1411,may,2022,OK
+texas,22918,may,2022,TX
+west region,34622,may,2022,west region
+mountain division,18309,may,2022,mountain division
+arizona,5264,may,2022,AZ
+colorado,4583,may,2022,CO
+idaho,2160,may,2022,ID
+montana,531,may,2022,MT
+nevada,1641,may,2022,NV
+new mexico,1004,may,2022,NM
+utah,2890,may,2022,UT
+wyoming,236,may,2022,WY
+pacific division,16313,may,2022,pacific division
+alaska,148,may,2022,AK
+california,10263,may,2022,CA
+hawaii,193,may,2022,HI
+oregon,1448,may,2022,OR
+washington,4261,may,2022,WA
+united states,104944,dec,2023,united states
+northeast region,8108,dec,2023,northeast region
+new england division,2838,dec,2023,new england division
+connecticut,406,dec,2023,CT
+maine,294,dec,2023,ME
+massachusetts,1798,dec,2023,MA
+new hampshire,215,dec,2023,NH
+rhode island,54,dec,2023,RI
+vermont,71,dec,2023,VT
+middle atlantic division,5270,dec,2023,middle atlantic division
+new jersey,2507,dec,2023,NJ
+new york,1323,dec,2023,NY
+pennsylvania,1440,dec,2023,PA
+midwest region,11786,dec,2023,midwest region
+east north central division,6830,dec,2023,east north central division
+illinois,911,dec,2023,IL
+indiana,1779,dec,2023,IN
+michigan,1199,dec,2023,MI
+ohio,1544,dec,2023,OH
+wisconsin,1397,dec,2023,WI
+west north central division,4956,dec,2023,west north central division
+iowa,860,dec,2023,IA
+kansas,777,dec,2023,KS
+minnesota,1459,dec,2023,MN
+missouri,1043,dec,2023,MO
+nebraska,461,dec,2023,NE
+north dakota,32,dec,2023,ND
+south dakota,324,dec,2023,SD
+south region,59076,dec,2023,south region
+south atlantic division,35437,dec,2023,south atlantic division
+delaware,881,dec,2023,DE
+district of columbia,93,dec,2023,district of columbia
+florida,14796,dec,2023,FL
+georgia,4159,dec,2023,GA
+maryland,1320,dec,2023,MD
+north carolina,8080,dec,2023,NC
+south carolina,2802,dec,2023,SC
+virginia,3085,dec,2023,VA
+west virginia,221,dec,2023,WV
+east south central division,6450,dec,2023,east south central division
+alabama,1856,dec,2023,AL
+kentucky,1109,dec,2023,KY
+mississippi,551,dec,2023,MS
+tennessee,2934,dec,2023,TN
+west south central division,17189,dec,2023,west south central division
+arkansas,1110,dec,2023,AR
+louisiana,1114,dec,2023,LA
+oklahoma,785,dec,2023,OK
+texas,14180,dec,2023,TX
+west region,25974,dec,2023,west region
+mountain division,14800,dec,2023,mountain division
+arizona,4737,dec,2023,AZ
+colorado,4177,dec,2023,CO
+idaho,1416,dec,2023,ID
+montana,195,dec,2023,MT
+nevada,1698,dec,2023,NV
+new mexico,547,dec,2023,NM
+utah,1926,dec,2023,UT
+wyoming,104,dec,2023,WY
+pacific division,11174,dec,2023,pacific division
+alaska,24,dec,2023,AK
+california,7179,dec,2023,CA
+hawaii,334,dec,2023,HI
+oregon,895,dec,2023,OR
+washington,2742,dec,2023,WA
+united states,110878,feb,2023,united states
+northeast region,7337,feb,2023,northeast region
+new england division,2317,feb,2023,new england division
+connecticut,493,feb,2023,CT
+maine,266,feb,2023,ME
+massachusetts,1165,feb,2023,MA
+new hampshire,222,feb,2023,NH
+rhode island,87,feb,2023,RI
+vermont,84,feb,2023,VT
+middle atlantic division,5020,feb,2023,middle atlantic division
+new jersey,1862,feb,2023,NJ
+new york,1855,feb,2023,NY
+pennsylvania,1303,feb,2023,PA
+midwest region,10582,feb,2023,midwest region
+east north central division,5964,feb,2023,east north central division
+illinois,784,feb,2023,IL
+indiana,1466,feb,2023,IN
+michigan,1008,feb,2023,MI
+ohio,1605,feb,2023,OH
+wisconsin,1101,feb,2023,WI
+west north central division,4618,feb,2023,west north central division
+iowa,638,feb,2023,IA
+kansas,349,feb,2023,KS
+minnesota,1302,feb,2023,MN
+missouri,1111,feb,2023,MO
+nebraska,814,feb,2023,NE
+north dakota,253,feb,2023,ND
+south dakota,151,feb,2023,SD
+south region,65533,feb,2023,south region
+south atlantic division,37436,feb,2023,south atlantic division
+delaware,356,feb,2023,DE
+district of columbia,299,feb,2023,district of columbia
+florida,16279,feb,2023,FL
+georgia,5136,feb,2023,GA
+maryland,1351,feb,2023,MD
+north carolina,8095,feb,2023,NC
+south carolina,3039,feb,2023,SC
+virginia,2642,feb,2023,VA
+west virginia,239,feb,2023,WV
+east south central division,7998,feb,2023,east south central division
+alabama,1518,feb,2023,AL
+kentucky,1191,feb,2023,KY
+mississippi,656,feb,2023,MS
+tennessee,4633,feb,2023,TN
+west south central division,20099,feb,2023,west south central division
+arkansas,948,feb,2023,AR
+louisiana,991,feb,2023,LA
+oklahoma,797,feb,2023,OK
+texas,17363,feb,2023,TX
+west region,27426,feb,2023,west region
+mountain division,13144,feb,2023,mountain division
+arizona,4600,feb,2023,AZ
+colorado,3247,feb,2023,CO
+idaho,1060,feb,2023,ID
+montana,380,feb,2023,MT
+nevada,1041,feb,2023,NV
+new mexico,397,feb,2023,NM
+utah,2342,feb,2023,UT
+wyoming,77,feb,2023,WY
+pacific division,14282,feb,2023,pacific division
+alaska,80,feb,2023,AK
+california,8275,feb,2023,CA
+hawaii,203,feb,2023,HI
+oregon,1519,feb,2023,OR
+washington,4205,feb,2023,WA
+united states,131310,mar,2023,united states
+northeast region,12611,mar,2023,northeast region
+new england division,3180,mar,2023,new england division
+connecticut,542,mar,2023,CT
+maine,476,mar,2023,ME
+massachusetts,1475,mar,2023,MA
+new hampshire,258,mar,2023,NH
+rhode island,101,mar,2023,RI
+vermont,328,mar,2023,VT
+middle atlantic division,9431,mar,2023,middle atlantic division
+new jersey,3498,mar,2023,NJ
+new york,3888,mar,2023,NY
+pennsylvania,2045,mar,2023,PA
+midwest region,17562,mar,2023,midwest region
+east north central division,10496,mar,2023,east north central division
+illinois,1850,mar,2023,IL
+indiana,2087,mar,2023,IN
+michigan,1738,mar,2023,MI
+ohio,3347,mar,2023,OH
+wisconsin,1474,mar,2023,WI
+west north central division,7066,mar,2023,west north central division
+iowa,1048,mar,2023,IA
+kansas,548,mar,2023,KS
+minnesota,1840,mar,2023,MN
+missouri,1623,mar,2023,MO
+nebraska,671,mar,2023,NE
+north dakota,216,mar,2023,ND
+south dakota,1120,mar,2023,SD
+south region,71840,mar,2023,south region
+south atlantic division,41777,mar,2023,south atlantic division
+delaware,536,mar,2023,DE
+district of columbia,129,mar,2023,district of columbia
+florida,18743,mar,2023,FL
+georgia,5357,mar,2023,GA
+maryland,1035,mar,2023,MD
+north carolina,8515,mar,2023,NC
+south carolina,3820,mar,2023,SC
+virginia,3308,mar,2023,VA
+west virginia,334,mar,2023,WV
+east south central division,8175,mar,2023,east south central division
+alabama,2455,mar,2023,AL
+kentucky,1637,mar,2023,KY
+mississippi,625,mar,2023,MS
+tennessee,3458,mar,2023,TN
+west south central division,21888,mar,2023,west south central division
+arkansas,812,mar,2023,AR
+louisiana,1234,mar,2023,LA
+oklahoma,946,mar,2023,OK
+texas,18896,mar,2023,TX
+west region,29297,mar,2023,west region
+mountain division,16630,mar,2023,mountain division
+arizona,6525,mar,2023,AZ
+colorado,3580,mar,2023,CO
+idaho,1297,mar,2023,ID
+montana,468,mar,2023,MT
+nevada,1781,mar,2023,NV
+new mexico,894,mar,2023,NM
+utah,1928,mar,2023,UT
+wyoming,157,mar,2023,WY
+pacific division,12667,mar,2023,pacific division
+alaska,122,mar,2023,AK
+california,7410,mar,2023,CA
+hawaii,300,mar,2023,HI
+oregon,1442,mar,2023,OR
+washington,3393,mar,2023,WA
+united states,117601,apr,2023,united states
+northeast region,8498,apr,2023,northeast region
+new england division,2354,apr,2023,new england division
+connecticut,289,apr,2023,CT
+maine,596,apr,2023,ME
+massachusetts,819,apr,2023,MA
+new hampshire,397,apr,2023,NH
+rhode island,88,apr,2023,RI
+vermont,165,apr,2023,VT
+middle atlantic division,6144,apr,2023,middle atlantic division
+new jersey,2194,apr,2023,NJ
+new york,2011,apr,2023,NY
+pennsylvania,1939,apr,2023,PA
+midwest region,15192,apr,2023,midwest region
+east north central division,8837,apr,2023,east north central division
+illinois,1576,apr,2023,IL
+indiana,2401,apr,2023,IN
+michigan,1688,apr,2023,MI
+ohio,1845,apr,2023,OH
+wisconsin,1327,apr,2023,WI
+west north central division,6355,apr,2023,west north central division
+iowa,924,apr,2023,IA
+kansas,561,apr,2023,KS
+minnesota,2088,apr,2023,MN
+missouri,1295,apr,2023,MO
+nebraska,606,apr,2023,NE
+north dakota,164,apr,2023,ND
+south dakota,717,apr,2023,SD
+south region,65898,apr,2023,south region
+south atlantic division,36552,apr,2023,south atlantic division
+delaware,471,apr,2023,DE
+district of columbia,224,apr,2023,district of columbia
+florida,14957,apr,2023,FL
+georgia,5256,apr,2023,GA
+maryland,1230,apr,2023,MD
+north carolina,7997,apr,2023,NC
+south carolina,3472,apr,2023,SC
+virginia,2657,apr,2023,VA
+west virginia,288,apr,2023,WV
+east south central division,8660,apr,2023,east south central division
+alabama,1402,apr,2023,AL
+kentucky,1540,apr,2023,KY
+mississippi,634,apr,2023,MS
+tennessee,5084,apr,2023,TN
+west south central division,20686,apr,2023,west south central division
+arkansas,851,apr,2023,AR
+louisiana,1393,apr,2023,LA
+oklahoma,1096,apr,2023,OK
+texas,17346,apr,2023,TX
+west region,28013,apr,2023,west region
+mountain division,13787,apr,2023,mountain division
+arizona,4268,apr,2023,AZ
+colorado,3857,apr,2023,CO
+idaho,1450,apr,2023,ID
+montana,354,apr,2023,MT
+nevada,1245,apr,2023,NV
+new mexico,680,apr,2023,NM
+utah,1804,apr,2023,UT
+wyoming,129,apr,2023,WY
+pacific division,14226,apr,2023,pacific division
+alaska,41,apr,2023,AK
+california,9186,apr,2023,CA
+hawaii,341,apr,2023,HI
+oregon,1840,apr,2023,OR
+washington,2818,apr,2023,WA
+united states,108831,nov,2023,united states
+northeast region,7128,nov,2023,northeast region
+new england division,1904,nov,2023,new england division
+connecticut,268,nov,2023,CT
+maine,423,nov,2023,ME
+massachusetts,729,nov,2023,MA
+new hampshire,309,nov,2023,NH
+rhode island,76,nov,2023,RI
+vermont,99,nov,2023,VT
+middle atlantic division,5224,nov,2023,middle atlantic division
+new jersey,1852,nov,2023,NJ
+new york,1528,nov,2023,NY
+pennsylvania,1844,nov,2023,PA
+midwest region,14898,nov,2023,midwest region
+east north central division,8923,nov,2023,east north central division
+illinois,1139,nov,2023,IL
+indiana,2187,nov,2023,IN
+michigan,1759,nov,2023,MI
+ohio,2237,nov,2023,OH
+wisconsin,1601,nov,2023,WI
+west north central division,5975,nov,2023,west north central division
+iowa,870,nov,2023,IA
+kansas,861,nov,2023,KS
+minnesota,1453,nov,2023,MN
+missouri,1373,nov,2023,MO
+nebraska,842,nov,2023,NE
+north dakota,54,nov,2023,ND
+south dakota,522,nov,2023,SD
+south region,56229,nov,2023,south region
+south atlantic division,31622,nov,2023,south atlantic division
+delaware,475,nov,2023,DE
+district of columbia,9,nov,2023,district of columbia
+florida,12776,nov,2023,FL
+georgia,4470,nov,2023,GA
+maryland,1288,nov,2023,MD
+north carolina,6761,nov,2023,NC
+south carolina,2960,nov,2023,SC
+virginia,2673,nov,2023,VA
+west virginia,210,nov,2023,WV
+east south central division,6624,nov,2023,east south central division
+alabama,1348,nov,2023,AL
+kentucky,1157,nov,2023,KY
+mississippi,495,nov,2023,MS
+tennessee,3624,nov,2023,TN
+west south central division,17983,nov,2023,west south central division
+arkansas,1172,nov,2023,AR
+louisiana,962,nov,2023,LA
+oklahoma,894,nov,2023,OK
+texas,14955,nov,2023,TX
+west region,30576,nov,2023,west region
+mountain division,16698,nov,2023,mountain division
+arizona,5590,nov,2023,AZ
+colorado,3641,nov,2023,CO
+idaho,1551,nov,2023,ID
+montana,343,nov,2023,MT
+nevada,1414,nov,2023,NV
+new mexico,1335,nov,2023,NM
+utah,2708,nov,2023,UT
+wyoming,116,nov,2023,WY
+pacific division,13878,nov,2023,pacific division
+alaska,52,nov,2023,AK
+california,9757,nov,2023,CA
+hawaii,366,nov,2023,HI
+oregon,1328,nov,2023,OR
+washington,2375,nov,2023,WA
+united states,100998,jan,2023,united states
+northeast region,7488,jan,2023,northeast region
+new england division,2444,jan,2023,new england division
+connecticut,682,jan,2023,CT
+maine,255,jan,2023,ME
+massachusetts,1088,jan,2023,MA
+new hampshire,269,jan,2023,NH
+rhode island,79,jan,2023,RI
+vermont,71,jan,2023,VT
+middle atlantic division,5044,jan,2023,middle atlantic division
+new jersey,2482,jan,2023,NJ
+new york,1258,jan,2023,NY
+pennsylvania,1304,jan,2023,PA
+midwest region,9820,jan,2023,midwest region
+east north central division,5752,jan,2023,east north central division
+illinois,978,jan,2023,IL
+indiana,1529,jan,2023,IN
+michigan,1187,jan,2023,MI
+ohio,1150,jan,2023,OH
+wisconsin,908,jan,2023,WI
+west north central division,4068,jan,2023,west north central division
+iowa,355,jan,2023,IA
+kansas,492,jan,2023,KS
+minnesota,1366,jan,2023,MN
+missouri,1028,jan,2023,MO
+nebraska,429,jan,2023,NE
+north dakota,137,jan,2023,ND
+south dakota,261,jan,2023,SD
+south region,62217,jan,2023,south region
+south atlantic division,37164,jan,2023,south atlantic division
+delaware,412,jan,2023,DE
+district of columbia,800,jan,2023,district of columbia
+florida,14964,jan,2023,FL
+georgia,5940,jan,2023,GA
+maryland,1502,jan,2023,MD
+north carolina,7066,jan,2023,NC
+south carolina,3018,jan,2023,SC
+virginia,3272,jan,2023,VA
+west virginia,190,jan,2023,WV
+east south central division,5139,jan,2023,east south central division
+alabama,1250,jan,2023,AL
+kentucky,937,jan,2023,KY
+mississippi,585,jan,2023,MS
+tennessee,2367,jan,2023,TN
+west south central division,19914,jan,2023,west south central division
+arkansas,1034,jan,2023,AR
+louisiana,1392,jan,2023,LA
+oklahoma,641,jan,2023,OK
+texas,16847,jan,2023,TX
+west region,21473,jan,2023,west region
+mountain division,10316,jan,2023,mountain division
+arizona,2033,jan,2023,AZ
+colorado,3235,jan,2023,CO
+idaho,922,jan,2023,ID
+montana,225,jan,2023,MT
+nevada,1476,jan,2023,NV
+new mexico,581,jan,2023,NM
+utah,1776,jan,2023,UT
+wyoming,68,jan,2023,WY
+pacific division,11157,jan,2023,pacific division
+alaska,101,jan,2023,AK
+california,7138,jan,2023,CA
+hawaii,176,jan,2023,HI
+oregon,1484,jan,2023,OR
+washington,2258,jan,2023,WA
+united states,118742,jul,2023,united states
+northeast region,8946,jul,2023,northeast region
+new england division,2592,jul,2023,new england division
+connecticut,302,jul,2023,CT
+maine,503,jul,2023,ME
+massachusetts,1201,jul,2023,MA
+new hampshire,306,jul,2023,NH
+rhode island,82,jul,2023,RI
+vermont,198,jul,2023,VT
+middle atlantic division,6354,jul,2023,middle atlantic division
+new jersey,2625,jul,2023,NJ
+new york,1912,jul,2023,NY
+pennsylvania,1817,jul,2023,PA
+midwest region,15422,jul,2023,midwest region
+east north central division,8952,jul,2023,east north central division
+illinois,1165,jul,2023,IL
+indiana,2049,jul,2023,IN
+michigan,1883,jul,2023,MI
+ohio,2112,jul,2023,OH
+wisconsin,1743,jul,2023,WI
+west north central division,6470,jul,2023,west north central division
+iowa,817,jul,2023,IA
+kansas,630,jul,2023,KS
+minnesota,2145,jul,2023,MN
+missouri,1486,jul,2023,MO
+nebraska,641,jul,2023,NE
+north dakota,306,jul,2023,ND
+south dakota,445,jul,2023,SD
+south region,66530,jul,2023,south region
+south atlantic division,36714,jul,2023,south atlantic division
+delaware,536,jul,2023,DE
+district of columbia,299,jul,2023,district of columbia
+florida,15574,jul,2023,FL
+georgia,5423,jul,2023,GA
+maryland,1339,jul,2023,MD
+north carolina,7218,jul,2023,NC
+south carolina,3424,jul,2023,SC
+virginia,2561,jul,2023,VA
+west virginia,340,jul,2023,WV
+east south central division,6843,jul,2023,east south central division
+alabama,1491,jul,2023,AL
+kentucky,966,jul,2023,KY
+mississippi,588,jul,2023,MS
+tennessee,3798,jul,2023,TN
+west south central division,22973,jul,2023,west south central division
+arkansas,1335,jul,2023,AR
+louisiana,1270,jul,2023,LA
+oklahoma,1471,jul,2023,OK
+texas,18897,jul,2023,TX
+west region,27844,jul,2023,west region
+mountain division,15049,jul,2023,mountain division
+arizona,5367,jul,2023,AZ
+colorado,2737,jul,2023,CO
+idaho,1599,jul,2023,ID
+montana,520,jul,2023,MT
+nevada,1766,jul,2023,NV
+new mexico,682,jul,2023,NM
+utah,2254,jul,2023,UT
+wyoming,124,jul,2023,WY
+pacific division,12795,jul,2023,pacific division
+alaska,111,jul,2023,AK
+california,8190,jul,2023,CA
+hawaii,306,jul,2023,HI
+oregon,1525,jul,2023,OR
+washington,2663,jul,2023,WA
+united states,135692,jun,2023,united states
+northeast region,10542,jun,2023,northeast region
+new england division,3289,jun,2023,new england division
+connecticut,427,jun,2023,CT
+maine,613,jun,2023,ME
+massachusetts,1355,jun,2023,MA
+new hampshire,525,jun,2023,NH
+rhode island,140,jun,2023,RI
+vermont,229,jun,2023,VT
+middle atlantic division,7253,jun,2023,middle atlantic division
+new jersey,2515,jun,2023,NJ
+new york,2346,jun,2023,NY
+pennsylvania,2392,jun,2023,PA
+midwest region,18942,jun,2023,midwest region
+east north central division,11275,jun,2023,east north central division
+illinois,1481,jun,2023,IL
+indiana,2772,jun,2023,IN
+michigan,1906,jun,2023,MI
+ohio,3052,jun,2023,OH
+wisconsin,2064,jun,2023,WI
+west north central division,7667,jun,2023,west north central division
+iowa,1115,jun,2023,IA
+kansas,750,jun,2023,KS
+minnesota,2484,jun,2023,MN
+missouri,1642,jun,2023,MO
+nebraska,849,jun,2023,NE
+north dakota,204,jun,2023,ND
+south dakota,623,jun,2023,SD
+south region,73338,jun,2023,south region
+south atlantic division,41885,jun,2023,south atlantic division
+delaware,632,jun,2023,DE
+district of columbia,290,jun,2023,district of columbia
+florida,18825,jun,2023,FL
+georgia,5758,jun,2023,GA
+maryland,1210,jun,2023,MD
+north carolina,7820,jun,2023,NC
+south carolina,3778,jun,2023,SC
+virginia,3252,jun,2023,VA
+west virginia,320,jun,2023,WV
+east south central division,7456,jun,2023,east south central division
+alabama,1853,jun,2023,AL
+kentucky,1157,jun,2023,KY
+mississippi,658,jun,2023,MS
+tennessee,3788,jun,2023,TN
+west south central division,23997,jun,2023,west south central division
+arkansas,1313,jun,2023,AR
+louisiana,1270,jun,2023,LA
+oklahoma,970,jun,2023,OK
+texas,20444,jun,2023,TX
+west region,32870,jun,2023,west region
+mountain division,14425,jun,2023,mountain division
+arizona,3840,jun,2023,AZ
+colorado,3515,jun,2023,CO
+idaho,1687,jun,2023,ID
+montana,443,jun,2023,MT
+nevada,1528,jun,2023,NV
+new mexico,834,jun,2023,NM
+utah,2416,jun,2023,UT
+wyoming,162,jun,2023,WY
+pacific division,18445,jun,2023,pacific division
+alaska,94,jun,2023,AK
+california,13326,jun,2023,CA
+hawaii,335,jun,2023,HI
+oregon,1513,jun,2023,OR
+washington,3177,jun,2023,WA
+united states,116711,sep,2023,united states
+northeast region,8366,sep,2023,northeast region
+new england division,2603,sep,2023,new england division
+connecticut,323,sep,2023,CT
+maine,659,sep,2023,ME
+massachusetts,1009,sep,2023,MA
+new hampshire,328,sep,2023,NH
+rhode island,71,sep,2023,RI
+vermont,213,sep,2023,VT
+middle atlantic division,5763,sep,2023,middle atlantic division
+new jersey,2238,sep,2023,NJ
+new york,1269,sep,2023,NY
+pennsylvania,2256,sep,2023,PA
+midwest region,17168,sep,2023,midwest region
+east north central division,10139,sep,2023,east north central division
+illinois,1470,sep,2023,IL
+indiana,2527,sep,2023,IN
+michigan,1691,sep,2023,MI
+ohio,2485,sep,2023,OH
+wisconsin,1966,sep,2023,WI
+west north central division,7029,sep,2023,west north central division
+iowa,931,sep,2023,IA
+kansas,649,sep,2023,KS
+minnesota,1982,sep,2023,MN
+missouri,1489,sep,2023,MO
+nebraska,648,sep,2023,NE
+north dakota,263,sep,2023,ND
+south dakota,1067,sep,2023,SD
+south region,64067,sep,2023,south region
+south atlantic division,37155,sep,2023,south atlantic division
+delaware,468,sep,2023,DE
+district of columbia,537,sep,2023,district of columbia
+florida,15871,sep,2023,FL
+georgia,4651,sep,2023,GA
+maryland,951,sep,2023,MD
+north carolina,8318,sep,2023,NC
+south carolina,3378,sep,2023,SC
+virginia,2655,sep,2023,VA
+west virginia,326,sep,2023,WV
+east south central division,6319,sep,2023,east south central division
+alabama,1346,sep,2023,AL
+kentucky,1377,sep,2023,KY
+mississippi,605,sep,2023,MS
+tennessee,2991,sep,2023,TN
+west south central division,20593,sep,2023,west south central division
+arkansas,889,sep,2023,AR
+louisiana,1386,sep,2023,LA
+oklahoma,1245,sep,2023,OK
+texas,17073,sep,2023,TX
+west region,27110,sep,2023,west region
+mountain division,14399,sep,2023,mountain division
+arizona,5793,sep,2023,AZ
+colorado,2255,sep,2023,CO
+idaho,2013,sep,2023,ID
+montana,305,sep,2023,MT
+nevada,1351,sep,2023,NV
+new mexico,595,sep,2023,NM
+utah,1957,sep,2023,UT
+wyoming,130,sep,2023,WY
+pacific division,12711,sep,2023,pacific division
+alaska,64,sep,2023,AK
+california,8212,sep,2023,CA
+hawaii,387,sep,2023,HI
+oregon,1173,sep,2023,OR
+washington,2875,sep,2023,WA
+united states,125279,oct,2023,united states
+northeast region,10472,oct,2023,northeast region
+new england division,2581,oct,2023,new england division
+connecticut,450,oct,2023,CT
+maine,471,oct,2023,ME
+massachusetts,841,oct,2023,MA
+new hampshire,410,oct,2023,NH
+rhode island,80,oct,2023,RI
+vermont,329,oct,2023,VT
+middle atlantic division,7891,oct,2023,middle atlantic division
+new jersey,2896,oct,2023,NJ
+new york,2060,oct,2023,NY
+pennsylvania,2935,oct,2023,PA
+midwest region,16594,oct,2023,midwest region
+east north central division,10209,oct,2023,east north central division
+illinois,1473,oct,2023,IL
+indiana,3197,oct,2023,IN
+michigan,1763,oct,2023,MI
+ohio,2046,oct,2023,OH
+wisconsin,1730,oct,2023,WI
+west north central division,6385,oct,2023,west north central division
+iowa,912,oct,2023,IA
+kansas,565,oct,2023,KS
+minnesota,1665,oct,2023,MN
+missouri,1244,oct,2023,MO
+nebraska,1316,oct,2023,NE
+north dakota,175,oct,2023,ND
+south dakota,508,oct,2023,SD
+south region,70633,oct,2023,south region
+south atlantic division,39112,oct,2023,south atlantic division
+delaware,586,oct,2023,DE
+district of columbia,185,oct,2023,district of columbia
+florida,14930,oct,2023,FL
+georgia,5487,oct,2023,GA
+maryland,1573,oct,2023,MD
+north carolina,9180,oct,2023,NC
+south carolina,3605,oct,2023,SC
+virginia,3304,oct,2023,VA
+west virginia,262,oct,2023,WV
+east south central division,7466,oct,2023,east south central division
+alabama,1242,oct,2023,AL
+kentucky,1717,oct,2023,KY
+mississippi,604,oct,2023,MS
+tennessee,3903,oct,2023,TN
+west south central division,24055,oct,2023,west south central division
+arkansas,1123,oct,2023,AR
+louisiana,1126,oct,2023,LA
+oklahoma,976,oct,2023,OK
+texas,20830,oct,2023,TX
+west region,27580,oct,2023,west region
+mountain division,14559,oct,2023,mountain division
+arizona,5110,oct,2023,AZ
+colorado,2934,oct,2023,CO
+idaho,1624,oct,2023,ID
+montana,467,oct,2023,MT
+nevada,1672,oct,2023,NV
+new mexico,747,oct,2023,NM
+utah,1852,oct,2023,UT
+wyoming,153,oct,2023,WY
+pacific division,13021,oct,2023,pacific division
+alaska,82,oct,2023,AK
+california,8338,oct,2023,CA
+hawaii,343,oct,2023,HI
+oregon,1301,oct,2023,OR
+washington,2957,oct,2023,WA
+united states,141799,aug,2023,united states
+northeast region,11030,aug,2023,northeast region
+new england division,3140,aug,2023,new england division
+connecticut,519,aug,2023,CT
+maine,691,aug,2023,ME
+massachusetts,1117,aug,2023,MA
+new hampshire,491,aug,2023,NH
+rhode island,73,aug,2023,RI
+vermont,249,aug,2023,VT
+middle atlantic division,7890,aug,2023,middle atlantic division
+new jersey,3145,aug,2023,NJ
+new york,2868,aug,2023,NY
+pennsylvania,1877,aug,2023,PA
+midwest region,20412,aug,2023,midwest region
+east north central division,11067,aug,2023,east north central division
+illinois,1435,aug,2023,IL
+indiana,2165,aug,2023,IN
+michigan,2298,aug,2023,MI
+ohio,2977,aug,2023,OH
+wisconsin,2192,aug,2023,WI
+west north central division,9345,aug,2023,west north central division
+iowa,976,aug,2023,IA
+kansas,1413,aug,2023,KS
+minnesota,3185,aug,2023,MN
+missouri,1718,aug,2023,MO
+nebraska,892,aug,2023,NE
+north dakota,403,aug,2023,ND
+south dakota,758,aug,2023,SD
+south region,76502,aug,2023,south region
+south atlantic division,41386,aug,2023,south atlantic division
+delaware,662,aug,2023,DE
+district of columbia,120,aug,2023,district of columbia
+florida,17996,aug,2023,FL
+georgia,5917,aug,2023,GA
+maryland,1575,aug,2023,MD
+north carolina,7365,aug,2023,NC
+south carolina,4084,aug,2023,SC
+virginia,3386,aug,2023,VA
+west virginia,281,aug,2023,WV
+east south central division,9733,aug,2023,east south central division
+alabama,1672,aug,2023,AL
+kentucky,1389,aug,2023,KY
+mississippi,679,aug,2023,MS
+tennessee,5993,aug,2023,TN
+west south central division,25383,aug,2023,west south central division
+arkansas,1053,aug,2023,AR
+louisiana,1284,aug,2023,LA
+oklahoma,1323,aug,2023,OK
+texas,21723,aug,2023,TX
+west region,33855,aug,2023,west region
+mountain division,15443,aug,2023,mountain division
+arizona,4967,aug,2023,AZ
+colorado,3304,aug,2023,CO
+idaho,1880,aug,2023,ID
+montana,395,aug,2023,MT
+nevada,1298,aug,2023,NV
+new mexico,851,aug,2023,NM
+utah,2591,aug,2023,UT
+wyoming,157,aug,2023,WY
+pacific division,18412,aug,2023,pacific division
+alaska,44,aug,2023,AK
+california,12630,aug,2023,CA
+hawaii,392,aug,2023,HI
+oregon,1654,aug,2023,OR
+washington,3692,aug,2023,WA
+united states,139585,may,2023,united states
+northeast region,12302,may,2023,northeast region
+new england division,3541,may,2023,new england division
+connecticut,548,may,2023,CT
+maine,699,may,2023,ME
+massachusetts,1481,may,2023,MA
+new hampshire,472,may,2023,NH
+rhode island,131,may,2023,RI
+vermont,210,may,2023,VT
+middle atlantic division,8761,may,2023,middle atlantic division
+new jersey,3757,may,2023,NJ
+new york,2586,may,2023,NY
+pennsylvania,2418,may,2023,PA
+midwest region,19000,may,2023,midwest region
+east north central division,9888,may,2023,east north central division
+illinois,1418,may,2023,IL
+indiana,2522,may,2023,IN
+michigan,1614,may,2023,MI
+ohio,2327,may,2023,OH
+wisconsin,2007,may,2023,WI
+west north central division,9112,may,2023,west north central division
+iowa,1327,may,2023,IA
+kansas,1132,may,2023,KS
+minnesota,2847,may,2023,MN
+missouri,1818,may,2023,MO
+nebraska,777,may,2023,NE
+north dakota,450,may,2023,ND
+south dakota,761,may,2023,SD
+south region,76042,may,2023,south region
+south atlantic division,41485,may,2023,south atlantic division
+delaware,642,may,2023,DE
+district of columbia,35,may,2023,district of columbia
+florida,15062,may,2023,FL
+georgia,7066,may,2023,GA
+maryland,1744,may,2023,MD
+north carolina,9184,may,2023,NC
+south carolina,4258,may,2023,SC
+virginia,3161,may,2023,VA
+west virginia,333,may,2023,WV
+east south central division,8246,may,2023,east south central division
+alabama,2445,may,2023,AL
+kentucky,1147,may,2023,KY
+mississippi,690,may,2023,MS
+tennessee,3964,may,2023,TN
+west south central division,26311,may,2023,west south central division
+arkansas,1053,may,2023,AR
+louisiana,1351,may,2023,LA
+oklahoma,1929,may,2023,OK
+texas,21978,may,2023,TX
+west region,32241,may,2023,west region
+mountain division,16339,may,2023,mountain division
+arizona,4534,may,2023,AZ
+colorado,4311,may,2023,CO
+idaho,1765,may,2023,ID
+montana,573,may,2023,MT
+nevada,2224,may,2023,NV
+new mexico,658,may,2023,NM
+utah,2091,may,2023,UT
+wyoming,183,may,2023,WY
+pacific division,15902,may,2023,pacific division
+alaska,55,may,2023,AK
+california,10066,may,2023,CA
+hawaii,224,may,2023,HI
+oregon,1602,may,2023,OR
+washington,3955,may,2023,WA
+united states,119125,feb,2024,united states
+northeast region,14317,feb,2024,northeast region
+new england division,2551,feb,2024,new england division
+connecticut,312,feb,2024,CT
+maine,367,feb,2024,ME
+massachusetts,1303,feb,2024,MA
+new hampshire,286,feb,2024,NH
+rhode island,115,feb,2024,RI
+vermont,168,feb,2024,VT
+middle atlantic division,11766,feb,2024,middle atlantic division
+new jersey,3727,feb,2024,NJ
+new york,6159,feb,2024,NY
+pennsylvania,1880,feb,2024,PA
+midwest region,14294,feb,2024,midwest region
+east north central division,9007,feb,2024,east north central division
+illinois,982,feb,2024,IL
+indiana,2000,feb,2024,IN
+michigan,1405,feb,2024,MI
+ohio,2361,feb,2024,OH
+wisconsin,2259,feb,2024,WI
+west north central division,5287,feb,2024,west north central division
+iowa,708,feb,2024,IA
+kansas,852,feb,2024,KS
+minnesota,1236,feb,2024,MN
+missouri,1273,feb,2024,MO
+nebraska,851,feb,2024,NE
+north dakota,54,feb,2024,ND
+south dakota,313,feb,2024,SD
+south region,64913,feb,2024,south region
+south atlantic division,36336,feb,2024,south atlantic division
+delaware,548,feb,2024,DE
+district of columbia,83,feb,2024,district of columbia
+florida,13285,feb,2024,FL
+georgia,5397,feb,2024,GA
+maryland,1415,feb,2024,MD
+north carolina,8004,feb,2024,NC
+south carolina,4143,feb,2024,SC
+virginia,3141,feb,2024,VA
+west virginia,320,feb,2024,WV
+east south central division,8129,feb,2024,east south central division
+alabama,1574,feb,2024,AL
+kentucky,1619,feb,2024,KY
+mississippi,640,feb,2024,MS
+tennessee,4296,feb,2024,TN
+west south central division,20448,feb,2024,west south central division
+arkansas,1089,feb,2024,AR
+louisiana,1239,feb,2024,LA
+oklahoma,922,feb,2024,OK
+texas,17198,feb,2024,TX
+west region,25601,feb,2024,west region
+mountain division,13856,feb,2024,mountain division
+arizona,4977,feb,2024,AZ
+colorado,3079,feb,2024,CO
+idaho,1239,feb,2024,ID
+montana,302,feb,2024,MT
+nevada,1773,feb,2024,NV
+new mexico,784,feb,2024,NM
+utah,1580,feb,2024,UT
+wyoming,122,feb,2024,WY
+pacific division,11745,feb,2024,pacific division
+alaska,35,feb,2024,AK
+california,7745,feb,2024,CA
+hawaii,384,feb,2024,HI
+oregon,873,feb,2024,OR
+washington,2708,feb,2024,WA
+united states,124318,mar,2024,united states
+northeast region,12440,mar,2024,northeast region
+new england division,3061,mar,2024,new england division
+connecticut,297,mar,2024,CT
+maine,568,mar,2024,ME
+massachusetts,1507,mar,2024,MA
+new hampshire,431,mar,2024,NH
+rhode island,100,mar,2024,RI
+vermont,158,mar,2024,VT
+middle atlantic division,9379,mar,2024,middle atlantic division
+new jersey,2826,mar,2024,NJ
+new york,4060,mar,2024,NY
+pennsylvania,2493,mar,2024,PA
+midwest region,15877,mar,2024,midwest region
+east north central division,9646,mar,2024,east north central division
+illinois,2175,mar,2024,IL
+indiana,2214,mar,2024,IN
+michigan,1525,mar,2024,MI
+ohio,2253,mar,2024,OH
+wisconsin,1479,mar,2024,WI
+west north central division,6231,mar,2024,west north central division
+iowa,917,mar,2024,IA
+kansas,897,mar,2024,KS
+minnesota,1519,mar,2024,MN
+missouri,1356,mar,2024,MO
+nebraska,786,mar,2024,NE
+north dakota,117,mar,2024,ND
+south dakota,639,mar,2024,SD
+south region,67235,mar,2024,south region
+south atlantic division,38110,mar,2024,south atlantic division
+delaware,596,mar,2024,DE
+district of columbia,105,mar,2024,district of columbia
+florida,14849,mar,2024,FL
+georgia,6443,mar,2024,GA
+maryland,1662,mar,2024,MD
+north carolina,7680,mar,2024,NC
+south carolina,3814,mar,2024,SC
+virginia,2592,mar,2024,VA
+west virginia,369,mar,2024,WV
+east south central division,6604,mar,2024,east south central division
+alabama,1595,mar,2024,AL
+kentucky,1236,mar,2024,KY
+mississippi,566,mar,2024,MS
+tennessee,3207,mar,2024,TN
+west south central division,22521,mar,2024,west south central division
+arkansas,1242,mar,2024,AR
+louisiana,1189,mar,2024,LA
+oklahoma,1540,mar,2024,OK
+texas,18550,mar,2024,TX
+west region,28766,mar,2024,west region
+mountain division,15001,mar,2024,mountain division
+arizona,5363,mar,2024,AZ
+colorado,2791,mar,2024,CO
+idaho,1433,mar,2024,ID
+montana,355,mar,2024,MT
+nevada,1670,mar,2024,NV
+new mexico,879,mar,2024,NM
+utah,2252,mar,2024,UT
+wyoming,258,mar,2024,WY
+pacific division,13765,mar,2024,pacific division
+alaska,45,mar,2024,AK
+california,7984,mar,2024,CA
+hawaii,313,mar,2024,HI
+oregon,1357,mar,2024,OR
+washington,4066,mar,2024,WA
+united states,132325,apr,2024,united states
+northeast region,12052,apr,2024,northeast region
+new england division,2753,apr,2024,new england division
+connecticut,557,apr,2024,CT
+maine,539,apr,2024,ME
+massachusetts,903,apr,2024,MA
+new hampshire,386,apr,2024,NH
+rhode island,82,apr,2024,RI
+vermont,286,apr,2024,VT
+middle atlantic division,9299,apr,2024,middle atlantic division
+new jersey,3096,apr,2024,NJ
+new york,4076,apr,2024,NY
+pennsylvania,2127,apr,2024,PA
+midwest region,16226,apr,2024,midwest region
+east north central division,9952,apr,2024,east north central division
+illinois,1196,apr,2024,IL
+indiana,2414,apr,2024,IN
+michigan,1685,apr,2024,MI
+ohio,2525,apr,2024,OH
+wisconsin,2132,apr,2024,WI
+west north central division,6274,apr,2024,west north central division
+iowa,894,apr,2024,IA
+kansas,907,apr,2024,KS
+minnesota,1683,apr,2024,MN
+missouri,1228,apr,2024,MO
+nebraska,784,apr,2024,NE
+north dakota,361,apr,2024,ND
+south dakota,417,apr,2024,SD
+south region,77501,apr,2024,south region
+south atlantic division,43441,apr,2024,south atlantic division
+delaware,482,apr,2024,DE
+district of columbia,241,apr,2024,district of columbia
+florida,17901,apr,2024,FL
+georgia,6935,apr,2024,GA
+maryland,2201,apr,2024,MD
+north carolina,8771,apr,2024,NC
+south carolina,4189,apr,2024,SC
+virginia,2386,apr,2024,VA
+west virginia,335,apr,2024,WV
+east south central division,8291,apr,2024,east south central division
+alabama,1778,apr,2024,AL
+kentucky,1602,apr,2024,KY
+mississippi,784,apr,2024,MS
+tennessee,4127,apr,2024,TN
+west south central division,25769,apr,2024,west south central division
+arkansas,1137,apr,2024,AR
+louisiana,1239,apr,2024,LA
+oklahoma,1500,apr,2024,OK
+texas,21893,apr,2024,TX
+west region,26546,apr,2024,west region
+mountain division,14304,apr,2024,mountain division
+arizona,5357,apr,2024,AZ
+colorado,2410,apr,2024,CO
+idaho,1543,apr,2024,ID
+montana,319,apr,2024,MT
+nevada,1568,apr,2024,NV
+new mexico,612,apr,2024,NM
+utah,2309,apr,2024,UT
+wyoming,186,apr,2024,WY
+pacific division,12242,apr,2024,pacific division
+alaska,64,apr,2024,AK
+california,7696,apr,2024,CA
+hawaii,268,apr,2024,HI
+oregon,1221,apr,2024,OR
+washington,2993,apr,2024,WA
+united states,114776,jan,2024,united states
+northeast region,10665,jan,2024,northeast region
+new england division,2475,jan,2024,new england division
+connecticut,253,jan,2024,CT
+maine,389,jan,2024,ME
+massachusetts,1359,jan,2024,MA
+new hampshire,249,jan,2024,NH
+rhode island,92,jan,2024,RI
+vermont,133,jan,2024,VT
+middle atlantic division,8190,jan,2024,middle atlantic division
+new jersey,3199,jan,2024,NJ
+new york,3302,jan,2024,NY
+pennsylvania,1689,jan,2024,PA
+midwest region,12258,jan,2024,midwest region
+east north central division,6537,jan,2024,east north central division
+illinois,821,jan,2024,IL
+indiana,1511,jan,2024,IN
+michigan,1100,jan,2024,MI
+ohio,2129,jan,2024,OH
+wisconsin,976,jan,2024,WI
+west north central division,5721,jan,2024,west north central division
+iowa,572,jan,2024,IA
+kansas,594,jan,2024,KS
+minnesota,2069,jan,2024,MN
+missouri,1322,jan,2024,MO
+nebraska,826,jan,2024,NE
+north dakota,29,jan,2024,ND
+south dakota,309,jan,2024,SD
+south region,66727,jan,2024,south region
+south atlantic division,37752,jan,2024,south atlantic division
+delaware,621,jan,2024,DE
+district of columbia,21,jan,2024,district of columbia
+florida,16132,jan,2024,FL
+georgia,5116,jan,2024,GA
+maryland,1007,jan,2024,MD
+north carolina,7594,jan,2024,NC
+south carolina,3926,jan,2024,SC
+virginia,3038,jan,2024,VA
+west virginia,297,jan,2024,WV
+east south central division,6806,jan,2024,east south central division
+alabama,2095,jan,2024,AL
+kentucky,989,jan,2024,KY
+mississippi,575,jan,2024,MS
+tennessee,3147,jan,2024,TN
+west south central division,22169,jan,2024,west south central division
+arkansas,828,jan,2024,AR
+louisiana,1245,jan,2024,LA
+oklahoma,878,jan,2024,OK
+texas,19218,jan,2024,TX
+west region,25126,jan,2024,west region
+mountain division,14007,jan,2024,mountain division
+arizona,5576,jan,2024,AZ
+colorado,2562,jan,2024,CO
+idaho,1094,jan,2024,ID
+montana,306,jan,2024,MT
+nevada,1537,jan,2024,NV
+new mexico,574,jan,2024,NM
+utah,2228,jan,2024,UT
+wyoming,130,jan,2024,WY
+pacific division,11119,jan,2024,pacific division
+alaska,26,jan,2024,AK
+california,7458,jan,2024,CA
+hawaii,308,jan,2024,HI
+oregon,852,jan,2024,OR
+washington,2475,jan,2024,WA
+united states,126531,jul,2024,united states
+northeast region,12267,jul,2024,northeast region
+new england division,3049,jul,2024,new england division
+connecticut,467,jul,2024,CT
+maine,536,jul,2024,ME
+massachusetts,1015,jul,2024,MA
+new hampshire,536,jul,2024,NH
+rhode island,151,jul,2024,RI
+vermont,344,jul,2024,VT
+middle atlantic division,9218,jul,2024,middle atlantic division
+new jersey,3032,jul,2024,NJ
+new york,4144,jul,2024,NY
+pennsylvania,2042,jul,2024,PA
+midwest region,17257,jul,2024,midwest region
+east north central division,10105,jul,2024,east north central division
+illinois,1497,jul,2024,IL
+indiana,2179,jul,2024,IN
+michigan,1732,jul,2024,MI
+ohio,2456,jul,2024,OH
+wisconsin,2241,jul,2024,WI
+west north central division,7152,jul,2024,west north central division
+iowa,1284,jul,2024,IA
+kansas,634,jul,2024,KS
+minnesota,1964,jul,2024,MN
+missouri,1558,jul,2024,MO
+nebraska,967,jul,2024,NE
+north dakota,212,jul,2024,ND
+south dakota,533,jul,2024,SD
+south region,69918,jul,2024,south region
+south atlantic division,39585,jul,2024,south atlantic division
+delaware,465,jul,2024,DE
+district of columbia,149,jul,2024,district of columbia
+florida,15414,jul,2024,FL
+georgia,5054,jul,2024,GA
+maryland,1345,jul,2024,MD
+north carolina,8956,jul,2024,NC
+south carolina,4605,jul,2024,SC
+virginia,3217,jul,2024,VA
+west virginia,380,jul,2024,WV
+east south central division,6939,jul,2024,east south central division
+alabama,1456,jul,2024,AL
+kentucky,1227,jul,2024,KY
+mississippi,692,jul,2024,MS
+tennessee,3564,jul,2024,TN
+west south central division,23394,jul,2024,west south central division
+arkansas,1051,jul,2024,AR
+louisiana,1347,jul,2024,LA
+oklahoma,1137,jul,2024,OK
+texas,19859,jul,2024,TX
+west region,27089,jul,2024,west region
+mountain division,13882,jul,2024,mountain division
+arizona,5003,jul,2024,AZ
+colorado,2489,jul,2024,CO
+idaho,1450,jul,2024,ID
+montana,571,jul,2024,MT
+nevada,1653,jul,2024,NV
+new mexico,749,jul,2024,NM
+utah,1779,jul,2024,UT
+wyoming,188,jul,2024,WY
+pacific division,13207,jul,2024,pacific division
+alaska,57,jul,2024,AK
+california,8518,jul,2024,CA
+hawaii,275,jul,2024,HI
+oregon,1276,jul,2024,OR
+washington,3081,jul,2024,WA
+united states,125656,jun,2024,united states
+northeast region,11797,jun,2024,northeast region
+new england division,3087,jun,2024,new england division
+connecticut,328,jun,2024,CT
+maine,589,jun,2024,ME
+massachusetts,1475,jun,2024,MA
+new hampshire,407,jun,2024,NH
+rhode island,92,jun,2024,RI
+vermont,196,jun,2024,VT
+middle atlantic division,8710,jun,2024,middle atlantic division
+new jersey,2865,jun,2024,NJ
+new york,3526,jun,2024,NY
+pennsylvania,2319,jun,2024,PA
+midwest region,18107,jun,2024,midwest region
+east north central division,11093,jun,2024,east north central division
+illinois,1690,jun,2024,IL
+indiana,2412,jun,2024,IN
+michigan,1759,jun,2024,MI
+ohio,3277,jun,2024,OH
+wisconsin,1955,jun,2024,WI
+west north central division,7014,jun,2024,west north central division
+iowa,1061,jun,2024,IA
+kansas,647,jun,2024,KS
+minnesota,1983,jun,2024,MN
+missouri,1920,jun,2024,MO
+nebraska,542,jun,2024,NE
+north dakota,418,jun,2024,ND
+south dakota,443,jun,2024,SD
+south region,67167,jun,2024,south region
+south atlantic division,39084,jun,2024,south atlantic division
+delaware,579,jun,2024,DE
+district of columbia,88,jun,2024,district of columbia
+florida,15739,jun,2024,FL
+georgia,5755,jun,2024,GA
+maryland,1371,jun,2024,MD
+north carolina,8368,jun,2024,NC
+south carolina,4189,jun,2024,SC
+virginia,2677,jun,2024,VA
+west virginia,318,jun,2024,WV
+east south central division,6555,jun,2024,east south central division
+alabama,1503,jun,2024,AL
+kentucky,1170,jun,2024,KY
+mississippi,664,jun,2024,MS
+tennessee,3218,jun,2024,TN
+west south central division,21528,jun,2024,west south central division
+arkansas,1145,jun,2024,AR
+louisiana,1252,jun,2024,LA
+oklahoma,1069,jun,2024,OK
+texas,18062,jun,2024,TX
+west region,28585,jun,2024,west region
+mountain division,14679,jun,2024,mountain division
+arizona,5351,jun,2024,AZ
+colorado,2532,jun,2024,CO
+idaho,1414,jun,2024,ID
+montana,534,jun,2024,MT
+nevada,1840,jun,2024,NV
+new mexico,807,jun,2024,NM
+utah,2058,jun,2024,UT
+wyoming,143,jun,2024,WY
+pacific division,13906,jun,2024,pacific division
+alaska,75,jun,2024,AK
+california,9363,jun,2024,CA
+hawaii,324,jun,2024,HI
+oregon,1757,jun,2024,OR
+washington,2387,jun,2024,WA
+united states,113534,sep,2024,united states
+northeast region,10141,sep,2024,northeast region
+new england division,2680,sep,2024,new england division
+connecticut,647,sep,2024,CT
+maine,491,sep,2024,ME
+massachusetts,731,sep,2024,MA
+new hampshire,563,sep,2024,NH
+rhode island,98,sep,2024,RI
+vermont,150,sep,2024,VT
+middle atlantic division,7461,sep,2024,middle atlantic division
+new jersey,2588,sep,2024,NJ
+new york,2871,sep,2024,NY
+pennsylvania,2002,sep,2024,PA
+midwest region,18302,sep,2024,midwest region
+east north central division,10655,sep,2024,east north central division
+illinois,1906,sep,2024,IL
+indiana,2415,sep,2024,IN
+michigan,1972,sep,2024,MI
+ohio,2619,sep,2024,OH
+wisconsin,1743,sep,2024,WI
+west north central division,7647,sep,2024,west north central division
+iowa,1284,sep,2024,IA
+kansas,716,sep,2024,KS
+minnesota,2110,sep,2024,MN
+missouri,1351,sep,2024,MO
+nebraska,1469,sep,2024,NE
+north dakota,232,sep,2024,ND
+south dakota,485,sep,2024,SD
+south region,59145,sep,2024,south region
+south atlantic division,32147,sep,2024,south atlantic division
+delaware,399,sep,2024,DE
+district of columbia,122,sep,2024,district of columbia
+florida,12380,sep,2024,FL
+georgia,5099,sep,2024,GA
+maryland,1294,sep,2024,MD
+north carolina,6885,sep,2024,NC
+south carolina,3586,sep,2024,SC
+virginia,2022,sep,2024,VA
+west virginia,360,sep,2024,WV
+east south central division,6935,sep,2024,east south central division
+alabama,1433,sep,2024,AL
+kentucky,1084,sep,2024,KY
+mississippi,542,sep,2024,MS
+tennessee,3876,sep,2024,TN
+west south central division,20063,sep,2024,west south central division
+arkansas,1641,sep,2024,AR
+louisiana,1186,sep,2024,LA
+oklahoma,945,sep,2024,OK
+texas,16291,sep,2024,TX
+west region,25946,sep,2024,west region
+mountain division,13645,sep,2024,mountain division
+arizona,4413,sep,2024,AZ
+colorado,2574,sep,2024,CO
+idaho,1636,sep,2024,ID
+montana,352,sep,2024,MT
+nevada,1281,sep,2024,NV
+new mexico,862,sep,2024,NM
+utah,2372,sep,2024,UT
+wyoming,155,sep,2024,WY
+pacific division,12301,sep,2024,pacific division
+alaska,62,sep,2024,AK
+california,7798,sep,2024,CA
+hawaii,236,sep,2024,HI
+oregon,1168,sep,2024,OR
+washington,3037,sep,2024,WA
+united states,125057,oct,2024,united states
+northeast region,11143,oct,2024,northeast region
+new england division,2999,oct,2024,new england division
+connecticut,564,oct,2024,CT
+maine,515,oct,2024,ME
+massachusetts,1289,oct,2024,MA
+new hampshire,334,oct,2024,NH
+rhode island,144,oct,2024,RI
+vermont,153,oct,2024,VT
+middle atlantic division,8144,oct,2024,middle atlantic division
+new jersey,2982,oct,2024,NJ
+new york,3008,oct,2024,NY
+pennsylvania,2154,oct,2024,PA
+midwest region,20467,oct,2024,midwest region
+east north central division,12344,oct,2024,east north central division
+illinois,1933,oct,2024,IL
+indiana,2866,oct,2024,IN
+michigan,2423,oct,2024,MI
+ohio,2661,oct,2024,OH
+wisconsin,2461,oct,2024,WI
+west north central division,8123,oct,2024,west north central division
+iowa,1210,oct,2024,IA
+kansas,821,oct,2024,KS
+minnesota,2081,oct,2024,MN
+missouri,2229,oct,2024,MO
+nebraska,703,oct,2024,NE
+north dakota,325,oct,2024,ND
+south dakota,754,oct,2024,SD
+south region,65598,oct,2024,south region
+south atlantic division,34007,oct,2024,south atlantic division
+delaware,540,oct,2024,DE
+district of columbia,465,oct,2024,district of columbia
+florida,13302,oct,2024,FL
+georgia,4601,oct,2024,GA
+maryland,1284,oct,2024,MD
+north carolina,7146,oct,2024,NC
+south carolina,3700,oct,2024,SC
+virginia,2662,oct,2024,VA
+west virginia,307,oct,2024,WV
+east south central division,7178,oct,2024,east south central division
+alabama,2106,oct,2024,AL
+kentucky,1189,oct,2024,KY
+mississippi,722,oct,2024,MS
+tennessee,3161,oct,2024,TN
+west south central division,24413,oct,2024,west south central division
+arkansas,1289,oct,2024,AR
+louisiana,1105,oct,2024,LA
+oklahoma,1250,oct,2024,OK
+texas,20769,oct,2024,TX
+west region,27849,oct,2024,west region
+mountain division,14344,oct,2024,mountain division
+arizona,4919,oct,2024,AZ
+colorado,3001,oct,2024,CO
+idaho,1706,oct,2024,ID
+montana,423,oct,2024,MT
+nevada,1131,oct,2024,NV
+new mexico,632,oct,2024,NM
+utah,2379,oct,2024,UT
+wyoming,153,oct,2024,WY
+pacific division,13505,oct,2024,pacific division
+alaska,92,oct,2024,AK
+california,8597,oct,2024,CA
+hawaii,320,oct,2024,HI
+oregon,989,oct,2024,OR
+washington,3507,oct,2024,WA
+united states,131857,aug,2024,united states
+northeast region,12592,aug,2024,northeast region
+new england division,3444,aug,2024,new england division
+connecticut,463,aug,2024,CT
+maine,599,aug,2024,ME
+massachusetts,1561,aug,2024,MA
+new hampshire,546,aug,2024,NH
+rhode island,94,aug,2024,RI
+vermont,181,aug,2024,VT
+middle atlantic division,9148,aug,2024,middle atlantic division
+new jersey,3645,aug,2024,NJ
+new york,3369,aug,2024,NY
+pennsylvania,2134,aug,2024,PA
+midwest region,19757,aug,2024,midwest region
+east north central division,11175,aug,2024,east north central division
+illinois,2217,aug,2024,IL
+indiana,2647,aug,2024,IN
+michigan,2109,aug,2024,MI
+ohio,2308,aug,2024,OH
+wisconsin,1894,aug,2024,WI
+west north central division,8582,aug,2024,west north central division
+iowa,1142,aug,2024,IA
+kansas,1036,aug,2024,KS
+minnesota,2147,aug,2024,MN
+missouri,2232,aug,2024,MO
+nebraska,749,aug,2024,NE
+north dakota,171,aug,2024,ND
+south dakota,1105,aug,2024,SD
+south region,72567,aug,2024,south region
+south atlantic division,40257,aug,2024,south atlantic division
+delaware,532,aug,2024,DE
+district of columbia,54,aug,2024,district of columbia
+florida,15666,aug,2024,FL
+georgia,5750,aug,2024,GA
+maryland,1444,aug,2024,MD
+north carolina,9465,aug,2024,NC
+south carolina,3767,aug,2024,SC
+virginia,3166,aug,2024,VA
+west virginia,413,aug,2024,WV
+east south central division,8640,aug,2024,east south central division
+alabama,1759,aug,2024,AL
+kentucky,1763,aug,2024,KY
+mississippi,653,aug,2024,MS
+tennessee,4465,aug,2024,TN
+west south central division,23670,aug,2024,west south central division
+arkansas,1188,aug,2024,AR
+louisiana,1250,aug,2024,LA
+oklahoma,1127,aug,2024,OK
+texas,20105,aug,2024,TX
+west region,26941,aug,2024,west region
+mountain division,13314,aug,2024,mountain division
+arizona,4919,aug,2024,AZ
+colorado,2062,aug,2024,CO
+idaho,1602,aug,2024,ID
+montana,459,aug,2024,MT
+nevada,1494,aug,2024,NV
+new mexico,739,aug,2024,NM
+utah,1877,aug,2024,UT
+wyoming,162,aug,2024,WY
+pacific division,13627,aug,2024,pacific division
+alaska,64,aug,2024,AK
+california,8905,aug,2024,CA
+hawaii,256,aug,2024,HI
+oregon,1154,aug,2024,OR
+washington,3248,aug,2024,WA
+united states,132413,may,2024,united states
+northeast region,10910,may,2024,northeast region
+new england division,2986,may,2024,new england division
+connecticut,406,may,2024,CT
+maine,661,may,2024,ME
+massachusetts,1064,may,2024,MA
+new hampshire,462,may,2024,NH
+rhode island,97,may,2024,RI
+vermont,296,may,2024,VT
+middle atlantic division,7924,may,2024,middle atlantic division
+new jersey,2686,may,2024,NJ
+new york,2771,may,2024,NY
+pennsylvania,2467,may,2024,PA
+midwest region,18250,may,2024,midwest region
+east north central division,11116,may,2024,east north central division
+illinois,1770,may,2024,IL
+indiana,2069,may,2024,IN
+michigan,2065,may,2024,MI
+ohio,2845,may,2024,OH
+wisconsin,2367,may,2024,WI
+west north central division,7134,may,2024,west north central division
+iowa,849,may,2024,IA
+kansas,857,may,2024,KS
+minnesota,2092,may,2024,MN
+missouri,1362,may,2024,MO
+nebraska,1230,may,2024,NE
+north dakota,196,may,2024,ND
+south dakota,548,may,2024,SD
+south region,73229,may,2024,south region
+south atlantic division,42105,may,2024,south atlantic division
+delaware,568,may,2024,DE
+district of columbia,40,may,2024,district of columbia
+florida,17110,may,2024,FL
+georgia,5976,may,2024,GA
+maryland,1615,may,2024,MD
+north carolina,8525,may,2024,NC
+south carolina,4521,may,2024,SC
+virginia,3364,may,2024,VA
+west virginia,386,may,2024,WV
+east south central division,9203,may,2024,east south central division
+alabama,2260,may,2024,AL
+kentucky,1265,may,2024,KY
+mississippi,697,may,2024,MS
+tennessee,4981,may,2024,TN
+west south central division,21921,may,2024,west south central division
+arkansas,1052,may,2024,AR
+louisiana,1286,may,2024,LA
+oklahoma,1182,may,2024,OK
+texas,18401,may,2024,TX
+west region,30024,may,2024,west region
+mountain division,14486,may,2024,mountain division
+arizona,4490,may,2024,AZ
+colorado,2904,may,2024,CO
+idaho,1772,may,2024,ID
+montana,389,may,2024,MT
+nevada,1881,may,2024,NV
+new mexico,740,may,2024,NM
+utah,2081,may,2024,UT
+wyoming,229,may,2024,WY
+pacific division,15538,may,2024,pacific division
+alaska,213,may,2024,AK
+california,10442,may,2024,CA
+hawaii,303,may,2024,HI
+oregon,1304,may,2024,OR
+washington,3276,may,2024,WA

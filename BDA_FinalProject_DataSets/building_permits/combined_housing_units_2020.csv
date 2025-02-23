@@ -1,0 +1,781 @@
+Region,Total,1 Unit,2 Units,3 and 4 Units,5 Units or More,Month,Year
+United States                 ,133600,88538,2096,1435,41531,dec,2020
+Northeast Region              ,12502,5230,320,226,6726,dec,2020
+New England Division          ,3116,1621,56,107,1332,dec,2020
+Connecticut                   ,395,253,6,0,136,dec,2020
+Maine                         ,375,358,8,4,5,dec,2020
+Massachusetts                 ,1762,641,16,96,1009,dec,2020
+New Hampshire                 ,342,183,8,4,147,dec,2020
+Rhode Island                  ,119,90,18,3,8,dec,2020
+Vermont                       ,123,96,0,0,27,dec,2020
+Middle Atlantic Division      ,9386,3609,264,119,5394,dec,2020
+New Jersey                    ,3112,1084,72,40,1916,dec,2020
+New York                      ,3941,1046,98,47,2750,dec,2020
+Pennsylvania                  ,2333,1479,94,32,728,dec,2020
+Midwest Region                ,16034,10275,320,187,5252,dec,2020
+East North Central Division   ,8761,6081,144,143,2393,dec,2020
+Illinois                      ,1284,753,12,47,472,dec,2020
+Indiana                       ,1843,1584,24,8,227,dec,2020
+Michigan                      ,2167,1422,48,7,690,dec,2020
+Ohio                          ,2498,1572,44,53,829,dec,2020
+Wisconsin                     ,969,750,16,28,175,dec,2020
+West North Central Division   ,7273,4194,176,44,2859,dec,2020
+Iowa                          ,1115,733,32,3,347,dec,2020
+Kansas                        ,824,452,60,0,312,dec,2020
+Minnesota                     ,2847,1255,48,4,1540,dec,2020
+Missouri                      ,1241,1028,18,15,180,dec,2020
+Nebraska                      ,730,418,2,3,307,dec,2020
+North Dakota                  ,168,55,16,0,97,dec,2020
+South Dakota                  ,348,253,0,19,76,dec,2020
+South Region                  ,66886,51291,852,515,14228,dec,2020
+South Atlantic Division       ,35725,27450,322,204,7749,dec,2020
+Delaware                      ,830,784,38,3,5,dec,2020
+District of Columbia          ,1224,8,16,0,1200,dec,2020
+Florida                       ,14402,11019,154,66,3163,dec,2020
+Georgia                       ,4564,4024,18,53,469,dec,2020
+Maryland                      ,1785,1155,24,3,603,dec,2020
+North Carolina                ,6018,4642,14,46,1316,dec,2020
+South Carolina                ,4046,3470,56,33,487,dec,2020
+Virginia                      ,2612,2156,0,0,456,dec,2020
+West Virginia                 ,244,192,2,0,50,dec,2020
+East South Central Division   ,6970,5723,32,140,1075,dec,2020
+Alabama                       ,1555,1467,8,15,65,dec,2020
+Kentucky                      ,907,733,10,3,161,dec,2020
+Mississippi                   ,629,586,2,9,32,dec,2020
+Tennessee                     ,3879,2937,12,113,817,dec,2020
+West South Central Division   ,24191,18118,498,171,5404,dec,2020
+Arkansas                      ,873,757,50,42,24,dec,2020
+Louisiana                     ,1514,1407,62,6,39,dec,2020
+Oklahoma                      ,1169,1069,22,8,70,dec,2020
+Texas                         ,20635,14885,364,115,5271,dec,2020
+West Region                   ,38178,21742,604,507,15325,dec,2020
+Mountain Division             ,19210,12618,292,212,6088,dec,2020
+Arizona                       ,6350,4229,90,24,2007,dec,2020
+Colorado                      ,5336,3215,52,19,2050,dec,2020
+Idaho                         ,1637,1195,26,36,380,dec,2020
+Montana                       ,580,248,42,10,280,dec,2020
+Nevada                        ,2141,1573,48,33,487,dec,2020
+New Mexico                    ,391,343,0,0,48,dec,2020
+Utah                          ,2561,1693,32,75,761,dec,2020
+Wyoming                       ,214,122,2,15,75,dec,2020
+Pacific Division              ,18968,9124,312,295,9237,dec,2020
+Alaska                        ,135,102,4,8,21,dec,2020
+California                    ,12584,5859,180,198,6347,dec,2020
+Hawaii                        ,383,214,2,4,163,dec,2020
+Oregon                        ,1564,998,28,0,538,dec,2020
+Washington                    ,4302,1951,98,85,2168,dec,2020
+United States                 ,100240,70845,1842,1367,26186,feb,2020
+Northeast Region              ,7906,3951,300,224,3431,feb,2020
+New England Division          ,2014,1180,56,35,743,feb,2020
+Connecticut                   ,442,208,4,11,219,feb,2020
+Maine                         ,254,217,8,0,29,feb,2020
+Massachusetts                 ,850,395,26,18,411,feb,2020
+New Hampshire                 ,277,195,14,0,68,feb,2020
+Rhode Island                  ,89,85,4,0,0,feb,2020
+Vermont                       ,102,80,0,6,16,feb,2020
+Middle Atlantic Division      ,5892,2771,244,189,2688,feb,2020
+New Jersey                    ,1757,1050,120,23,564,feb,2020
+New York                      ,2180,577,58,51,1494,feb,2020
+Pennsylvania                  ,1955,1144,66,115,630,feb,2020
+Midwest Region                ,10340,7158,218,154,2810,feb,2020
+East North Central Division   ,6203,4424,74,64,1641,feb,2020
+Illinois                      ,1247,575,8,39,625,feb,2020
+Indiana                       ,1187,1128,16,6,37,feb,2020
+Michigan                      ,1155,967,4,10,174,feb,2020
+Ohio                          ,1698,1121,14,6,557,feb,2020
+Wisconsin                     ,916,633,32,3,248,feb,2020
+West North Central Division   ,4137,2734,144,90,1169,feb,2020
+Iowa                          ,438,425,4,0,9,feb,2020
+Kansas                        ,523,351,68,16,88,feb,2020
+Minnesota                     ,1015,648,22,7,338,feb,2020
+Missouri                      ,1339,769,38,59,473,feb,2020
+Nebraska                      ,568,331,12,8,217,feb,2020
+North Dakota                  ,47,47,0,0,0,feb,2020
+South Dakota                  ,207,163,0,0,44,feb,2020
+South Region                  ,55115,41548,816,401,12350,feb,2020
+South Atlantic Division       ,29742,22554,352,151,6685,feb,2020
+Delaware                      ,578,521,28,6,23,feb,2020
+District of Columbia          ,336,7,22,0,307,feb,2020
+Florida                       ,12111,8649,194,91,3177,feb,2020
+Georgia                       ,4183,3381,68,21,713,feb,2020
+Maryland                      ,1246,1007,2,12,225,feb,2020
+North Carolina                ,5691,4414,26,7,1244,feb,2020
+South Carolina                ,2824,2625,2,0,197,feb,2020
+Virginia                      ,2573,1775,8,14,776,feb,2020
+West Virginia                 ,200,175,2,0,23,feb,2020
+East South Central Division   ,6227,4740,88,89,1310,feb,2020
+Alabama                       ,1380,1276,6,4,94,feb,2020
+Kentucky                      ,891,605,52,12,222,feb,2020
+Mississippi                   ,557,536,2,3,16,feb,2020
+Tennessee                     ,3399,2323,28,70,978,feb,2020
+West South Central Division   ,19146,14254,376,161,4355,feb,2020
+Arkansas                      ,688,570,48,13,57,feb,2020
+Louisiana                     ,1274,1176,26,7,65,feb,2020
+Oklahoma                      ,909,847,42,3,17,feb,2020
+Texas                         ,16275,11661,260,138,4216,feb,2020
+West Region                   ,26879,18188,508,588,7595,feb,2020
+Mountain Division             ,13643,9749,152,297,3445,feb,2020
+Arizona                       ,4851,3090,40,9,1712,feb,2020
+Colorado                      ,3121,2392,12,30,687,feb,2020
+Idaho                         ,1244,1006,44,16,178,feb,2020
+Montana                       ,273,169,16,29,59,feb,2020
+Nevada                        ,1800,1166,30,83,521,feb,2020
+New Mexico                    ,374,355,2,0,17,feb,2020
+Utah                          ,1877,1486,6,114,271,feb,2020
+Wyoming                       ,103,85,2,16,0,feb,2020
+Pacific Division              ,13236,8439,356,291,4150,feb,2020
+Alaska                        ,114,92,8,4,10,feb,2020
+California                    ,8759,5635,240,199,2685,feb,2020
+Hawaii                        ,182,137,6,0,39,feb,2020
+Oregon                        ,888,736,38,4,110,feb,2020
+Washington                    ,3293,1839,64,84,1306,feb,2020
+United States                 ,115908,78268,2272,1605,33763,mar,2020
+Northeast Region              ,9188,4403,454,333,3998,mar,2020
+New England Division          ,2726,1373,200,53,1100,mar,2020
+Connecticut                   ,643,223,14,0,406,mar,2020
+Maine                         ,378,294,42,7,35,mar,2020
+Massachusetts                 ,1105,510,118,26,451,mar,2020
+New Hampshire                 ,290,201,14,6,69,mar,2020
+Rhode Island                  ,97,79,4,14,0,mar,2020
+Vermont                       ,213,66,8,0,139,mar,2020
+Middle Atlantic Division      ,6462,3030,254,280,2898,mar,2020
+New Jersey                    ,2762,1118,114,136,1394,mar,2020
+New York                      ,1949,666,96,25,1162,mar,2020
+Pennsylvania                  ,1751,1246,44,119,342,mar,2020
+Midwest Region                ,13698,9075,278,144,4201,mar,2020
+East North Central Division   ,7542,5240,144,82,2076,mar,2020
+Illinois                      ,1850,695,22,32,1101,mar,2020
+Indiana                       ,1664,1428,32,12,192,mar,2020
+Michigan                      ,1134,1046,12,17,59,mar,2020
+Ohio                          ,1449,1299,30,21,99,mar,2020
+Wisconsin                     ,1445,772,48,0,625,mar,2020
+West North Central Division   ,6156,3835,134,62,2125,mar,2020
+Iowa                          ,979,678,24,3,274,mar,2020
+Kansas                        ,427,390,22,0,15,mar,2020
+Minnesota                     ,2216,972,8,7,1229,mar,2020
+Missouri                      ,1187,883,32,14,258,mar,2020
+Nebraska                      ,593,488,28,18,59,mar,2020
+North Dakota                  ,261,155,16,0,90,mar,2020
+South Dakota                  ,493,269,4,20,200,mar,2020
+South Region                  ,63440,46752,1050,616,15022,mar,2020
+South Atlantic Division       ,33456,24947,424,254,7831,mar,2020
+Delaware                      ,593,556,14,7,16,mar,2020
+District of Columbia          ,687,8,2,0,677,mar,2020
+Florida                       ,13674,9641,222,77,3734,mar,2020
+Georgia                       ,3814,3520,48,113,133,mar,2020
+Maryland                      ,1604,923,6,19,656,mar,2020
+North Carolina                ,6699,4932,24,4,1739,mar,2020
+South Carolina                ,3460,3202,28,4,226,mar,2020
+Virginia                      ,2632,1907,78,27,620,mar,2020
+West Virginia                 ,293,258,2,3,30,mar,2020
+East South Central Division   ,6401,5657,116,107,521,mar,2020
+Alabama                       ,1573,1489,8,3,73,mar,2020
+Kentucky                      ,895,689,52,49,105,mar,2020
+Mississippi                   ,723,682,8,9,24,mar,2020
+Tennessee                     ,3210,2797,48,46,319,mar,2020
+West South Central Division   ,23583,16148,510,255,6670,mar,2020
+Arkansas                      ,1143,690,74,21,358,mar,2020
+Louisiana                     ,1674,1585,34,4,51,mar,2020
+Oklahoma                      ,1473,1072,56,7,338,mar,2020
+Texas                         ,19293,12801,346,223,5923,mar,2020
+West Region                   ,29582,18038,490,512,10542,mar,2020
+Mountain Division             ,15229,10633,174,251,4171,mar,2020
+Arizona                       ,4463,3276,28,16,1143,mar,2020
+Colorado                      ,3748,2734,10,119,885,mar,2020
+Idaho                         ,1373,992,24,26,331,mar,2020
+Montana                       ,323,225,14,31,53,mar,2020
+Nevada                        ,1712,1204,66,30,412,mar,2020
+New Mexico                    ,431,411,0,0,20,mar,2020
+Utah                          ,3056,1690,30,22,1314,mar,2020
+Wyoming                       ,123,101,2,7,13,mar,2020
+Pacific Division              ,14353,7405,316,261,6371,mar,2020
+Alaska                        ,42,34,8,0,0,mar,2020
+California                    ,7949,4273,174,157,3345,mar,2020
+Hawaii                        ,343,205,2,3,133,mar,2020
+Oregon                        ,2143,880,24,13,1226,mar,2020
+Washington                    ,3876,2013,108,88,1667,mar,2020
+United States                 ,95951,63343,1710,1117,29781,apr,2020
+Northeast Region              ,4868,2911,132,109,1716,apr,2020
+New England Division          ,1854,1336,32,20,466,apr,2020
+Connecticut                   ,401,325,6,0,70,apr,2020
+Maine                         ,481,311,6,0,164,apr,2020
+Massachusetts                 ,548,360,10,9,169,apr,2020
+New Hampshire                 ,231,216,6,4,5,apr,2020
+Rhode Island                  ,74,68,2,4,0,apr,2020
+Vermont                       ,119,56,2,3,58,apr,2020
+Middle Atlantic Division      ,3014,1575,100,89,1250,apr,2020
+New Jersey                    ,1227,583,64,50,530,apr,2020
+New York                      ,1077,413,18,16,630,apr,2020
+Pennsylvania                  ,710,579,18,23,90,apr,2020
+Midwest Region                ,13842,9115,308,182,4237,apr,2020
+East North Central Division   ,7418,4920,160,110,2228,apr,2020
+Illinois                      ,1382,719,38,48,577,apr,2020
+Indiana                       ,2064,1318,28,4,714,apr,2020
+Michigan                      ,727,474,4,8,241,apr,2020
+Ohio                          ,1900,1420,22,38,420,apr,2020
+Wisconsin                     ,1345,989,68,12,276,apr,2020
+West North Central Division   ,6424,4195,148,72,2009,apr,2020
+Iowa                          ,858,682,12,0,164,apr,2020
+Kansas                        ,580,406,36,4,134,apr,2020
+Minnesota                     ,2107,1279,42,0,786,apr,2020
+Missouri                      ,1226,939,34,57,196,apr,2020
+Nebraska                      ,829,433,16,4,376,apr,2020
+North Dakota                  ,419,188,4,0,227,apr,2020
+South Dakota                  ,405,268,4,7,126,apr,2020
+South Region                  ,54588,38430,804,395,14959,apr,2020
+South Atlantic Division       ,27823,20851,356,154,6462,apr,2020
+Delaware                      ,536,437,8,0,91,apr,2020
+District of Columbia          ,256,8,4,0,244,apr,2020
+Florida                       ,12223,8135,212,94,3782,apr,2020
+Georgia                       ,3117,2891,6,10,210,apr,2020
+Maryland                      ,1131,878,2,18,233,apr,2020
+North Carolina                ,4886,4172,38,0,676,apr,2020
+South Carolina                ,2717,2494,2,0,221,apr,2020
+Virginia                      ,2635,1618,82,29,906,apr,2020
+West Virginia                 ,322,218,2,3,99,apr,2020
+East South Central Division   ,6881,5041,40,148,1652,apr,2020
+Alabama                       ,1665,1298,4,13,350,apr,2020
+Kentucky                      ,778,650,12,35,81,apr,2020
+Mississippi                   ,695,645,2,6,42,apr,2020
+Tennessee                     ,3743,2448,22,94,1179,apr,2020
+West South Central Division   ,19884,12538,408,93,6845,apr,2020
+Arkansas                      ,1099,637,94,27,341,apr,2020
+Louisiana                     ,1208,1106,52,3,47,apr,2020
+Oklahoma                      ,1059,1020,28,3,8,apr,2020
+Texas                         ,16518,9775,234,60,6449,apr,2020
+West Region                   ,22653,12887,466,431,8869,apr,2020
+Mountain Division             ,11811,8042,206,165,3398,apr,2020
+Arizona                       ,3316,2462,16,12,826,apr,2020
+Colorado                      ,3284,1913,12,11,1348,apr,2020
+Idaho                         ,1055,920,36,8,91,apr,2020
+Montana                       ,317,172,44,64,37,apr,2020
+Nevada                        ,1032,681,58,13,280,apr,2020
+New Mexico                    ,361,300,0,3,58,apr,2020
+Utah                          ,2228,1465,38,48,677,apr,2020
+Wyoming                       ,218,129,2,6,81,apr,2020
+Pacific Division              ,10842,4845,260,266,5471,apr,2020
+Alaska                        ,98,73,10,3,12,apr,2020
+California                    ,5987,2845,150,134,2858,apr,2020
+Hawaii                        ,241,141,2,3,95,apr,2020
+Oregon                        ,1800,643,20,17,1120,apr,2020
+Washington                    ,2716,1143,78,109,1386,apr,2020
+United States                 ,119985,79486,2370,1631,36498,nov,2020
+Northeast Region              ,12509,5069,450,300,6690,nov,2020
+New England Division          ,3262,1604,104,43,1511,nov,2020
+Connecticut                   ,446,279,12,4,151,nov,2020
+Maine                         ,408,385,4,3,16,nov,2020
+Massachusetts                 ,1677,516,56,16,1089,nov,2020
+New Hampshire                 ,448,255,12,8,173,nov,2020
+Rhode Island                  ,117,85,16,4,12,nov,2020
+Vermont                       ,166,84,4,8,70,nov,2020
+Middle Atlantic Division      ,9247,3465,346,257,5179,nov,2020
+New Jersey                    ,3198,984,192,45,1977,nov,2020
+New York                      ,3682,974,112,54,2542,nov,2020
+Pennsylvania                  ,2367,1507,42,158,660,nov,2020
+Midwest Region                ,16791,10287,422,162,5920,nov,2020
+East North Central Division   ,9055,5964,226,65,2800,nov,2020
+Illinois                      ,1336,776,26,25,509,nov,2020
+Indiana                       ,1834,1555,38,10,231,nov,2020
+Michigan                      ,2133,1213,88,6,826,nov,2020
+Ohio                          ,2254,1524,22,21,687,nov,2020
+Wisconsin                     ,1498,896,52,3,547,nov,2020
+West North Central Division   ,7736,4323,196,97,3120,nov,2020
+Iowa                          ,1065,803,46,4,212,nov,2020
+Kansas                        ,532,496,18,0,18,nov,2020
+Minnesota                     ,2402,1256,16,7,1123,nov,2020
+Missouri                      ,1615,943,10,59,603,nov,2020
+Nebraska                      ,1020,459,90,0,471,nov,2020
+North Dakota                  ,248,104,8,0,136,nov,2020
+South Dakota                  ,854,262,8,27,557,nov,2020
+South Region                  ,61452,45462,698,409,14883,nov,2020
+South Atlantic Division       ,32523,24576,242,142,7563,nov,2020
+Delaware                      ,561,525,30,0,6,nov,2020
+District of Columbia          ,626,16,0,0,610,nov,2020
+Florida                       ,11634,9439,140,89,1966,nov,2020
+Georgia                       ,4499,3885,28,24,562,nov,2020
+Maryland                      ,1403,1002,0,15,386,nov,2020
+North Carolina                ,7200,4724,10,3,2463,nov,2020
+South Carolina                ,3805,2826,22,3,954,nov,2020
+Virginia                      ,2521,1944,12,4,561,nov,2020
+West Virginia                 ,274,215,0,4,55,nov,2020
+East South Central Division   ,7218,5278,26,105,1809,nov,2020
+Alabama                       ,1338,1254,4,12,68,nov,2020
+Kentucky                      ,1113,745,16,10,342,nov,2020
+Mississippi                   ,653,583,0,30,40,nov,2020
+Tennessee                     ,4114,2696,6,53,1359,nov,2020
+West South Central Division   ,21711,15608,430,162,5511,nov,2020
+Arkansas                      ,1307,698,82,58,469,nov,2020
+Louisiana                     ,1342,1247,52,3,40,nov,2020
+Oklahoma                      ,1109,988,18,0,103,nov,2020
+Texas                         ,17953,12675,278,101,4899,nov,2020
+West Region                   ,29233,18668,800,760,9005,nov,2020
+Mountain Division             ,15311,11039,338,301,3633,nov,2020
+Arizona                       ,4580,3437,104,19,1020,nov,2020
+Colorado                      ,3690,2731,108,40,811,nov,2020
+Idaho                         ,1490,1130,30,26,304,nov,2020
+Montana                       ,274,187,36,20,31,nov,2020
+Nevada                        ,1943,1088,16,108,731,nov,2020
+New Mexico                    ,407,376,0,3,28,nov,2020
+Utah                          ,2783,1953,40,82,708,nov,2020
+Wyoming                       ,144,137,4,3,0,nov,2020
+Pacific Division              ,13922,7629,462,459,5372,nov,2020
+Alaska                        ,124,101,2,9,12,nov,2020
+California                    ,8367,4654,252,136,3325,nov,2020
+Hawaii                        ,385,165,0,36,184,nov,2020
+Oregon                        ,1377,943,26,0,408,nov,2020
+Washington                    ,3669,1766,182,278,1443,nov,2020
+United States                 ,112849,70386,1740,1247,39476,jan,2020
+Northeast Region              ,12329,4125,346,251,7607,jan,2020
+New England Division          ,2723,1178,90,47,1408,jan,2020
+Connecticut                   ,278,178,22,0,78,jan,2020
+Maine                         ,234,172,6,0,56,jan,2020
+Massachusetts                 ,1806,531,46,43,1186,jan,2020
+New Hampshire                 ,231,172,4,4,51,jan,2020
+Rhode Island                  ,91,78,8,0,5,jan,2020
+Vermont                       ,83,47,4,0,32,jan,2020
+Middle Atlantic Division      ,9606,2947,256,204,6199,jan,2020
+New Jersey                    ,2407,1059,96,111,1141,jan,2020
+New York                      ,4991,605,78,36,4272,jan,2020
+Pennsylvania                  ,2208,1283,82,57,786,jan,2020
+Midwest Region                ,12080,6829,264,147,4840,jan,2020
+East North Central Division   ,7338,4283,126,98,2831,jan,2020
+Illinois                      ,1142,554,28,28,532,jan,2020
+Indiana                       ,1304,1116,10,11,167,jan,2020
+Michigan                      ,1366,938,8,26,394,jan,2020
+Ohio                          ,2624,1065,22,33,1504,jan,2020
+Wisconsin                     ,902,610,58,0,234,jan,2020
+West North Central Division   ,4742,2546,138,49,2009,jan,2020
+Iowa                          ,511,384,8,0,119,jan,2020
+Kansas                        ,512,335,32,23,122,jan,2020
+Minnesota                     ,1577,634,4,3,936,jan,2020
+Missouri                      ,1371,737,86,4,544,jan,2020
+Nebraska                      ,600,321,6,12,261,jan,2020
+North Dakota                  ,36,36,0,0,0,jan,2020
+South Dakota                  ,135,99,2,7,27,jan,2020
+South Region                  ,60617,42624,736,438,16819,jan,2020
+South Atlantic Division       ,32855,23114,424,160,9157,jan,2020
+Delaware                      ,538,487,32,0,19,jan,2020
+District of Columbia          ,682,5,12,0,665,jan,2020
+Florida                       ,14395,9265,178,77,4875,jan,2020
+Georgia                       ,4431,3380,56,25,970,jan,2020
+Maryland                      ,1448,1037,14,18,379,jan,2020
+North Carolina                ,5553,4272,12,4,1265,jan,2020
+South Carolina                ,2868,2602,36,3,227,jan,2020
+Virginia                      ,2671,1854,82,33,702,jan,2020
+West Virginia                 ,269,212,2,0,55,jan,2020
+East South Central Division   ,6930,5323,72,47,1488,jan,2020
+Alabama                       ,1548,1303,12,21,212,jan,2020
+Kentucky                      ,1157,686,16,11,444,jan,2020
+Mississippi                   ,665,633,8,3,21,jan,2020
+Tennessee                     ,3560,2701,36,12,811,jan,2020
+West South Central Division   ,20832,14187,240,231,6174,jan,2020
+Arkansas                      ,842,663,54,27,98,jan,2020
+Louisiana                     ,1259,1143,24,4,88,jan,2020
+Oklahoma                      ,846,804,20,0,22,jan,2020
+Texas                         ,17885,11577,142,200,5966,jan,2020
+West Region                   ,27823,16808,394,411,10210,jan,2020
+Mountain Division             ,14217,9224,96,264,4633,jan,2020
+Arizona                       ,5080,3111,26,35,1908,jan,2020
+Colorado                      ,3242,1926,14,9,1293,jan,2020
+Idaho                         ,1424,811,12,4,597,jan,2020
+Montana                       ,299,171,28,73,27,jan,2020
+Nevada                        ,1610,1301,2,91,216,jan,2020
+New Mexico                    ,371,348,0,3,20,jan,2020
+Utah                          ,2088,1469,14,49,556,jan,2020
+Wyoming                       ,103,87,0,0,16,jan,2020
+Pacific Division              ,13606,7584,298,147,5577,jan,2020
+Alaska                        ,109,86,6,3,14,jan,2020
+California                    ,8673,4842,160,69,3602,jan,2020
+Hawaii                        ,151,143,8,0,0,jan,2020
+Oregon                        ,1058,735,30,3,290,jan,2020
+Washington                    ,3615,1778,94,72,1671,jan,2020
+United States                 ,135416,92073,2418,1785,39140,jul,2020
+Northeast Region              ,12726,5653,320,327,6426,jul,2020
+New England Division          ,3234,1832,78,54,1270,jul,2020
+Connecticut                   ,501,250,4,4,243,jul,2020
+Maine                         ,566,386,14,11,155,jul,2020
+Massachusetts                 ,1515,677,34,36,768,jul,2020
+New Hampshire                 ,343,330,8,0,5,jul,2020
+Rhode Island                  ,89,67,14,3,5,jul,2020
+Vermont                       ,220,122,4,0,94,jul,2020
+Middle Atlantic Division      ,9492,3821,242,273,5156,jul,2020
+New Jersey                    ,2920,947,94,127,1752,jul,2020
+New York                      ,3775,1131,92,30,2522,jul,2020
+Pennsylvania                  ,2797,1743,56,116,882,jul,2020
+Midwest Region                ,21315,13408,462,293,7152,jul,2020
+East North Central Division   ,11827,7577,244,198,3808,jul,2020
+Illinois                      ,1973,1032,24,94,823,jul,2020
+Indiana                       ,2518,1809,62,11,636,jul,2020
+Michigan                      ,2038,1667,36,19,316,jul,2020
+Ohio                          ,2931,1824,40,71,996,jul,2020
+Wisconsin                     ,2367,1245,82,3,1037,jul,2020
+West North Central Division   ,9488,5831,218,95,3344,jul,2020
+Iowa                          ,1484,1236,6,16,226,jul,2020
+Kansas                        ,1034,537,46,8,443,jul,2020
+Minnesota                     ,2969,1803,36,22,1108,jul,2020
+Missouri                      ,2243,1120,106,27,990,jul,2020
+Nebraska                      ,699,586,2,12,99,jul,2020
+North Dakota                  ,457,216,18,6,217,jul,2020
+South Dakota                  ,602,333,4,4,261,jul,2020
+South Region                  ,68728,51388,886,685,15769,jul,2020
+South Atlantic Division       ,35148,27348,420,348,7032,jul,2020
+Delaware                      ,823,612,48,4,159,jul,2020
+District of Columbia          ,414,15,2,4,393,jul,2020
+Florida                       ,13053,9864,236,163,2790,jul,2020
+Georgia                       ,4552,4200,34,30,288,jul,2020
+Maryland                      ,1294,1114,0,17,163,jul,2020
+North Carolina                ,6122,5328,20,70,704,jul,2020
+South Carolina                ,4137,3468,44,3,622,jul,2020
+Virginia                      ,4380,2509,30,27,1814,jul,2020
+West Virginia                 ,373,238,6,30,99,jul,2020
+East South Central Division   ,9487,6403,68,125,2891,jul,2020
+Alabama                       ,2037,1505,12,85,435,jul,2020
+Kentucky                      ,984,859,14,12,99,jul,2020
+Mississippi                   ,830,778,4,6,42,jul,2020
+Tennessee                     ,5636,3261,38,22,2315,jul,2020
+West South Central Division   ,24093,17637,398,212,5846,jul,2020
+Arkansas                      ,1102,799,80,106,117,jul,2020
+Louisiana                     ,1554,1385,46,6,117,jul,2020
+Oklahoma                      ,1254,1122,36,0,96,jul,2020
+Texas                         ,20183,14331,236,100,5516,jul,2020
+West Region                   ,32647,21624,750,480,9793,jul,2020
+Mountain Division             ,16906,12758,420,263,3465,jul,2020
+Arizona                       ,5758,4002,132,50,1574,jul,2020
+Colorado                      ,4117,3444,54,14,605,jul,2020
+Idaho                         ,1399,1200,6,19,174,jul,2020
+Montana                       ,462,245,28,19,170,jul,2020
+Nevada                        ,1962,1458,172,64,268,jul,2020
+New Mexico                    ,455,392,2,3,58,jul,2020
+Utah                          ,2522,1836,18,88,580,jul,2020
+Wyoming                       ,231,181,8,6,36,jul,2020
+Pacific Division              ,15741,8866,330,217,6328,jul,2020
+Alaska                        ,135,112,6,4,13,jul,2020
+California                    ,10350,5243,182,93,4832,jul,2020
+Hawaii                        ,261,259,2,0,0,jul,2020
+Oregon                        ,1421,950,20,23,428,jul,2020
+Washington                    ,3574,2302,120,97,1055,jul,2020
+United States                 ,123999,84270,2324,1569,35836,jun,2020
+Northeast Region              ,12886,5790,438,276,6382,jun,2020
+New England Division          ,3525,2012,146,49,1318,jun,2020
+Connecticut                   ,382,252,24,4,102,jun,2020
+Maine                         ,607,518,42,3,44,jun,2020
+Massachusetts                 ,1760,617,56,16,1071,jun,2020
+New Hampshire                 ,391,321,12,4,54,jun,2020
+Rhode Island                  ,151,89,6,22,34,jun,2020
+Vermont                       ,234,215,6,0,13,jun,2020
+Middle Atlantic Division      ,9361,3778,292,227,5064,jun,2020
+New Jersey                    ,3329,1068,68,68,2125,jun,2020
+New York                      ,3832,1107,100,25,2600,jun,2020
+Pennsylvania                  ,2200,1603,124,134,339,jun,2020
+Midwest Region                ,18244,12865,368,255,4756,jun,2020
+East North Central Division   ,9756,7323,280,169,1984,jun,2020
+Illinois                      ,1480,967,56,42,415,jun,2020
+Indiana                       ,2286,1826,92,4,364,jun,2020
+Michigan                      ,1807,1587,2,6,212,jun,2020
+Ohio                          ,2486,1644,58,92,692,jun,2020
+Wisconsin                     ,1697,1299,72,25,301,jun,2020
+West North Central Division   ,8488,5542,88,86,2772,jun,2020
+Iowa                          ,1417,1070,10,11,326,jun,2020
+Kansas                        ,537,496,20,0,21,jun,2020
+Minnesota                     ,3016,1595,8,11,1402,jun,2020
+Missouri                      ,1522,1105,22,47,348,jun,2020
+Nebraska                      ,822,537,8,4,273,jun,2020
+North Dakota                  ,433,237,10,9,177,jun,2020
+South Dakota                  ,741,502,10,4,225,jun,2020
+South Region                  ,63427,45374,888,624,16541,jun,2020
+South Atlantic Division       ,34131,23780,408,224,9719,jun,2020
+Delaware                      ,624,500,18,12,94,jun,2020
+District of Columbia          ,1025,13,4,0,1008,jun,2020
+Florida                       ,12709,8764,226,71,3648,jun,2020
+Georgia                       ,4278,3616,36,23,603,jun,2020
+Maryland                      ,1423,1075,0,8,340,jun,2020
+North Carolina                ,7052,4745,8,14,2285,jun,2020
+South Carolina                ,3624,2978,52,3,591,jun,2020
+Virginia                      ,3034,1850,62,63,1059,jun,2020
+West Virginia                 ,362,239,2,30,91,jun,2020
+East South Central Division   ,7754,5860,120,101,1673,jun,2020
+Alabama                       ,1684,1377,16,16,275,jun,2020
+Kentucky                      ,1215,864,38,22,291,jun,2020
+Mississippi                   ,861,801,8,10,42,jun,2020
+Tennessee                     ,3994,2818,58,53,1065,jun,2020
+West South Central Division   ,21542,15734,360,299,5149,jun,2020
+Arkansas                      ,967,708,36,125,98,jun,2020
+Louisiana                     ,1751,1482,38,6,225,jun,2020
+Oklahoma                      ,1223,1164,42,3,14,jun,2020
+Texas                         ,17601,12380,244,165,4812,jun,2020
+West Region                   ,29442,20241,630,414,8157,jun,2020
+Mountain Division             ,15176,11170,290,209,3507,jun,2020
+Arizona                       ,5394,3485,120,43,1746,jun,2020
+Colorado                      ,3644,2822,40,12,770,jun,2020
+Idaho                         ,1441,1143,34,20,244,jun,2020
+Montana                       ,305,195,60,0,50,jun,2020
+Nevada                        ,1437,992,14,73,358,jun,2020
+New Mexico                    ,460,447,0,3,10,jun,2020
+Utah                          ,2305,1906,18,52,329,jun,2020
+Wyoming                       ,190,180,4,6,0,jun,2020
+Pacific Division              ,14266,9071,340,205,4650,jun,2020
+Alaska                        ,147,114,2,4,27,jun,2020
+California                    ,8844,5741,194,110,2799,jun,2020
+Hawaii                        ,366,194,0,3,169,jun,2020
+Oregon                        ,1511,890,56,3,562,jun,2020
+Washington                    ,3398,2132,88,85,1093,jun,2020
+United States                 ,133313,94718,2546,1323,34726,sep,2020
+Northeast Region              ,13156,6438,336,153,6229,sep,2020
+New England Division          ,3612,2202,80,27,1303,sep,2020
+Connecticut                   ,820,428,2,8,382,sep,2020
+Maine                         ,686,562,12,0,112,sep,2020
+Massachusetts                 ,1404,641,26,12,725,sep,2020
+New Hampshire                 ,394,344,2,0,48,sep,2020
+Rhode Island                  ,136,85,32,4,15,sep,2020
+Vermont                       ,172,142,6,3,21,sep,2020
+Middle Atlantic Division      ,9544,4236,256,126,4926,sep,2020
+New Jersey                    ,3286,1137,98,47,2004,sep,2020
+New York                      ,3996,1332,90,36,2538,sep,2020
+Pennsylvania                  ,2262,1767,68,43,384,sep,2020
+Midwest Region                ,19912,13994,650,247,5021,sep,2020
+East North Central Division   ,11013,7832,384,157,2640,sep,2020
+Illinois                      ,1729,1065,56,21,587,sep,2020
+Indiana                       ,2475,1926,50,7,492,sep,2020
+Michigan                      ,2040,1588,64,57,331,sep,2020
+Ohio                          ,2566,1829,38,66,633,sep,2020
+Wisconsin                     ,2203,1424,176,6,597,sep,2020
+West North Central Division   ,8899,6162,266,90,2381,sep,2020
+Iowa                          ,1344,1077,16,4,247,sep,2020
+Kansas                        ,947,621,54,16,256,sep,2020
+Minnesota                     ,2907,1820,76,27,984,sep,2020
+Missouri                      ,1604,1295,42,16,251,sep,2020
+Nebraska                      ,866,551,10,0,305,sep,2020
+North Dakota                  ,469,360,48,9,52,sep,2020
+South Dakota                  ,762,438,20,18,286,sep,2020
+South Region                  ,69045,51972,950,546,15577,sep,2020
+South Atlantic Division       ,35773,28179,484,345,6765,sep,2020
+Delaware                      ,792,748,26,0,18,sep,2020
+District of Columbia          ,363,11,4,0,348,sep,2020
+Florida                       ,14408,10633,212,214,3349,sep,2020
+Georgia                       ,5459,4521,206,21,711,sep,2020
+Maryland                      ,1932,1334,0,27,571,sep,2020
+North Carolina                ,5905,5222,6,54,623,sep,2020
+South Carolina                ,3562,3338,24,3,197,sep,2020
+Virginia                      ,3028,2108,6,26,888,sep,2020
+West Virginia                 ,324,264,0,0,60,sep,2020
+East South Central Division   ,7740,6017,54,58,1611,sep,2020
+Alabama                       ,1683,1514,4,22,143,sep,2020
+Kentucky                      ,1305,847,22,19,417,sep,2020
+Mississippi                   ,734,685,2,7,40,sep,2020
+Tennessee                     ,4018,2971,26,10,1011,sep,2020
+West South Central Division   ,25532,17776,412,143,7201,sep,2020
+Arkansas                      ,1235,872,100,13,250,sep,2020
+Louisiana                     ,1547,1504,20,7,16,sep,2020
+Oklahoma                      ,1431,1132,22,0,277,sep,2020
+Texas                         ,21319,14268,270,123,6658,sep,2020
+West Region                   ,31200,22314,610,377,7899,sep,2020
+Mountain Division             ,15962,12859,330,218,2555,sep,2020
+Arizona                       ,4340,4070,44,10,216,sep,2020
+Colorado                      ,4619,3240,146,17,1216,sep,2020
+Idaho                         ,1585,1321,22,108,134,sep,2020
+Montana                       ,408,236,18,4,150,sep,2020
+Nevada                        ,2006,1347,72,22,565,sep,2020
+New Mexico                    ,445,390,0,8,47,sep,2020
+Utah                          ,2363,2082,22,46,213,sep,2020
+Wyoming                       ,196,173,6,3,14,sep,2020
+Pacific Division              ,15238,9455,280,159,5344,sep,2020
+Alaska                        ,142,127,0,4,11,sep,2020
+California                    ,9476,6200,144,84,3048,sep,2020
+Hawaii                        ,150,146,4,0,0,sep,2020
+Oregon                        ,1004,819,44,7,134,sep,2020
+Washington                    ,4466,2163,88,64,2151,sep,2020
+United States                 ,132920,95298,3160,2002,32460,oct,2020
+Northeast Region              ,11477,5505,432,465,5075,oct,2020
+New England Division          ,2804,1855,132,93,724,oct,2020
+Connecticut                   ,500,243,20,11,226,oct,2020
+Maine                         ,607,491,34,43,39,oct,2020
+Massachusetts                 ,1135,670,38,32,395,oct,2020
+New Hampshire                 ,319,274,12,0,33,oct,2020
+Rhode Island                  ,115,71,24,4,16,oct,2020
+Vermont                       ,128,106,4,3,15,oct,2020
+Middle Atlantic Division      ,8673,3650,300,372,4351,oct,2020
+New Jersey                    ,3367,1273,102,63,1929,oct,2020
+New York                      ,3375,1067,124,56,2128,oct,2020
+Pennsylvania                  ,1931,1310,74,253,294,oct,2020
+Midwest Region                ,21064,13761,532,197,6574,oct,2020
+East North Central Division   ,12518,8179,302,109,3928,oct,2020
+Illinois                      ,1660,995,28,21,616,oct,2020
+Indiana                       ,2719,1953,174,12,580,oct,2020
+Michigan                      ,2350,1825,14,14,497,oct,2020
+Ohio                          ,3374,1860,18,43,1453,oct,2020
+Wisconsin                     ,2415,1546,68,19,782,oct,2020
+West North Central Division   ,8546,5582,230,88,2646,oct,2020
+Iowa                          ,1181,927,6,12,236,oct,2020
+Kansas                        ,691,592,70,8,21,oct,2020
+Minnesota                     ,2914,1761,32,10,1111,oct,2020
+Missouri                      ,1469,1177,34,47,211,oct,2020
+Nebraska                      ,1079,547,42,11,479,oct,2020
+North Dakota                  ,340,250,40,0,50,oct,2020
+South Dakota                  ,872,328,6,0,538,oct,2020
+South Region                  ,68663,53480,1438,744,13001,oct,2020
+South Atlantic Division       ,37755,29352,278,217,7908,oct,2020
+Delaware                      ,969,812,34,16,107,oct,2020
+District of Columbia          ,1001,17,0,0,984,oct,2020
+Florida                       ,15768,11596,154,49,3969,oct,2020
+Georgia                       ,5132,4642,28,32,430,oct,2020
+Maryland                      ,1803,1318,6,10,469,oct,2020
+North Carolina                ,6359,5059,32,107,1161,oct,2020
+South Carolina                ,4098,3491,16,3,588,oct,2020
+Virginia                      ,2288,2132,6,0,150,oct,2020
+West Virginia                 ,337,285,2,0,50,oct,2020
+East South Central Division   ,7526,5994,172,119,1241,oct,2020
+Alabama                       ,1627,1539,6,23,59,oct,2020
+Kentucky                      ,934,744,60,28,102,oct,2020
+Mississippi                   ,698,643,14,7,34,oct,2020
+Tennessee                     ,4267,3068,92,61,1046,oct,2020
+West South Central Division   ,23382,18134,988,408,3852,oct,2020
+Arkansas                      ,1252,830,58,122,242,oct,2020
+Louisiana                     ,1556,1442,74,6,34,oct,2020
+Oklahoma                      ,1200,1142,50,3,5,oct,2020
+Texas                         ,19374,14720,806,277,3571,oct,2020
+West Region                   ,31716,22552,758,596,7810,oct,2020
+Mountain Division             ,17312,12454,426,320,4112,oct,2020
+Arizona                       ,5352,4101,124,18,1109,oct,2020
+Colorado                      ,4982,3165,206,14,1597,oct,2020
+Idaho                         ,1502,1177,26,27,272,oct,2020
+Montana                       ,353,231,30,23,69,oct,2020
+Nevada                        ,1483,1102,6,59,316,oct,2020
+New Mexico                    ,503,409,8,3,83,oct,2020
+Utah                          ,3005,2144,22,173,666,oct,2020
+Wyoming                       ,132,125,4,3,0,oct,2020
+Pacific Division              ,14404,10098,332,276,3698,oct,2020
+Alaska                        ,149,124,6,8,11,oct,2020
+California                    ,8670,6230,178,208,2054,oct,2020
+Hawaii                        ,373,286,2,3,82,oct,2020
+Oregon                        ,1681,1167,50,4,460,oct,2020
+Washington                    ,3531,2291,96,53,1091,oct,2020
+United States                 ,126203,89930,2838,1720,31715,aug,2020
+Northeast Region              ,9932,5207,442,285,3998,aug,2020
+New England Division          ,2656,1748,116,55,737,aug,2020
+Connecticut                   ,566,197,10,0,359,aug,2020
+Maine                         ,515,495,14,6,0,aug,2020
+Massachusetts                 ,979,552,74,30,323,aug,2020
+New Hampshire                 ,346,297,6,8,35,aug,2020
+Rhode Island                  ,122,94,10,8,10,aug,2020
+Vermont                       ,128,113,2,3,10,aug,2020
+Middle Atlantic Division      ,7276,3459,326,230,3261,aug,2020
+New Jersey                    ,2268,1043,124,30,1071,aug,2020
+New York                      ,3050,938,124,55,1933,aug,2020
+Pennsylvania                  ,1958,1478,78,145,257,aug,2020
+Midwest Region                ,17568,12581,628,240,4119,aug,2020
+East North Central Division   ,9145,7164,372,143,1466,aug,2020
+Illinois                      ,1212,948,54,54,156,aug,2020
+Indiana                       ,1861,1687,36,7,131,aug,2020
+Michigan                      ,1611,1381,8,16,206,aug,2020
+Ohio                          ,2433,1829,138,58,408,aug,2020
+Wisconsin                     ,2028,1319,136,8,565,aug,2020
+West North Central Division   ,8423,5417,256,97,2653,aug,2020
+Iowa                          ,1217,905,20,10,282,aug,2020
+Kansas                        ,573,489,52,11,21,aug,2020
+Minnesota                     ,3383,1680,106,31,1566,aug,2020
+Missouri                      ,1687,1117,48,15,507,aug,2020
+Nebraska                      ,657,585,6,3,63,aug,2020
+North Dakota                  ,330,259,8,0,63,aug,2020
+South Dakota                  ,576,382,16,27,151,aug,2020
+South Region                  ,68440,51133,992,708,15607,aug,2020
+South Atlantic Division       ,36649,26785,346,259,9259,aug,2020
+Delaware                      ,1111,731,24,3,353,aug,2020
+District of Columbia          ,363,18,22,0,323,aug,2020
+Florida                       ,15378,10100,144,99,5035,aug,2020
+Georgia                       ,4962,4256,52,85,569,aug,2020
+Maryland                      ,1676,1018,2,23,633,aug,2020
+North Carolina                ,6826,5156,64,16,1590,aug,2020
+South Carolina                ,3555,3321,26,3,205,aug,2020
+Virginia                      ,2260,1920,6,30,304,aug,2020
+West Virginia                 ,518,265,6,0,247,aug,2020
+East South Central Division   ,9184,6263,154,149,2618,aug,2020
+Alabama                       ,1853,1453,42,18,340,aug,2020
+Kentucky                      ,1427,963,70,47,347,aug,2020
+Mississippi                   ,723,655,20,7,41,aug,2020
+Tennessee                     ,5181,3192,22,77,1890,aug,2020
+West South Central Division   ,22607,18085,492,300,3730,aug,2020
+Arkansas                      ,1208,850,72,138,148,aug,2020
+Louisiana                     ,1609,1501,42,7,59,aug,2020
+Oklahoma                      ,1177,1132,38,0,7,aug,2020
+Texas                         ,18613,14602,340,155,3516,aug,2020
+West Region                   ,30263,21009,776,487,7991,aug,2020
+Mountain Division             ,16391,11961,430,216,3784,aug,2020
+Arizona                       ,4669,3723,126,27,793,aug,2020
+Colorado                      ,4673,3054,90,19,1510,aug,2020
+Idaho                         ,1424,1211,30,31,152,aug,2020
+Montana                       ,527,249,66,16,196,aug,2020
+Nevada                        ,1514,1168,86,48,212,aug,2020
+New Mexico                    ,491,379,0,3,109,aug,2020
+Utah                          ,2930,2024,28,66,812,aug,2020
+Wyoming                       ,163,153,4,6,0,aug,2020
+Pacific Division              ,13872,9048,346,271,4207,aug,2020
+Alaska                        ,162,125,4,22,11,aug,2020
+California                    ,8190,5599,198,153,2240,aug,2020
+Hawaii                        ,286,198,0,3,85,aug,2020
+Oregon                        ,1697,984,44,10,659,aug,2020
+Washington                    ,3537,2142,100,83,1212,aug,2020
+United States                 ,104432,66066,1844,1463,35059,may,2020
+Northeast Region              ,9171,4336,248,177,4410,may,2020
+New England Division          ,2882,1441,62,23,1356,may,2020
+Connecticut                   ,661,206,12,0,443,may,2020
+Maine                         ,396,324,14,3,55,may,2020
+Massachusetts                 ,1347,501,24,16,806,may,2020
+New Hampshire                 ,242,213,2,0,27,may,2020
+Rhode Island                  ,98,69,8,4,17,may,2020
+Vermont                       ,138,128,2,0,8,may,2020
+Middle Atlantic Division      ,6289,2895,186,154,3054,may,2020
+New Jersey                    ,1821,710,56,31,1024,may,2020
+New York                      ,2500,720,74,63,1643,may,2020
+Pennsylvania                  ,1968,1465,56,60,387,may,2020
+Midwest Region                ,15490,9876,448,250,4916,may,2020
+East North Central Division   ,8773,5568,278,165,2762,may,2020
+Illinois                      ,1234,726,36,44,428,may,2020
+Indiana                       ,2183,1284,56,78,765,may,2020
+Michigan                      ,1538,1190,30,11,307,may,2020
+Ohio                          ,2142,1335,48,24,735,may,2020
+Wisconsin                     ,1676,1033,108,8,527,may,2020
+West North Central Division   ,6717,4308,170,85,2154,may,2020
+Iowa                          ,951,794,42,10,105,may,2020
+Kansas                        ,593,395,28,12,158,may,2020
+Minnesota                     ,2451,1220,24,12,1195,may,2020
+Missouri                      ,1403,914,66,41,382,may,2020
+Nebraska                      ,565,451,4,3,107,may,2020
+North Dakota                  ,240,217,0,0,23,may,2020
+South Dakota                  ,514,317,6,7,184,may,2020
+South Region                  ,55576,37165,774,690,16947,may,2020
+South Atlantic Division       ,29650,20198,296,223,8933,may,2020
+Delaware                      ,441,406,10,20,5,may,2020
+District of Columbia          ,393,13,6,0,374,may,2020
+Florida                       ,11776,8042,156,132,3446,may,2020
+Georgia                       ,3898,2862,36,15,985,may,2020
+Maryland                      ,1550,765,0,4,781,may,2020
+North Carolina                ,5341,4012,14,3,1312,may,2020
+South Carolina                ,2731,2205,32,11,483,may,2020
+Virginia                      ,3233,1663,40,38,1492,may,2020
+West Virginia                 ,287,230,2,0,55,may,2020
+East South Central Division   ,6983,4682,76,148,2077,may,2020
+Alabama                       ,1334,1118,4,19,193,may,2020
+Kentucky                      ,1090,661,18,31,380,may,2020
+Mississippi                   ,860,538,6,7,309,may,2020
+Tennessee                     ,3699,2365,48,91,1195,may,2020
+West South Central Division   ,18943,12285,402,319,5937,may,2020
+Arkansas                      ,1069,601,76,120,272,may,2020
+Louisiana                     ,1200,1092,62,3,43,may,2020
+Oklahoma                      ,755,705,32,3,15,may,2020
+Texas                         ,15919,9887,232,193,5607,may,2020
+West Region                   ,24195,14689,374,346,8786,may,2020
+Mountain Division             ,11294,8462,162,206,2464,may,2020
+Arizona                       ,3128,2479,36,12,601,may,2020
+Colorado                      ,2604,2307,16,10,271,may,2020
+Idaho                         ,1268,1037,46,71,114,may,2020
+Montana                       ,471,178,36,68,189,may,2020
+Nevada                        ,1122,600,16,16,490,may,2020
+New Mexico                    ,310,300,0,0,10,may,2020
+Utah                          ,2226,1402,6,29,789,may,2020
+Wyoming                       ,165,159,6,0,0,may,2020
+Pacific Division              ,12901,6227,212,140,6322,may,2020
+Alaska                        ,113,83,6,12,12,may,2020
+California                    ,6705,3439,82,47,3137,may,2020
+Hawaii                        ,258,160,4,0,94,may,2020
+Oregon                        ,1268,735,12,8,513,may,2020
+Washington                    ,4557,1810,108,73,2566,may,2020

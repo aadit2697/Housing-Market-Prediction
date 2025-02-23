@@ -1,0 +1,651 @@
+Region,Total,1 Unit,2 Units,3 and 4 Units,5 Units or More,Month,Year
+United States                 ,119125,79446,2522,1568,35589,feb,2024
+Northeast Region              ,14317,4238,476,193,9410,feb,2024
+     New England Division          ,2551,1122,120,52,1257,feb,2024
+          Connecticut                   ,312,147,22,4,139,feb,2024
+          Maine                         ,367,267,18,7,75,feb,2024
+          Massachusetts                 ,1303,383,36,32,852,feb,2024
+          New Hampshire                 ,286,188,6,3,89,feb,2024
+          Rhode Island                  ,115,55,34,3,23,feb,2024
+          Vermont                       ,168,82,4,3,79,feb,2024
+     Middle Atlantic Division      ,11766,3116,356,141,8153,feb,2024
+          New Jersey                    ,3727,1278,220,49,2180,feb,2024
+          New York                      ,6159,666,120,51,5322,feb,2024
+          Pennsylvania                  ,1880,1172,16,41,651,feb,2024
+Midwest Region                ,14294,8798,470,428,4598,feb,2024
+     East North Central Division   ,9007,5325,236,159,3287,feb,2024
+          Illinois                      ,982,657,22,28,275,feb,2024
+          Indiana                       ,2000,1458,44,42,456,feb,2024
+          Michigan                      ,1405,999,32,13,361,feb,2024
+          Ohio                          ,2361,1355,44,69,893,feb,2024
+          Wisconsin                     ,2259,856,94,7,1302,feb,2024
+     West North Central Division   ,5287,3473,234,269,1311,feb,2024
+          Iowa                          ,708,562,26,18,102,feb,2024
+          Kansas                        ,852,409,102,51,290,feb,2024
+          Minnesota                     ,1236,845,22,3,366,feb,2024
+          Missouri                      ,1273,904,36,158,175,feb,2024
+          Nebraska                      ,851,518,42,16,275,feb,2024
+          North Dakota                  ,54,38,0,16,0,feb,2024
+          South Dakota                  ,313,197,6,7,103,feb,2024
+South Region                  ,64913,49469,972,706,13766,feb,2024
+     South Atlantic Division       ,36336,27225,360,347,8404,feb,2024
+          Delaware                      ,548,525,18,0,5,feb,2024
+          District of Columbia          ,83,11,8,0,64,feb,2024
+          Florida                       ,13285,9980,158,141,3006,feb,2024
+          Georgia                       ,5397,4030,70,162,1135,feb,2024
+          Maryland                      ,1415,875,0,0,540,feb,2024
+          North Carolina                ,8004,5757,74,17,2156,feb,2024
+          South Carolina                ,4143,3639,12,24,468,feb,2024
+          Virginia                      ,3141,2099,20,3,1019,feb,2024
+          West Virginia                 ,320,309,0,0,11,feb,2024
+     East South Central Division   ,8129,5892,86,122,2029,feb,2024
+          Alabama                       ,1574,1495,8,8,63,feb,2024
+          Kentucky                      ,1619,736,44,36,803,feb,2024
+          Mississippi                   ,640,608,18,3,11,feb,2024
+          Tennessee                     ,4296,3053,16,75,1152,feb,2024
+     West South Central Division   ,20448,16352,526,237,3333,feb,2024
+          Arkansas                      ,1089,873,66,40,110,feb,2024
+          Louisiana                     ,1239,1028,52,0,159,feb,2024
+          Oklahoma                      ,922,855,50,6,11,feb,2024
+          Texas                         ,17198,13596,358,191,3053,feb,2024
+West Region                   ,25601,16941,604,241,7815,feb,2024
+     Mountain Division             ,13856,9835,292,145,3584,feb,2024
+          Arizona                       ,4977,3726,124,11,1116,feb,2024
+          Colorado                      ,3079,1801,112,34,1132,feb,2024
+          Idaho                         ,1239,1059,6,40,134,feb,2024
+          Montana                       ,302,174,10,17,101,feb,2024
+          Nevada                        ,1773,1148,4,21,600,feb,2024
+          New Mexico                    ,784,640,20,4,120,feb,2024
+          Utah                          ,1580,1172,12,15,381,feb,2024
+          Wyoming                       ,122,115,4,3,0,feb,2024
+     Pacific Division              ,11745,7106,312,96,4231,feb,2024
+          Alaska                        ,35,30,2,3,0,feb,2024
+          California                    ,7745,4587,170,65,2923,feb,2024
+          Hawaii                        ,384,174,10,0,200,feb,2024
+          Oregon                        ,873,767,20,7,79,feb,2024
+          Washington                    ,2708,1548,110,21,1029,feb,2024
+United States                 ,124318,85199,2774,1510,34835,mar,2024
+Northeast Region              ,12440,4403,510,244,7283,mar,2024
+     New England Division          ,3061,1272,98,67,1624,mar,2024
+          Connecticut                   ,297,157,6,6,128,mar,2024
+          Maine                         ,568,345,28,11,184,mar,2024
+          Massachusetts                 ,1507,401,30,22,1054,mar,2024
+          New Hampshire                 ,431,221,6,15,189,mar,2024
+          Rhode Island                  ,100,60,18,6,16,mar,2024
+          Vermont                       ,158,88,10,7,53,mar,2024
+     Middle Atlantic Division      ,9379,3131,412,177,5659,mar,2024
+          New Jersey                    ,2826,991,102,73,1660,mar,2024
+          New York                      ,4060,806,112,37,3105,mar,2024
+          Pennsylvania                  ,2493,1334,198,67,894,mar,2024
+Midwest Region                ,15877,10626,632,284,4335,mar,2024
+     East North Central Division   ,9646,6541,310,148,2647,mar,2024
+          Illinois                      ,2175,873,20,43,1239,mar,2024
+          Indiana                       ,2214,1656,38,26,494,mar,2024
+          Michigan                      ,1525,1250,42,34,199,mar,2024
+          Ohio                          ,2253,1668,64,45,476,mar,2024
+          Wisconsin                     ,1479,1094,146,0,239,mar,2024
+     West North Central Division   ,6231,4085,322,136,1688,mar,2024
+          Iowa                          ,917,753,56,11,97,mar,2024
+          Kansas                        ,897,427,132,10,328,mar,2024
+          Minnesota                     ,1519,954,20,4,541,mar,2024
+          Missouri                      ,1356,1092,76,82,106,mar,2024
+          Nebraska                      ,786,482,22,13,269,mar,2024
+          North Dakota                  ,117,106,0,6,5,mar,2024
+          South Dakota                  ,639,271,16,10,342,mar,2024
+South Region                  ,67235,51240,942,619,14434,mar,2024
+     South Atlantic Division       ,38110,28789,354,234,8733,mar,2024
+          Delaware                      ,596,556,20,0,20,mar,2024
+          District of Columbia          ,105,31,2,0,72,mar,2024
+          Florida                       ,14849,10648,132,96,3973,mar,2024
+          Georgia                       ,6443,4568,104,102,1669,mar,2024
+          Maryland                      ,1662,1140,2,3,517,mar,2024
+          North Carolina                ,7680,6101,44,15,1520,mar,2024
+          South Carolina                ,3814,3546,18,15,235,mar,2024
+          Virginia                      ,2592,1856,22,3,711,mar,2024
+          West Virginia                 ,369,343,10,0,16,mar,2024
+     East South Central Division   ,6604,5454,80,50,1020,mar,2024
+          Alabama                       ,1595,1388,12,7,188,mar,2024
+          Kentucky                      ,1236,734,30,19,453,mar,2024
+          Mississippi                   ,566,550,2,3,11,mar,2024
+          Tennessee                     ,3207,2782,36,21,368,mar,2024
+     West South Central Division   ,22521,16997,508,335,4681,mar,2024
+          Arkansas                      ,1242,957,40,62,183,mar,2024
+          Louisiana                     ,1189,1101,44,0,44,mar,2024
+          Oklahoma                      ,1540,926,52,10,552,mar,2024
+          Texas                         ,18550,14013,372,263,3902,mar,2024
+West Region                   ,28766,18930,690,363,8783,mar,2024
+     Mountain Division             ,15001,11112,268,176,3445,mar,2024
+          Arizona                       ,5363,3864,130,4,1365,mar,2024
+          Colorado                      ,2791,1815,48,34,894,mar,2024
+          Idaho                         ,1433,1083,16,40,294,mar,2024
+          Montana                       ,355,249,28,21,57,mar,2024
+          Nevada                        ,1670,1446,10,29,185,mar,2024
+          New Mexico                    ,879,781,16,4,78,mar,2024
+          Utah                          ,2252,1728,12,34,478,mar,2024
+          Wyoming                       ,258,146,8,10,94,mar,2024
+     Pacific Division              ,13765,7818,422,187,5338,mar,2024
+          Alaska                        ,45,38,4,3,0,mar,2024
+          California                    ,7984,4871,210,118,2785,mar,2024
+          Hawaii                        ,313,190,14,0,109,mar,2024
+          Oregon                        ,1357,939,36,9,373,mar,2024
+          Washington                    ,4066,1780,158,57,2071,mar,2024
+United States                 ,132325,93639,3478,1558,33650,apr,2024
+Northeast Region              ,12052,5580,612,284,5576,apr,2024
+     New England Division          ,2753,1678,150,79,846,apr,2024
+          Connecticut                   ,557,197,10,12,338,apr,2024
+          Maine                         ,539,487,14,3,35,apr,2024
+          Massachusetts                 ,903,489,76,38,300,apr,2024
+          New Hampshire                 ,386,289,24,19,54,apr,2024
+          Rhode Island                  ,82,61,12,4,5,apr,2024
+          Vermont                       ,286,155,14,3,114,apr,2024
+     Middle Atlantic Division      ,9299,3902,462,205,4730,apr,2024
+          New Jersey                    ,3096,1413,290,82,1311,apr,2024
+          New York                      ,4076,985,128,61,2902,apr,2024
+          Pennsylvania                  ,2127,1504,44,62,517,apr,2024
+Midwest Region                ,16226,12248,518,287,3173,apr,2024
+     East North Central Division   ,9952,7389,302,156,2105,apr,2024
+          Illinois                      ,1196,980,54,49,113,apr,2024
+          Indiana                       ,2414,2073,40,11,290,apr,2024
+          Michigan                      ,1685,1461,36,24,164,apr,2024
+          Ohio                          ,2525,1629,50,54,792,apr,2024
+          Wisconsin                     ,2132,1246,122,18,746,apr,2024
+     West North Central Division   ,6274,4859,216,131,1068,apr,2024
+          Iowa                          ,894,769,30,10,85,apr,2024
+          Kansas                        ,907,523,88,3,293,apr,2024
+          Minnesota                     ,1683,1420,14,39,210,apr,2024
+          Missouri                      ,1228,1032,64,68,64,apr,2024
+          Nebraska                      ,784,532,8,4,240,apr,2024
+          North Dakota                  ,361,247,4,0,110,apr,2024
+          South Dakota                  ,417,336,8,7,66,apr,2024
+South Region                  ,77501,56024,1658,652,19167,apr,2024
+     South Atlantic Division       ,43441,31090,546,262,11543,apr,2024
+          Delaware                      ,482,467,12,3,0,apr,2024
+          District of Columbia          ,241,20,4,3,214,apr,2024
+          Florida                       ,17901,12096,296,88,5421,apr,2024
+          Georgia                       ,6935,4773,62,82,2018,apr,2024
+          Maryland                      ,2201,1046,0,0,1155,apr,2024
+          North Carolina                ,8771,6482,94,14,2181,apr,2024
+          South Carolina                ,4189,3902,28,59,200,apr,2024
+          Virginia                      ,2386,2039,50,7,290,apr,2024
+          West Virginia                 ,335,265,0,6,64,apr,2024
+     East South Central Division   ,8291,6243,116,98,1834,apr,2024
+          Alabama                       ,1778,1646,10,6,116,apr,2024
+          Kentucky                      ,1602,765,46,29,762,apr,2024
+          Mississippi                   ,784,753,8,3,20,apr,2024
+          Tennessee                     ,4127,3079,52,60,936,apr,2024
+     West South Central Division   ,25769,18691,996,292,5790,apr,2024
+          Arkansas                      ,1137,826,92,25,194,apr,2024
+          Louisiana                     ,1239,1100,46,0,93,apr,2024
+          Oklahoma                      ,1500,1077,116,3,304,apr,2024
+          Texas                         ,21893,15688,742,264,5199,apr,2024
+West Region                   ,26546,19787,690,335,5734,apr,2024
+     Mountain Division             ,14304,11085,272,164,2783,apr,2024
+          Arizona                       ,5357,3739,188,0,1430,apr,2024
+          Colorado                      ,2410,1944,18,28,420,apr,2024
+          Idaho                         ,1543,1323,12,78,130,apr,2024
+          Montana                       ,319,235,14,10,60,apr,2024
+          Nevada                        ,1568,1367,6,4,191,apr,2024
+          New Mexico                    ,612,599,8,0,5,apr,2024
+          Utah                          ,2309,1709,22,36,542,apr,2024
+          Wyoming                       ,186,169,4,8,5,apr,2024
+     Pacific Division              ,12242,8702,418,171,2951,apr,2024
+          Alaska                        ,64,52,6,0,6,apr,2024
+          California                    ,7696,5638,240,80,1738,apr,2024
+          Hawaii                        ,268,208,12,0,48,apr,2024
+          Oregon                        ,1221,959,44,18,200,apr,2024
+          Washington                    ,2993,1845,116,73,959,apr,2024
+United States                 ,114776,75906,2092,1652,35126,jan,2024
+Northeast Region              ,10665,4371,256,156,5882,jan,2024
+     New England Division          ,2475,1185,70,34,1186,jan,2024
+          Connecticut                   ,253,150,8,4,91,jan,2024
+          Maine                         ,389,297,14,3,75,jan,2024
+          Massachusetts                 ,1359,400,16,13,930,jan,2024
+          New Hampshire                 ,249,185,6,8,50,jan,2024
+          Rhode Island                  ,92,54,20,3,15,jan,2024
+          Vermont                       ,133,99,6,3,25,jan,2024
+     Middle Atlantic Division      ,8190,3186,186,122,4696,jan,2024
+          New Jersey                    ,3199,1208,74,34,1883,jan,2024
+          New York                      ,3302,718,96,36,2452,jan,2024
+          Pennsylvania                  ,1689,1260,16,52,361,jan,2024
+Midwest Region                ,12258,6590,372,322,4974,jan,2024
+     East North Central Division   ,6537,4265,202,173,1897,jan,2024
+          Illinois                      ,821,478,18,63,262,jan,2024
+          Indiana                       ,1511,1269,52,20,170,jan,2024
+          Michigan                      ,1100,748,12,22,318,jan,2024
+          Ohio                          ,2129,1162,34,68,865,jan,2024
+          Wisconsin                     ,976,608,86,0,282,jan,2024
+     West North Central Division   ,5721,2325,170,149,3077,jan,2024
+          Iowa                          ,572,360,12,6,194,jan,2024
+          Kansas                        ,594,264,102,55,173,jan,2024
+          Minnesota                     ,2069,681,20,11,1357,jan,2024
+          Missouri                      ,1322,643,30,66,583,jan,2024
+          Nebraska                      ,826,245,4,4,573,jan,2024
+          North Dakota                  ,29,25,0,4,0,jan,2024
+          South Dakota                  ,309,107,2,3,197,jan,2024
+South Region                  ,66727,47965,858,686,17218,jan,2024
+     South Atlantic Division       ,37752,27707,330,195,9520,jan,2024
+          Delaware                      ,621,445,38,8,130,jan,2024
+          District of Columbia          ,21,4,0,0,17,jan,2024
+          Florida                       ,16132,11318,128,85,4601,jan,2024
+          Georgia                       ,5116,3961,48,55,1052,jan,2024
+          Maryland                      ,1007,879,2,4,122,jan,2024
+          North Carolina                ,7594,5556,40,23,1975,jan,2024
+          South Carolina                ,3926,3569,58,14,285,jan,2024
+          Virginia                      ,3038,1705,14,3,1316,jan,2024
+          West Virginia                 ,297,270,2,3,22,jan,2024
+     East South Central Division   ,6806,5006,118,69,1613,jan,2024
+          Alabama                       ,2095,1349,44,4,698,jan,2024
+          Kentucky                      ,989,548,22,20,399,jan,2024
+          Mississippi                   ,575,550,10,3,12,jan,2024
+          Tennessee                     ,3147,2559,42,42,504,jan,2024
+     West South Central Division   ,22169,15252,410,422,6085,jan,2024
+          Arkansas                      ,828,695,60,15,58,jan,2024
+          Louisiana                     ,1245,1052,24,10,159,jan,2024
+          Oklahoma                      ,878,798,46,0,34,jan,2024
+          Texas                         ,19218,12707,280,397,5834,jan,2024
+West Region                   ,25126,16980,606,488,7052,jan,2024
+     Mountain Division             ,14007,9609,274,281,3843,jan,2024
+          Arizona                       ,5576,3602,122,54,1798,jan,2024
+          Colorado                      ,2562,1563,54,23,922,jan,2024
+          Idaho                         ,1094,891,24,111,68,jan,2024
+          Montana                       ,306,190,18,21,77,jan,2024
+          Nevada                        ,1537,1368,16,20,133,jan,2024
+          New Mexico                    ,574,527,24,3,20,jan,2024
+          Utah                          ,2228,1381,10,42,795,jan,2024
+          Wyoming                       ,130,87,6,7,30,jan,2024
+     Pacific Division              ,11119,7371,332,207,3209,jan,2024
+          Alaska                        ,26,26,0,0,0,jan,2024
+          California                    ,7458,4757,176,120,2405,jan,2024
+          Hawaii                        ,308,217,16,0,75,jan,2024
+          Oregon                        ,852,708,32,16,96,jan,2024
+          Washington                    ,2475,1663,108,71,633,jan,2024
+United States                 ,126531,85817,2830,1749,36135,jul,2024
+Northeast Region              ,12267,5372,386,369,6140,jul,2024
+     New England Division          ,3049,1604,158,90,1197,jul,2024
+          Connecticut                   ,467,187,10,18,252,jul,2024
+          Maine                         ,536,440,28,15,53,jul,2024
+          Massachusetts                 ,1015,519,56,25,415,jul,2024
+          New Hampshire                 ,536,262,14,13,247,jul,2024
+          Rhode Island                  ,151,67,40,9,35,jul,2024
+          Vermont                       ,344,129,10,10,195,jul,2024
+     Middle Atlantic Division      ,9218,3768,228,279,4943,jul,2024
+          New Jersey                    ,3032,1370,118,128,1416,jul,2024
+          New York                      ,4144,936,84,78,3046,jul,2024
+          Pennsylvania                  ,2042,1462,26,73,481,jul,2024
+Midwest Region                ,17257,11273,598,386,5000,jul,2024
+     East North Central Division   ,10105,6743,380,141,2841,jul,2024
+          Illinois                      ,1497,940,48,58,451,jul,2024
+          Indiana                       ,2179,1687,74,11,407,jul,2024
+          Michigan                      ,1732,1375,36,18,303,jul,2024
+          Ohio                          ,2456,1607,62,48,739,jul,2024
+          Wisconsin                     ,2241,1134,160,6,941,jul,2024
+     West North Central Division   ,7152,4530,218,245,2159,jul,2024
+          Iowa                          ,1284,572,40,13,659,jul,2024
+          Kansas                        ,634,482,66,55,31,jul,2024
+          Minnesota                     ,1964,1267,52,23,622,jul,2024
+          Missouri                      ,1558,989,46,88,435,jul,2024
+          Nebraska                      ,967,704,6,4,253,jul,2024
+          North Dakota                  ,212,168,4,40,0,jul,2024
+          South Dakota                  ,533,348,4,22,159,jul,2024
+South Region                  ,69918,50678,1002,663,17575,jul,2024
+     South Atlantic Division       ,39585,28715,394,163,10313,jul,2024
+          Delaware                      ,465,453,12,0,0,jul,2024
+          District of Columbia          ,149,20,12,0,117,jul,2024
+          Florida                       ,15414,11033,174,57,4150,jul,2024
+          Georgia                       ,5054,4142,48,34,830,jul,2024
+          Maryland                      ,1345,809,2,3,531,jul,2024
+          North Carolina                ,8956,6138,94,15,2709,jul,2024
+          South Carolina                ,4605,3695,38,39,833,jul,2024
+          Virginia                      ,3217,2126,8,9,1074,jul,2024
+          West Virginia                 ,380,299,6,6,69,jul,2024
+     East South Central Division   ,6939,5812,138,53,936,jul,2024
+          Alabama                       ,1456,1393,18,3,42,jul,2024
+          Kentucky                      ,1227,785,50,19,373,jul,2024
+          Mississippi                   ,692,658,4,0,30,jul,2024
+          Tennessee                     ,3564,2976,66,31,491,jul,2024
+     West South Central Division   ,23394,16151,470,447,6326,jul,2024
+          Arkansas                      ,1051,893,54,14,90,jul,2024
+          Louisiana                     ,1347,1046,36,0,265,jul,2024
+          Oklahoma                      ,1137,924,76,20,117,jul,2024
+          Texas                         ,19859,13288,304,413,5854,jul,2024
+West Region                   ,27089,18494,844,331,7420,jul,2024
+     Mountain Division             ,13882,10655,412,187,2628,jul,2024
+          Arizona                       ,5003,3531,178,35,1259,jul,2024
+          Colorado                      ,2489,1593,62,33,801,jul,2024
+          Idaho                         ,1450,1357,38,23,32,jul,2024
+          Montana                       ,571,362,20,20,169,jul,2024
+          Nevada                        ,1653,1482,32,20,119,jul,2024
+          New Mexico                    ,749,625,36,6,82,jul,2024
+          Utah                          ,1779,1533,38,42,166,jul,2024
+          Wyoming                       ,188,172,8,8,0,jul,2024
+     Pacific Division              ,13207,7839,432,144,4792,jul,2024
+          Alaska                        ,57,55,2,0,0,jul,2024
+          California                    ,8518,5165,208,62,3083,jul,2024
+          Hawaii                        ,275,197,18,0,60,jul,2024
+          Oregon                        ,1276,828,44,21,383,jul,2024
+          Washington                    ,3081,1594,160,61,1266,jul,2024
+United States                 ,125656,83716,2622,1521,37797,jun,2024
+Northeast Region              ,11797,5731,396,238,5432,jun,2024
+     New England Division          ,3087,1815,146,67,1059,jun,2024
+          Connecticut                   ,328,171,10,17,130,jun,2024
+          Maine                         ,589,443,32,10,104,jun,2024
+          Massachusetts                 ,1475,718,66,27,664,jun,2024
+          New Hampshire                 ,407,278,14,10,105,jun,2024
+          Rhode Island                  ,92,80,12,0,0,jun,2024
+          Vermont                       ,196,125,12,3,56,jun,2024
+     Middle Atlantic Division      ,8710,3916,250,171,4373,jun,2024
+          New Jersey                    ,2865,1380,104,41,1340,jun,2024
+          New York                      ,3526,927,130,48,2421,jun,2024
+          Pennsylvania                  ,2319,1609,16,82,612,jun,2024
+Midwest Region                ,18107,11171,552,279,6105,jun,2024
+     East North Central Division   ,11093,6940,332,169,3652,jun,2024
+          Illinois                      ,1690,938,28,52,672,jun,2024
+          Indiana                       ,2412,1921,30,3,458,jun,2024
+          Michigan                      ,1759,1403,70,24,262,jun,2024
+          Ohio                          ,3277,1483,62,80,1652,jun,2024
+          Wisconsin                     ,1955,1195,142,10,608,jun,2024
+     West North Central Division   ,7014,4231,220,110,2453,jun,2024
+          Iowa                          ,1061,656,24,18,363,jun,2024
+          Kansas                        ,647,459,100,12,76,jun,2024
+          Minnesota                     ,1983,1182,32,3,766,jun,2024
+          Missouri                      ,1920,997,52,53,818,jun,2024
+          Nebraska                      ,542,442,4,4,92,jun,2024
+          North Dakota                  ,418,197,4,0,217,jun,2024
+          South Dakota                  ,443,298,4,20,121,jun,2024
+South Region                  ,67167,48294,980,702,17191,jun,2024
+     South Atlantic Division       ,39084,27129,290,395,11270,jun,2024
+          Delaware                      ,579,467,0,4,108,jun,2024
+          District of Columbia          ,88,23,6,0,59,jun,2024
+          Florida                       ,15739,10798,124,149,4668,jun,2024
+          Georgia                       ,5755,3789,54,106,1806,jun,2024
+          Maryland                      ,1371,966,0,0,405,jun,2024
+          North Carolina                ,8368,5528,72,28,2740,jun,2024
+          South Carolina                ,4189,3339,22,98,730,jun,2024
+          Virginia                      ,2677,1952,10,0,715,jun,2024
+          West Virginia                 ,318,267,2,10,39,jun,2024
+     East South Central Division   ,6555,5644,90,62,759,jun,2024
+          Alabama                       ,1503,1382,8,3,110,jun,2024
+          Kentucky                      ,1170,777,18,28,347,jun,2024
+          Mississippi                   ,664,625,8,3,28,jun,2024
+          Tennessee                     ,3218,2860,56,28,274,jun,2024
+     West South Central Division   ,21528,15521,600,245,5162,jun,2024
+          Arkansas                      ,1145,853,40,14,238,jun,2024
+          Louisiana                     ,1252,1019,48,4,181,jun,2024
+          Oklahoma                      ,1069,956,50,18,45,jun,2024
+          Texas                         ,18062,12693,462,209,4698,jun,2024
+West Region                   ,28585,18520,694,302,9069,jun,2024
+     Mountain Division             ,14679,10347,278,142,3912,jun,2024
+          Arizona                       ,5351,3367,148,0,1836,jun,2024
+          Colorado                      ,2532,1763,38,9,722,jun,2024
+          Idaho                         ,1414,1254,20,48,92,jun,2024
+          Montana                       ,534,402,8,26,98,jun,2024
+          Nevada                        ,1840,1244,16,15,565,jun,2024
+          New Mexico                    ,807,727,24,4,52,jun,2024
+          Utah                          ,2058,1462,16,33,547,jun,2024
+          Wyoming                       ,143,128,8,7,0,jun,2024
+     Pacific Division              ,13906,8173,416,160,5157,jun,2024
+          Alaska                        ,75,66,4,0,5,jun,2024
+          California                    ,9363,5651,260,73,3379,jun,2024
+          Hawaii                        ,324,230,12,0,82,jun,2024
+          Oregon                        ,1757,830,50,7,870,jun,2024
+          Washington                    ,2387,1396,90,80,821,jun,2024
+United States                 ,113534,76747,3282,1452,32053,sep,2024
+Northeast Region              ,10141,5138,516,291,4196,sep,2024
+     New England Division          ,2680,1533,126,67,954,sep,2024
+          Connecticut                   ,647,186,12,9,440,sep,2024
+          Maine                         ,491,428,30,6,27,sep,2024
+          Massachusetts                 ,731,449,36,19,227,sep,2024
+          New Hampshire                 ,563,274,24,20,245,sep,2024
+          Rhode Island                  ,98,78,14,6,0,sep,2024
+          Vermont                       ,150,118,10,7,15,sep,2024
+     Middle Atlantic Division      ,7461,3605,390,224,3242,sep,2024
+          New Jersey                    ,2588,1314,278,85,911,sep,2024
+          New York                      ,2871,929,90,72,1780,sep,2024
+          Pennsylvania                  ,2002,1362,22,67,551,sep,2024
+Midwest Region                ,18302,11609,694,384,5615,sep,2024
+     East North Central Division   ,10655,6927,330,229,3169,sep,2024
+          Illinois                      ,1906,931,58,62,855,sep,2024
+          Indiana                       ,2415,1782,32,46,555,sep,2024
+          Michigan                      ,1972,1443,60,58,411,sep,2024
+          Ohio                          ,2619,1587,44,60,928,sep,2024
+          Wisconsin                     ,1743,1184,136,3,420,sep,2024
+     West North Central Division   ,7647,4682,364,155,2446,sep,2024
+          Iowa                          ,1284,842,44,21,377,sep,2024
+          Kansas                        ,716,508,120,59,29,sep,2024
+          Minnesota                     ,2110,1155,46,30,879,sep,2024
+          Missouri                      ,1351,958,42,30,321,sep,2024
+          Nebraska                      ,1469,562,74,3,830,sep,2024
+          North Dakota                  ,232,208,24,0,0,sep,2024
+          South Dakota                  ,485,449,14,12,10,sep,2024
+South Region                  ,59145,42992,1396,488,14269,sep,2024
+     South Atlantic Division       ,32147,23394,398,194,8161,sep,2024
+          Delaware                      ,399,353,10,0,36,sep,2024
+          District of Columbia          ,122,17,8,0,97,sep,2024
+          Florida                       ,12380,9165,136,48,3031,sep,2024
+          Georgia                       ,5099,3268,86,72,1673,sep,2024
+          Maryland                      ,1294,645,2,0,647,sep,2024
+          North Carolina                ,6885,5078,56,9,1742,sep,2024
+          South Carolina                ,3586,2975,38,53,520,sep,2024
+          Virginia                      ,2022,1604,62,6,350,sep,2024
+          West Virginia                 ,360,289,0,6,65,sep,2024
+     East South Central Division   ,6935,5004,112,92,1727,sep,2024
+          Alabama                       ,1433,1344,12,6,71,sep,2024
+          Kentucky                      ,1084,714,70,49,251,sep,2024
+          Mississippi                   ,542,525,6,0,11,sep,2024
+          Tennessee                     ,3876,2421,24,37,1394,sep,2024
+     West South Central Division   ,20063,14594,886,202,4381,sep,2024
+          Arkansas                      ,1641,823,68,15,735,sep,2024
+          Louisiana                     ,1186,989,50,0,147,sep,2024
+          Oklahoma                      ,945,841,48,28,28,sep,2024
+          Texas                         ,16291,11941,720,159,3471,sep,2024
+West Region                   ,25946,17008,676,289,7973,sep,2024
+     Mountain Division             ,13645,9708,256,156,3525,sep,2024
+          Arizona                       ,4413,3547,166,32,668,sep,2024
+          Colorado                      ,2574,1390,8,23,1153,sep,2024
+          Idaho                         ,1636,1302,18,21,295,sep,2024
+          Montana                       ,352,282,18,10,42,sep,2024
+          Nevada                        ,1281,962,2,8,309,sep,2024
+          New Mexico                    ,862,704,24,14,120,sep,2024
+          Utah                          ,2372,1382,14,38,938,sep,2024
+          Wyoming                       ,155,139,6,10,0,sep,2024
+     Pacific Division              ,12301,7300,420,133,4448,sep,2024
+          Alaska                        ,62,49,4,0,9,sep,2024
+          California                    ,7798,4759,244,57,2738,sep,2024
+          Hawaii                        ,236,164,12,0,60,sep,2024
+          Oregon                        ,1168,771,48,3,346,sep,2024
+          Washington                    ,3037,1557,112,73,1295,sep,2024
+United States                 ,125057,84363,3164,1779,35751,oct,2024
+Northeast Region              ,11143,5798,348,185,4812,oct,2024
+     New England Division          ,2999,1565,124,42,1268,oct,2024
+          Connecticut                   ,564,184,16,9,355,oct,2024
+          Maine                         ,515,398,16,0,101,oct,2024
+          Massachusetts                 ,1289,527,54,14,694,oct,2024
+          New Hampshire                 ,334,270,16,7,41,oct,2024
+          Rhode Island                  ,144,82,16,6,40,oct,2024
+          Vermont                       ,153,104,6,6,37,oct,2024
+     Middle Atlantic Division      ,8144,4233,224,143,3544,oct,2024
+          New Jersey                    ,2982,1630,90,42,1220,oct,2024
+          New York                      ,3008,1016,92,55,1845,oct,2024
+          Pennsylvania                  ,2154,1587,42,46,479,oct,2024
+Midwest Region                ,20467,12562,720,406,6779,oct,2024
+     East North Central Division   ,12344,7615,386,164,4179,oct,2024
+          Illinois                      ,1933,1042,60,35,796,oct,2024
+          Indiana                       ,2866,2059,40,3,764,oct,2024
+          Michigan                      ,2423,1541,58,49,775,oct,2024
+          Ohio                          ,2661,1641,90,70,860,oct,2024
+          Wisconsin                     ,2461,1332,138,7,984,oct,2024
+     West North Central Division   ,8123,4947,334,242,2600,oct,2024
+          Iowa                          ,1210,845,48,41,276,oct,2024
+          Kansas                        ,821,578,146,33,64,oct,2024
+          Minnesota                     ,2081,1456,42,15,568,oct,2024
+          Missouri                      ,2229,1077,42,85,1025,oct,2024
+          Nebraska                      ,703,495,28,11,169,oct,2024
+          North Dakota                  ,325,183,12,47,83,oct,2024
+          South Dakota                  ,754,313,16,10,415,oct,2024
+South Region                  ,65598,47897,1400,728,15573,oct,2024
+     South Atlantic Division       ,34007,25872,406,280,7449,oct,2024
+          Delaware                      ,540,472,36,0,32,oct,2024
+          District of Columbia          ,465,5,0,0,460,oct,2024
+          Florida                       ,13302,9687,160,45,3410,oct,2024
+          Georgia                       ,4601,3778,40,148,635,oct,2024
+          Maryland                      ,1284,895,2,0,387,oct,2024
+          North Carolina                ,7146,5773,76,20,1277,oct,2024
+          South Carolina                ,3700,3119,46,61,474,oct,2024
+          Virginia                      ,2662,1874,46,3,739,oct,2024
+          West Virginia                 ,307,269,0,3,35,oct,2024
+     East South Central Division   ,7178,5606,130,126,1316,oct,2024
+          Alabama                       ,2106,1480,20,6,600,oct,2024
+          Kentucky                      ,1189,812,84,30,263,oct,2024
+          Mississippi                   ,722,700,6,0,16,oct,2024
+          Tennessee                     ,3161,2614,20,90,437,oct,2024
+     West South Central Division   ,24413,16419,864,322,6808,oct,2024
+          Arkansas                      ,1289,874,50,42,323,oct,2024
+          Louisiana                     ,1105,1012,38,4,51,oct,2024
+          Oklahoma                      ,1250,980,60,37,173,oct,2024
+          Texas                         ,20769,13553,716,239,6261,oct,2024
+West Region                   ,27849,18106,696,460,8587,oct,2024
+     Mountain Division             ,14344,10374,284,285,3401,oct,2024
+          Arizona                       ,4919,3667,162,31,1059,oct,2024
+          Colorado                      ,3001,1773,20,107,1101,oct,2024
+          Idaho                         ,1706,1372,18,10,306,oct,2024
+          Montana                       ,423,256,26,17,124,oct,2024
+          Nevada                        ,1131,936,10,30,155,oct,2024
+          New Mexico                    ,632,583,30,19,0,oct,2024
+          Utah                          ,2379,1646,14,63,656,oct,2024
+          Wyoming                       ,153,141,4,8,0,oct,2024
+     Pacific Division              ,13505,7732,412,175,5186,oct,2024
+          Alaska                        ,92,52,10,9,21,oct,2024
+          California                    ,8597,5007,232,80,3278,oct,2024
+          Hawaii                        ,320,236,14,0,70,oct,2024
+          Oregon                        ,989,791,56,13,129,oct,2024
+          Washington                    ,3507,1646,100,73,1688,oct,2024
+United States                 ,131857,86050,3350,1911,40546,aug,2024
+Northeast Region              ,12592,6002,342,413,5835,aug,2024
+     New England Division          ,3444,1976,128,127,1213,aug,2024
+          Connecticut                   ,463,229,8,12,214,aug,2024
+          Maine                         ,599,497,32,7,63,aug,2024
+          Massachusetts                 ,1561,757,36,16,752,aug,2024
+          New Hampshire                 ,546,295,22,62,167,aug,2024
+          Rhode Island                  ,94,66,20,3,5,aug,2024
+          Vermont                       ,181,132,10,27,12,aug,2024
+     Middle Atlantic Division      ,9148,4026,214,286,4622,aug,2024
+          New Jersey                    ,3645,1514,80,168,1883,aug,2024
+          New York                      ,3369,1023,106,83,2157,aug,2024
+          Pennsylvania                  ,2134,1489,28,35,582,aug,2024
+Midwest Region                ,19757,11564,854,378,6961,aug,2024
+     East North Central Division   ,11175,7076,396,178,3525,aug,2024
+          Illinois                      ,2217,964,40,56,1157,aug,2024
+          Indiana                       ,2647,2013,46,4,584,aug,2024
+          Michigan                      ,2109,1419,80,42,568,aug,2024
+          Ohio                          ,2308,1468,80,56,704,aug,2024
+          Wisconsin                     ,1894,1212,150,20,512,aug,2024
+     West North Central Division   ,8582,4488,458,200,3436,aug,2024
+          Iowa                          ,1142,640,38,13,451,aug,2024
+          Kansas                        ,1036,478,208,15,335,aug,2024
+          Minnesota                     ,2147,1330,42,39,736,aug,2024
+          Missouri                      ,2232,1041,96,91,1004,aug,2024
+          Nebraska                      ,749,487,40,7,215,aug,2024
+          North Dakota                  ,171,159,4,8,0,aug,2024
+          South Dakota                  ,1105,353,30,27,695,aug,2024
+South Region                  ,72567,50144,1352,775,20296,aug,2024
+     South Atlantic Division       ,40257,27950,608,384,11315,aug,2024
+          Delaware                      ,532,491,38,3,0,aug,2024
+          District of Columbia          ,54,9,4,0,41,aug,2024
+          Florida                       ,15666,10755,256,107,4548,aug,2024
+          Georgia                       ,5750,4183,72,151,1344,aug,2024
+          Maryland                      ,1444,775,0,0,669,aug,2024
+          North Carolina                ,9465,6117,110,75,3163,aug,2024
+          South Carolina                ,3767,3269,40,35,423,aug,2024
+          Virginia                      ,3166,2000,80,9,1077,aug,2024
+          West Virginia                 ,413,351,8,4,50,aug,2024
+     East South Central Division   ,8640,5771,102,109,2658,aug,2024
+          Alabama                       ,1759,1506,16,6,231,aug,2024
+          Kentucky                      ,1763,740,52,18,953,aug,2024
+          Mississippi                   ,653,625,10,0,18,aug,2024
+          Tennessee                     ,4465,2900,24,85,1456,aug,2024
+     West South Central Division   ,23670,16423,642,282,6323,aug,2024
+          Arkansas                      ,1188,797,140,24,227,aug,2024
+          Louisiana                     ,1250,1094,54,3,99,aug,2024
+          Oklahoma                      ,1127,982,62,18,65,aug,2024
+          Texas                         ,20105,13550,386,237,5932,aug,2024
+West Region                   ,26941,18340,802,345,7454,aug,2024
+     Mountain Division             ,13314,10016,352,149,2797,aug,2024
+          Arizona                       ,4919,3302,174,3,1440,aug,2024
+          Colorado                      ,2062,1539,32,35,456,aug,2024
+          Idaho                         ,1602,1359,48,13,182,aug,2024
+          Montana                       ,459,277,26,21,135,aug,2024
+          Nevada                        ,1494,1123,18,4,349,aug,2024
+          New Mexico                    ,739,709,30,0,0,aug,2024
+          Utah                          ,1877,1562,18,62,235,aug,2024
+          Wyoming                       ,162,145,6,11,0,aug,2024
+     Pacific Division              ,13627,8324,450,196,4657,aug,2024
+          Alaska                        ,64,55,6,3,0,aug,2024
+          California                    ,8905,5452,244,111,3098,aug,2024
+          Hawaii                        ,256,179,14,0,63,aug,2024
+          Oregon                        ,1154,922,16,0,216,aug,2024
+          Washington                    ,3248,1716,170,82,1280,aug,2024
+United States                 ,132413,94071,3476,1735,33131,may,2024
+Northeast Region              ,10910,5771,632,343,4164,may,2024
+     New England Division          ,2986,1758,176,87,965,may,2024
+          Connecticut                   ,406,200,10,25,171,may,2024
+          Maine                         ,661,500,24,19,118,may,2024
+          Massachusetts                 ,1064,548,58,25,433,may,2024
+          New Hampshire                 ,462,284,42,9,127,may,2024
+          Rhode Island                  ,97,76,18,3,0,may,2024
+          Vermont                       ,296,150,24,6,116,may,2024
+     Middle Atlantic Division      ,7924,4013,456,256,3199,may,2024
+          New Jersey                    ,2686,1316,296,78,996,may,2024
+          New York                      ,2771,1047,120,74,1530,may,2024
+          Pennsylvania                  ,2467,1650,40,104,673,may,2024
+Midwest Region                ,18250,11835,544,293,5578,may,2024
+     East North Central Division   ,11116,7136,322,172,3486,may,2024
+          Illinois                      ,1770,1061,18,54,637,may,2024
+          Indiana                       ,2069,1661,78,12,318,may,2024
+          Michigan                      ,2065,1542,28,30,465,may,2024
+          Ohio                          ,2845,1513,72,70,1190,may,2024
+          Wisconsin                     ,2367,1359,126,6,876,may,2024
+     West North Central Division   ,7134,4699,222,121,2092,may,2024
+          Iowa                          ,849,712,42,30,65,may,2024
+          Kansas                        ,857,505,68,0,284,may,2024
+          Minnesota                     ,2092,1420,40,9,623,may,2024
+          Missouri                      ,1362,1060,28,30,244,may,2024
+          Nebraska                      ,1230,464,20,37,709,may,2024
+          North Dakota                  ,196,190,6,0,0,may,2024
+          South Dakota                  ,548,348,18,15,167,may,2024
+South Region                  ,73229,55843,1348,693,15345,may,2024
+     South Atlantic Division       ,42105,31510,514,335,9746,may,2024
+          Delaware                      ,568,518,2,0,48,may,2024
+          District of Columbia          ,40,2,12,0,26,may,2024
+          Florida                       ,17110,12682,168,120,4140,may,2024
+          Georgia                       ,5976,4445,122,145,1264,may,2024
+          Maryland                      ,1615,862,2,0,751,may,2024
+          North Carolina                ,8525,6643,104,9,1769,may,2024
+          South Carolina                ,4521,3849,50,44,578,may,2024
+          Virginia                      ,3364,2175,54,4,1131,may,2024
+          West Virginia                 ,386,334,0,13,39,may,2024
+     East South Central Division   ,9203,6416,108,102,2577,may,2024
+          Alabama                       ,2260,1736,6,6,512,may,2024
+          Kentucky                      ,1265,816,58,24,367,may,2024
+          Mississippi                   ,697,671,6,3,17,may,2024
+          Tennessee                     ,4981,3193,38,69,1681,may,2024
+     West South Central Division   ,21921,17917,726,256,3022,may,2024
+          Arkansas                      ,1052,845,82,21,104,may,2024
+          Louisiana                     ,1286,1180,34,9,63,may,2024
+          Oklahoma                      ,1182,971,64,24,123,may,2024
+          Texas                         ,18401,14921,546,202,2732,may,2024
+West Region                   ,30024,20622,952,406,8044,may,2024
+     Mountain Division             ,14486,11563,434,216,2273,may,2024
+          Arizona                       ,4490,3861,250,17,362,may,2024
+          Colorado                      ,2904,1913,48,35,908,may,2024
+          Idaho                         ,1772,1509,40,42,181,may,2024
+          Montana                       ,389,236,36,19,98,may,2024
+          Nevada                        ,1881,1368,24,20,469,may,2024
+          New Mexico                    ,740,736,4,0,0,may,2024
+          Utah                          ,2081,1754,16,69,242,may,2024
+          Wyoming                       ,229,186,16,14,13,may,2024
+     Pacific Division              ,15538,9059,518,190,5771,may,2024
+          Alaska                        ,213,63,8,0,142,may,2024
+          California                    ,10442,6149,330,71,3892,may,2024
+          Hawaii                        ,303,226,16,0,61,may,2024
+          Oregon                        ,1304,921,44,41,298,may,2024
+          Washington                    ,3276,1700,120,78,1378,may,2024

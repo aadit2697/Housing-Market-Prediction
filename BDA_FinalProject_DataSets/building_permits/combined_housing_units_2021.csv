@@ -1,0 +1,781 @@
+Region,Total,1 Unit,2 Units,3 and 4 Units,5 Units or More,Month,Year
+United States                 ,153150,81348,3008,2186,66608,dec,2021
+Northeast Region              ,25440,5926,592,521,18401,dec,2021
+     New England Division          ,4415,1754,188,45,2428,dec,2021
+          Connecticut                   ,495,337,14,0,144,dec,2021
+          Maine                         ,622,425,80,3,114,dec,2021
+          Massachusetts                 ,2673,637,54,34,1948,dec,2021
+          New Hampshire                 ,249,214,12,0,23,dec,2021
+          Rhode Island                  ,137,92,24,8,13,dec,2021
+          Vermont                       ,239,49,4,0,186,dec,2021
+     Middle Atlantic Division      ,21025,4172,404,476,15973,dec,2021
+          New Jersey                    ,4530,1294,122,105,3009,dec,2021
+          New York                      ,3459,827,100,38,2494,dec,2021
+          Pennsylvania                  ,13036,2051,182,333,10470,dec,2021
+Midwest Region                ,18249,9646,438,391,7774,dec,2021
+     East North Central Division   ,10398,5685,206,144,4363,dec,2021
+          Illinois                      ,1080,739,46,54,241,dec,2021
+          Indiana                       ,3200,1678,22,4,1496,dec,2021
+          Michigan                      ,1596,1025,22,49,500,dec,2021
+          Ohio                          ,2276,1408,36,30,802,dec,2021
+          Wisconsin                     ,2246,835,80,7,1324,dec,2021
+     West North Central Division   ,7851,3961,232,247,3411,dec,2021
+          Iowa                          ,716,632,20,20,44,dec,2021
+          Kansas                        ,855,489,76,11,279,dec,2021
+          Minnesota                     ,2918,1018,56,47,1797,dec,2021
+          Missouri                      ,1898,1168,58,88,584,dec,2021
+          Nebraska                      ,743,411,4,50,278,dec,2021
+          North Dakota                  ,199,43,18,0,138,dec,2021
+          South Dakota                  ,522,200,0,31,291,dec,2021
+South Region                  ,71689,47701,1262,772,21954,dec,2021
+     South Atlantic Division       ,38701,26283,464,222,11732,dec,2021
+          Delaware                      ,564,528,4,0,32,dec,2021
+          District of Columbia          ,343,9,0,0,334,dec,2021
+          Florida                       ,17640,11256,244,115,6025,dec,2021
+          Georgia                       ,5456,3821,40,49,1546,dec,2021
+          Maryland                      ,1189,913,4,48,224,dec,2021
+          North Carolina                ,6479,4666,32,3,1778,dec,2021
+          South Carolina                ,3459,3075,64,0,320,dec,2021
+          Virginia                      ,3329,1783,66,7,1473,dec,2021
+          West Virginia                 ,242,232,10,0,0,dec,2021
+     East South Central Division   ,8202,5319,78,118,2687,dec,2021
+          Alabama                       ,1437,1340,12,18,67,dec,2021
+          Kentucky                      ,1376,766,26,10,574,dec,2021
+          Mississippi                   ,613,583,0,10,20,dec,2021
+          Tennessee                     ,4776,2630,40,80,2026,dec,2021
+     West South Central Division   ,24786,16099,720,432,7535,dec,2021
+          Arkansas                      ,1307,768,212,211,116,dec,2021
+          Louisiana                     ,1407,1303,38,7,59,dec,2021
+          Oklahoma                      ,1181,1040,28,0,113,dec,2021
+          Texas                         ,20891,12988,442,214,7247,dec,2021
+West Region                   ,37772,18075,716,502,18479,dec,2021
+     Mountain Division             ,19526,10589,354,270,8313,dec,2021
+          Arizona                       ,5858,3405,116,65,2272,dec,2021
+          Colorado                      ,5694,2428,160,32,3074,dec,2021
+          Idaho                         ,1467,1038,18,30,381,dec,2021
+          Montana                       ,524,150,32,13,329,dec,2021
+          Nevada                        ,1784,1397,16,47,324,dec,2021
+          New Mexico                    ,759,392,0,0,367,dec,2021
+          Utah                          ,3290,1654,10,67,1559,dec,2021
+          Wyoming                       ,150,125,2,16,7,dec,2021
+     Pacific Division              ,18246,7486,362,232,10166,dec,2021
+          Alaska                        ,106,70,2,4,30,dec,2021
+          California                    ,10973,4669,182,136,5986,dec,2021
+          Hawaii                        ,276,219,4,17,36,dec,2021
+          Oregon                        ,1601,753,50,4,794,dec,2021
+          Washington                    ,5290,1775,124,71,3320,dec,2021
+United States                 ,120099,81063,2252,1139,35645,feb,2021
+Northeast Region              ,10772,4768,326,164,5514,feb,2021
+New England Division          ,2066,1294,56,24,692,feb,2021
+Connecticut                   ,276,183,2,0,91,feb,2021
+Maine                         ,275,239,20,11,5,feb,2021
+Massachusetts                 ,1062,534,16,9,503,feb,2021
+New Hampshire                 ,260,209,2,0,49,feb,2021
+Rhode Island                  ,96,80,12,4,0,feb,2021
+Vermont                       ,97,49,4,0,44,feb,2021
+Middle Atlantic Division      ,8706,3474,270,140,4822,feb,2021
+New Jersey                    ,2159,1011,84,10,1054,feb,2021
+New York                      ,2956,595,64,24,2273,feb,2021
+Pennsylvania                  ,3591,1868,122,106,1495,feb,2021
+Midwest Region                ,13350,9103,198,103,3946,feb,2021
+East North Central Division   ,7691,5429,112,73,2077,feb,2021
+Illinois                      ,1011,675,6,34,296,feb,2021
+Indiana                       ,1579,1449,28,8,94,feb,2021
+Michigan                      ,1559,1169,8,6,376,feb,2021
+Ohio                          ,2271,1397,20,21,833,feb,2021
+Wisconsin                     ,1271,739,50,4,478,feb,2021
+West North Central Division   ,5659,3674,86,30,1869,feb,2021
+Iowa                          ,773,592,6,11,164,feb,2021
+Kansas                        ,846,385,38,7,416,feb,2021
+Minnesota                     ,2030,1027,6,4,993,feb,2021
+Missouri                      ,1121,874,18,8,221,feb,2021
+Nebraska                      ,575,500,0,0,75,feb,2021
+North Dakota                  ,69,55,14,0,0,feb,2021
+South Dakota                  ,245,241,4,0,0,feb,2021
+South Region                  ,64943,46918,1218,472,16335,feb,2021
+South Atlantic Division       ,35653,26260,552,242,8599,feb,2021
+Delaware                      ,778,686,38,0,54,feb,2021
+District of Columbia          ,749,40,0,4,705,feb,2021
+Florida                       ,12866,9669,368,110,2719,feb,2021
+Georgia                       ,4683,4408,74,39,162,feb,2021
+Maryland                      ,1790,1137,2,7,644,feb,2021
+North Carolina                ,7814,5093,8,61,2652,feb,2021
+South Carolina                ,3588,3132,10,10,436,feb,2021
+Virginia                      ,2789,1868,48,11,862,feb,2021
+West Virginia                 ,596,227,4,0,365,feb,2021
+East South Central Division   ,7610,5105,54,54,2397,feb,2021
+Alabama                       ,1879,1340,12,11,516,feb,2021
+Kentucky                      ,1654,698,28,4,924,feb,2021
+Mississippi                   ,547,481,4,11,51,feb,2021
+Tennessee                     ,3530,2586,10,28,906,feb,2021
+West South Central Division   ,21680,15553,612,176,5339,feb,2021
+Arkansas                      ,963,670,194,18,81,feb,2021
+Louisiana                     ,1411,1324,36,6,45,feb,2021
+Oklahoma                      ,1122,984,54,0,84,feb,2021
+Texas                         ,18184,12575,328,152,5129,feb,2021
+West Region                   ,31034,20274,510,400,9850,feb,2021
+Mountain Division             ,16626,11607,232,228,4559,feb,2021
+Arizona                       ,5484,4099,66,4,1315,feb,2021
+Colorado                      ,3625,2538,44,7,1036,feb,2021
+Idaho                         ,1438,1068,16,105,249,feb,2021
+Montana                       ,222,140,36,11,35,feb,2021
+Nevada                        ,2129,1345,4,40,740,feb,2021
+New Mexico                    ,715,419,0,4,292,feb,2021
+Utah                          ,2867,1858,64,53,892,feb,2021
+Wyoming                       ,146,140,2,4,0,feb,2021
+Pacific Division              ,14408,8667,278,172,5291,feb,2021
+Alaska                        ,115,95,4,3,13,feb,2021
+California                    ,7897,5215,172,89,2421,feb,2021
+Hawaii                        ,293,186,0,3,104,feb,2021
+Oregon                        ,1474,933,20,3,518,feb,2021
+Washington                    ,4629,2238,82,74,2235,feb,2021
+United States                 ,157568,110833,3280,1914,41541,mar,2021
+Northeast Region              ,12961,6484,424,240,5813,mar,2021
+New England Division          ,3335,2065,104,33,1133,mar,2021
+Connecticut                   ,564,335,4,0,225,mar,2021
+Maine                         ,499,472,14,3,10,mar,2021
+Massachusetts                 ,1488,630,62,16,780,mar,2021
+New Hampshire                 ,456,404,4,4,44,mar,2021
+Rhode Island                  ,131,102,12,6,11,mar,2021
+Vermont                       ,197,122,8,4,63,mar,2021
+Middle Atlantic Division      ,9626,4419,320,207,4680,mar,2021
+New Jersey                    ,2916,1307,134,41,1434,mar,2021
+New York                      ,2759,1101,128,54,1476,mar,2021
+Pennsylvania                  ,3951,2011,58,112,1770,mar,2021
+Midwest Region                ,21042,15034,416,239,5353,mar,2021
+East North Central Division   ,10992,8556,280,120,2036,mar,2021
+Illinois                      ,1625,1032,34,37,522,mar,2021
+Indiana                       ,2421,2216,50,24,131,mar,2021
+Michigan                      ,2364,1830,60,17,457,mar,2021
+Ohio                          ,2494,2174,36,39,245,mar,2021
+Wisconsin                     ,2088,1304,100,3,681,mar,2021
+West North Central Division   ,10050,6478,136,119,3317,mar,2021
+Iowa                          ,1830,1252,46,12,520,mar,2021
+Kansas                        ,764,610,50,14,90,mar,2021
+Minnesota                     ,3167,1859,10,42,1256,mar,2021
+Missouri                      ,2347,1486,10,24,827,mar,2021
+Nebraska                      ,897,593,6,3,295,mar,2021
+North Dakota                  ,299,255,6,0,38,mar,2021
+South Dakota                  ,746,423,8,24,291,mar,2021
+South Region                  ,84756,63311,1640,719,19086,mar,2021
+South Atlantic Division       ,44529,33952,578,328,9671,mar,2021
+Delaware                      ,838,784,32,0,22,mar,2021
+District of Columbia          ,589,31,0,0,558,mar,2021
+Florida                       ,17512,12762,330,205,4215,mar,2021
+Georgia                       ,6099,5522,28,47,502,mar,2021
+Maryland                      ,1601,1393,4,36,168,mar,2021
+North Carolina                ,8638,6436,56,18,2128,mar,2021
+South Carolina                ,4444,4133,26,3,282,mar,2021
+Virginia                      ,4361,2521,80,19,1741,mar,2021
+West Virginia                 ,447,370,22,0,55,mar,2021
+East South Central Division   ,11127,7810,72,144,3101,mar,2021
+Alabama                       ,2021,1794,16,61,150,mar,2021
+Kentucky                      ,1700,1140,38,14,508,mar,2021
+Mississippi                   ,880,818,4,7,51,mar,2021
+Tennessee                     ,6526,4058,14,62,2392,mar,2021
+West South Central Division   ,29100,21549,990,247,6314,mar,2021
+Arkansas                      ,1886,1117,110,109,550,mar,2021
+Louisiana                     ,1988,1858,70,7,53,mar,2021
+Oklahoma                      ,1577,1411,70,11,85,mar,2021
+Texas                         ,23649,17163,740,120,5626,mar,2021
+West Region                   ,38809,26004,800,716,11289,mar,2021
+Mountain Division             ,19417,15046,322,453,3596,mar,2021
+Arizona                       ,5173,4668,112,24,369,mar,2021
+Colorado                      ,4823,3567,86,101,1069,mar,2021
+Idaho                         ,2052,1540,10,148,354,mar,2021
+Montana                       ,652,381,48,68,155,mar,2021
+Nevada                        ,2184,1407,30,66,681,mar,2021
+New Mexico                    ,660,604,0,0,56,mar,2021
+Utah                          ,3686,2715,32,39,900,mar,2021
+Wyoming                       ,187,164,4,7,12,mar,2021
+Pacific Division              ,19392,10958,478,263,7693,mar,2021
+Alaska                        ,145,122,2,6,15,mar,2021
+California                    ,11644,6574,214,120,4736,mar,2021
+Hawaii                        ,254,218,36,0,0,mar,2021
+Oregon                        ,2452,1281,42,15,1114,mar,2021
+Washington                    ,4897,2763,184,122,1828,mar,2021
+United States                 ,157894,107831,2668,1724,45671,apr,2021
+Northeast Region              ,13629,6806,296,192,6335,apr,2021
+New England Division          ,4353,2251,100,53,1949,apr,2021
+Connecticut                   ,690,399,14,4,273,apr,2021
+Maine                         ,651,584,14,3,50,apr,2021
+Massachusetts                 ,2179,678,40,26,1435,apr,2021
+New Hampshire                 ,419,306,2,17,94,apr,2021
+Rhode Island                  ,152,131,4,3,14,apr,2021
+Vermont                       ,262,153,26,0,83,apr,2021
+Middle Atlantic Division      ,9276,4555,196,139,4386,apr,2021
+New Jersey                    ,3535,1370,90,26,2049,apr,2021
+New York                      ,3008,1129,70,65,1744,apr,2021
+Pennsylvania                  ,2733,2056,36,48,593,apr,2021
+Midwest Region                ,22401,15866,572,602,5361,apr,2021
+East North Central Division   ,12438,8984,264,263,2927,apr,2021
+Illinois                      ,1967,1218,46,76,627,apr,2021
+Indiana                       ,2640,2310,34,10,286,apr,2021
+Michigan                      ,2211,1758,26,90,337,apr,2021
+Ohio                          ,2921,2113,18,83,707,apr,2021
+Wisconsin                     ,2699,1585,140,4,970,apr,2021
+West North Central Division   ,9963,6882,308,339,2434,apr,2021
+Iowa                          ,1903,1137,32,18,716,apr,2021
+Kansas                        ,889,715,68,6,100,apr,2021
+Minnesota                     ,2868,1947,60,138,723,apr,2021
+Missouri                      ,2167,1522,88,139,418,apr,2021
+Nebraska                      ,988,815,8,8,157,apr,2021
+North Dakota                  ,337,260,32,0,45,apr,2021
+South Dakota                  ,811,486,20,30,275,apr,2021
+South Region                  ,83023,60068,1120,460,21375,apr,2021
+South Atlantic Division       ,44705,32128,530,251,11796,apr,2021
+Delaware                      ,861,692,16,3,150,apr,2021
+District of Columbia          ,159,41,2,0,116,apr,2021
+Florida                       ,19625,12749,274,74,6528,apr,2021
+Georgia                       ,5912,4934,32,65,881,apr,2021
+Maryland                      ,1378,1159,84,31,104,apr,2021
+North Carolina                ,8029,5911,54,54,2010,apr,2021
+South Carolina                ,4352,4051,26,3,272,apr,2021
+Virginia                      ,4116,2333,32,21,1730,apr,2021
+West Virginia                 ,273,258,10,0,5,apr,2021
+East South Central Division   ,8984,6775,168,59,1982,apr,2021
+Alabama                       ,1652,1618,10,3,21,apr,2021
+Kentucky                      ,1258,1087,18,13,140,apr,2021
+Mississippi                   ,776,724,12,4,36,apr,2021
+Tennessee                     ,5298,3346,128,39,1785,apr,2021
+West South Central Division   ,29334,21165,422,150,7597,apr,2021
+Arkansas                      ,1298,1109,10,19,160,apr,2021
+Louisiana                     ,2481,2019,34,6,422,apr,2021
+Oklahoma                      ,1428,1332,22,32,42,apr,2021
+Texas                         ,24127,16705,356,93,6973,apr,2021
+West Region                   ,38841,25091,680,470,12600,apr,2021
+Mountain Division             ,21478,14838,208,191,6241,apr,2021
+Arizona                       ,6384,4702,78,36,1568,apr,2021
+Colorado                      ,5514,3157,42,24,2291,apr,2021
+Idaho                         ,1704,1529,12,33,130,apr,2021
+Montana                       ,474,330,54,15,75,apr,2021
+Nevada                        ,2156,1357,10,35,754,apr,2021
+New Mexico                    ,724,627,0,20,77,apr,2021
+Utah                          ,4266,2891,10,25,1340,apr,2021
+Wyoming                       ,256,245,2,3,6,apr,2021
+Pacific Division              ,17363,10253,472,279,6359,apr,2021
+Alaska                        ,166,128,4,4,30,apr,2021
+California                    ,10560,6413,202,132,3813,apr,2021
+Hawaii                        ,290,200,0,9,81,apr,2021
+Oregon                        ,2070,1174,36,21,839,apr,2021
+Washington                    ,4277,2338,230,113,1596,apr,2021
+United States                 ,131802,80385,2308,1584,47525,nov,2021
+Northeast Region              ,12464,4957,396,294,6817,nov,2021
+     New England Division          ,2494,1531,138,51,774,nov,2021
+          Connecticut                   ,445,311,30,0,104,nov,2021
+          Maine                         ,448,340,12,3,93,nov,2021
+          Massachusetts                 ,1047,500,64,37,446,nov,2021
+          New Hampshire                 ,288,208,8,8,64,nov,2021
+          Rhode Island                  ,131,98,20,3,10,nov,2021
+          Vermont                       ,135,74,4,0,57,nov,2021
+     Middle Atlantic Division      ,9970,3426,258,243,6043,nov,2021
+          New Jersey                    ,3278,1144,118,64,1952,nov,2021
+          New York                      ,4462,750,74,108,3530,nov,2021
+          Pennsylvania                  ,2230,1532,66,71,561,nov,2021
+Midwest Region                ,17387,10637,502,356,5892,nov,2021
+     East North Central Division   ,9648,6029,294,116,3209,nov,2021
+          Illinois                      ,1460,852,46,52,510,nov,2021
+          Indiana                       ,2232,1610,12,0,610,nov,2021
+          Michigan                      ,1771,1167,16,33,555,nov,2021
+          Ohio                          ,2486,1457,42,31,956,nov,2021
+          Wisconsin                     ,1699,943,178,0,578,nov,2021
+     West North Central Division   ,7739,4608,208,240,2683,nov,2021
+          Iowa                          ,1244,803,48,12,381,nov,2021
+          Kansas                        ,793,489,48,3,253,nov,2021
+          Minnesota                     ,2724,1433,8,23,1260,nov,2021
+          Missouri                      ,1666,1109,22,66,469,nov,2021
+          Nebraska                      ,547,364,36,33,114,nov,2021
+          North Dakota                  ,253,139,18,96,0,nov,2021
+          South Dakota                  ,512,271,28,7,206,nov,2021
+South Region                  ,67333,46563,680,346,19744,nov,2021
+     South Atlantic Division       ,37677,25457,370,126,11724,nov,2021
+          Delaware                      ,702,517,22,0,163,nov,2021
+          District of Columbia          ,498,7,0,0,491,nov,2021
+          Florida                       ,14873,10626,216,76,3955,nov,2021
+          Georgia                       ,5164,3610,66,38,1450,nov,2021
+          Maryland                      ,1071,773,0,0,298,nov,2021
+          North Carolina                ,7709,5009,8,0,2692,nov,2021
+          South Carolina                ,4018,2977,36,0,1005,nov,2021
+          Virginia                      ,3373,1721,16,12,1624,nov,2021
+          West Virginia                 ,269,217,6,0,46,nov,2021
+     East South Central Division   ,8140,5711,34,44,2351,nov,2021
+          Alabama                       ,1433,1279,6,9,139,nov,2021
+          Kentucky                      ,1298,809,12,17,460,nov,2021
+          Mississippi                   ,602,577,2,6,17,nov,2021
+          Tennessee                     ,4807,3046,14,12,1735,nov,2021
+     West South Central Division   ,21516,15395,276,176,5669,nov,2021
+          Arkansas                      ,1092,758,22,40,272,nov,2021
+          Louisiana                     ,1346,1269,22,3,52,nov,2021
+          Oklahoma                      ,1074,1019,38,3,14,nov,2021
+          Texas                         ,18004,12349,194,130,5331,nov,2021
+West Region                   ,34618,18228,730,588,15072,nov,2021
+     Mountain Division             ,18574,10566,374,280,7354,nov,2021
+          Arizona                       ,5418,3314,188,27,1889,nov,2021
+          Colorado                      ,4990,2409,76,44,2461,nov,2021
+          Idaho                         ,1400,1063,4,32,301,nov,2021
+          Montana                       ,801,193,22,45,541,nov,2021
+          Nevada                        ,2266,1291,54,42,879,nov,2021
+          New Mexico                    ,468,369,2,0,97,nov,2021
+          Utah                          ,3043,1776,20,75,1172,nov,2021
+          Wyoming                       ,188,151,8,15,14,nov,2021
+     Pacific Division              ,16044,7662,356,308,7718,nov,2021
+          Alaska                        ,114,75,10,4,25,nov,2021
+          California                    ,8721,4890,228,169,3434,nov,2021
+          Hawaii                        ,456,250,6,0,200,nov,2021
+          Oregon                        ,1629,754,26,11,838,nov,2021
+          Washington                    ,5124,1693,86,124,3221,nov,2021
+United States                 ,128837,83921,2050,1581,41285,jan,2021
+Northeast Region              ,13449,4978,352,237,7882,jan,2021
+New England Division          ,2356,1259,86,28,983,jan,2021
+Connecticut                   ,241,195,2,0,44,jan,2021
+Maine                         ,458,285,32,4,137,jan,2021
+Massachusetts                 ,1246,464,32,21,729,jan,2021
+New Hampshire                 ,216,184,6,0,26,jan,2021
+Rhode Island                  ,103,79,8,3,13,jan,2021
+Vermont                       ,92,52,6,0,34,jan,2021
+Middle Atlantic Division      ,11093,3719,266,209,6899,jan,2021
+New Jersey                    ,3309,1227,96,52,1934,jan,2021
+New York                      ,3951,773,92,22,3064,jan,2021
+Pennsylvania                  ,3833,1719,78,135,1901,jan,2021
+Midwest Region                ,12577,8299,264,262,3752,jan,2021
+East North Central Division   ,6874,5118,154,219,1383,jan,2021
+Illinois                      ,983,615,38,46,284,jan,2021
+Indiana                       ,1584,1398,34,11,141,jan,2021
+Michigan                      ,1640,1076,14,120,430,jan,2021
+Ohio                          ,1573,1303,24,42,204,jan,2021
+Wisconsin                     ,1094,726,44,0,324,jan,2021
+West North Central Division   ,5703,3181,110,43,2369,jan,2021
+Iowa                          ,494,471,10,3,10,jan,2021
+Kansas                        ,495,378,60,13,44,jan,2021
+Minnesota                     ,2335,928,2,3,1402,jan,2021
+Missouri                      ,1102,772,24,4,302,jan,2021
+Nebraska                      ,478,382,2,20,74,jan,2021
+North Dakota                  ,204,48,4,0,152,jan,2021
+South Dakota                  ,595,202,8,0,385,jan,2021
+South Region                  ,70404,51296,864,483,17761,jan,2021
+South Atlantic Division       ,36594,27652,308,203,8431,jan,2021
+Delaware                      ,677,610,56,0,11,jan,2021
+District of Columbia          ,313,9,4,0,300,jan,2021
+Florida                       ,15788,11074,172,102,4440,jan,2021
+Georgia                       ,5331,4205,6,34,1086,jan,2021
+Maryland                      ,1320,1144,14,8,154,jan,2021
+North Carolina                ,6069,4967,26,11,1065,jan,2021
+South Carolina                ,3610,3330,12,3,265,jan,2021
+Virginia                      ,3294,2132,12,45,1105,jan,2021
+West Virginia                 ,192,181,6,0,5,jan,2021
+East South Central Division   ,7554,5979,44,97,1434,jan,2021
+Alabama                       ,1941,1594,6,18,323,jan,2021
+Kentucky                      ,1085,768,10,19,288,jan,2021
+Mississippi                   ,710,659,2,3,46,jan,2021
+Tennessee                     ,3818,2958,26,57,777,jan,2021
+West South Central Division   ,26256,17665,512,183,7896,jan,2021
+Arkansas                      ,1230,959,20,30,221,jan,2021
+Louisiana                     ,1496,1397,44,6,49,jan,2021
+Oklahoma                      ,1270,1144,72,19,35,jan,2021
+Texas                         ,22260,14165,376,128,7591,jan,2021
+West Region                   ,32407,19348,570,599,11890,jan,2021
+Mountain Division             ,16951,11389,190,338,5034,jan,2021
+Arizona                       ,5096,3587,64,31,1414,jan,2021
+Colorado                      ,4807,2657,48,16,2086,jan,2021
+Idaho                         ,1369,1132,26,74,137,jan,2021
+Montana                       ,241,144,22,17,58,jan,2021
+Nevada                        ,2029,1340,16,111,562,jan,2021
+New Mexico                    ,414,365,2,3,44,jan,2021
+Utah                          ,2811,2050,10,44,707,jan,2021
+Wyoming                       ,184,114,2,42,26,jan,2021
+Pacific Division              ,15456,7959,380,261,6856,jan,2021
+Alaska                        ,111,87,4,4,16,jan,2021
+California                    ,9729,4760,188,137,4644,jan,2021
+Hawaii                        ,339,208,2,3,126,jan,2021
+Oregon                        ,1072,868,14,19,171,jan,2021
+Washington                    ,4205,2036,172,98,1899,jan,2021
+United States                 ,139154,91885,2718,1886,42665,jul,2021
+Northeast Region              ,11387,5229,512,208,5438,jul,2021
+     New England Division          ,3070,1558,238,53,1221,jul,2021
+          Connecticut                   ,294,214,6,0,74,jul,2021
+          Maine                         ,764,439,134,33,158,jul,2021
+          Massachusetts                 ,1341,484,48,17,792,jul,2021
+          New Hampshire                 ,426,258,26,0,142,jul,2021
+          Rhode Island                  ,104,78,18,0,8,jul,2021
+          Vermont                       ,141,85,6,3,47,jul,2021
+     Middle Atlantic Division      ,8317,3671,274,155,4217,jul,2021
+          New Jersey                    ,2740,1034,134,53,1519,jul,2021
+          New York                      ,3007,787,60,34,2126,jul,2021
+          Pennsylvania                  ,2570,1850,80,68,572,jul,2021
+Midwest Region                ,18732,11677,572,376,6107,jul,2021
+     East North Central Division   ,11181,6816,336,183,3846,jul,2021
+          Illinois                      ,2224,913,46,57,1208,jul,2021
+          Indiana                       ,2544,1755,92,11,686,jul,2021
+          Michigan                      ,1658,1276,10,21,351,jul,2021
+          Ohio                          ,2376,1869,38,55,414,jul,2021
+          Wisconsin                     ,2379,1003,150,39,1187,jul,2021
+     West North Central Division   ,7551,4861,236,193,2261,jul,2021
+          Iowa                          ,1116,745,34,18,319,jul,2021
+          Kansas                        ,724,563,38,10,113,jul,2021
+          Minnesota                     ,2706,1573,56,18,1059,jul,2021
+          Missouri                      ,1389,958,64,98,269,jul,2021
+          Nebraska                      ,614,406,16,4,188,jul,2021
+          North Dakota                  ,385,245,20,0,120,jul,2021
+          South Dakota                  ,617,371,8,45,193,jul,2021
+South Region                  ,72719,53917,1086,610,17106,jul,2021
+     South Atlantic Division       ,40026,30305,562,181,8978,jul,2021
+          Delaware                      ,890,661,6,0,223,jul,2021
+          District of Columbia          ,279,9,2,0,268,jul,2021
+          Florida                       ,17750,13042,382,68,4258,jul,2021
+          Georgia                       ,4709,3954,88,85,582,jul,2021
+          Maryland                      ,1228,911,20,4,293,jul,2021
+          North Carolina                ,7676,5440,6,7,2223,jul,2021
+          South Carolina                ,4276,4008,4,6,258,jul,2021
+          Virginia                      ,2973,2037,52,11,873,jul,2021
+          West Virginia                 ,245,243,2,0,0,jul,2021
+     East South Central Division   ,7926,5752,42,156,1976,jul,2021
+          Alabama                       ,1830,1434,4,18,374,jul,2021
+          Kentucky                      ,1044,804,18,40,182,jul,2021
+          Mississippi                   ,595,575,2,4,14,jul,2021
+          Tennessee                     ,4457,2939,18,94,1406,jul,2021
+     West South Central Division   ,24767,17860,482,273,6152,jul,2021
+          Arkansas                      ,1242,1041,62,56,83,jul,2021
+          Louisiana                     ,1541,1450,38,7,46,jul,2021
+          Oklahoma                      ,1222,1134,46,3,39,jul,2021
+          Texas                         ,20762,14235,336,207,5984,jul,2021
+West Region                   ,36316,21062,548,692,14014,jul,2021
+     Mountain Division             ,19426,12035,266,383,6742,jul,2021
+          Arizona                       ,5935,3920,136,0,1879,jul,2021
+          Colorado                      ,4749,2962,58,74,1655,jul,2021
+          Idaho                         ,1522,1216,24,111,171,jul,2021
+          Montana                       ,580,274,10,13,283,jul,2021
+          Nevada                        ,1795,1094,8,138,555,jul,2021
+          New Mexico                    ,759,419,0,0,340,jul,2021
+          Utah                          ,3839,1917,22,47,1853,jul,2021
+          Wyoming                       ,247,233,8,0,6,jul,2021
+     Pacific Division              ,16890,9027,282,309,7272,jul,2021
+          Alaska                        ,146,105,2,16,23,jul,2021
+          California                    ,9714,5487,154,161,3912,jul,2021
+          Hawaii                        ,332,241,0,0,91,jul,2021
+          Oregon                        ,2132,1044,40,36,1012,jul,2021
+          Washington                    ,4566,2150,86,96,2234,jul,2021
+United States                 ,154500,105122,2770,1895,44713,jun,2021
+Northeast Region              ,13543,6443,346,275,6479,jun,2021
+New England Division          ,3449,2120,102,114,1113,jun,2021
+Connecticut                   ,363,280,14,6,63,jun,2021
+Maine                         ,803,614,22,11,156,jun,2021
+Massachusetts                 ,1445,603,40,15,787,jun,2021
+New Hampshire                 ,468,371,8,24,65,jun,2021
+Rhode Island                  ,182,97,14,55,16,jun,2021
+Vermont                       ,188,155,4,3,26,jun,2021
+Middle Atlantic Division      ,10094,4323,244,161,5366,jun,2021
+New Jersey                    ,2935,1238,128,56,1513,jun,2021
+New York                      ,4505,1165,66,43,3231,jun,2021
+Pennsylvania                  ,2654,1920,50,62,622,jun,2021
+Midwest Region                ,20359,13594,542,292,5931,jun,2021
+East North Central Division   ,12139,8171,400,206,3362,jun,2021
+Illinois                      ,1981,1037,38,100,806,jun,2021
+Indiana                       ,2957,2151,86,20,700,jun,2021
+Michigan                      ,2272,1604,14,48,606,jun,2021
+Ohio                          ,2753,1973,134,38,608,jun,2021
+Wisconsin                     ,2176,1406,128,0,642,jun,2021
+West North Central Division   ,8220,5423,142,86,2569,jun,2021
+Iowa                          ,1359,946,24,4,385,jun,2021
+Kansas                        ,639,553,42,4,40,jun,2021
+Minnesota                     ,3341,1745,12,14,1570,jun,2021
+Missouri                      ,1208,993,20,15,180,jun,2021
+Nebraska                      ,780,592,4,3,181,jun,2021
+North Dakota                  ,289,198,34,0,57,jun,2021
+South Dakota                  ,604,396,6,46,156,jun,2021
+South Region                  ,83339,61186,1218,569,20366,jun,2021
+South Atlantic Division       ,45925,34563,714,222,10426,jun,2021
+Delaware                      ,690,659,26,0,5,jun,2021
+District of Columbia          ,110,8,6,0,96,jun,2021
+Florida                       ,19447,14372,422,117,4536,jun,2021
+Georgia                       ,5956,5037,68,13,838,jun,2021
+Maryland                      ,1809,1100,18,3,688,jun,2021
+North Carolina                ,8339,6056,54,52,2177,jun,2021
+South Carolina                ,5588,4417,64,15,1092,jun,2021
+Virginia                      ,3558,2589,48,22,899,jun,2021
+West Virginia                 ,428,325,8,0,95,jun,2021
+East South Central Division   ,9113,6350,34,254,2475,jun,2021
+Alabama                       ,1679,1586,6,20,67,jun,2021
+Kentucky                      ,1116,885,12,84,135,jun,2021
+Mississippi                   ,665,637,4,4,20,jun,2021
+Tennessee                     ,5653,3242,12,146,2253,jun,2021
+West South Central Division   ,28301,20273,470,93,7465,jun,2021
+Arkansas                      ,1060,899,42,25,94,jun,2021
+Louisiana                     ,2224,2111,54,6,53,jun,2021
+Oklahoma                      ,1338,1257,24,0,57,jun,2021
+Texas                         ,23679,16006,350,62,7261,jun,2021
+West Region                   ,37259,23899,664,759,11937,jun,2021
+Mountain Division             ,20624,14194,320,444,5666,jun,2021
+Arizona                       ,5996,4359,88,25,1524,jun,2021
+Colorado                      ,4955,3333,110,156,1356,jun,2021
+Idaho                         ,1916,1425,8,86,397,jun,2021
+Montana                       ,914,321,22,18,553,jun,2021
+Nevada                        ,1770,1436,70,60,204,jun,2021
+New Mexico                    ,721,516,0,0,205,jun,2021
+Utah                          ,4069,2602,20,96,1351,jun,2021
+Wyoming                       ,283,202,2,3,76,jun,2021
+Pacific Division              ,16635,9705,344,315,6271,jun,2021
+Alaska                        ,157,116,2,10,29,jun,2021
+California                    ,10796,6191,180,89,4336,jun,2021
+Hawaii                        ,238,200,26,4,8,jun,2021
+Oregon                        ,1555,966,44,8,537,jun,2021
+Washington                    ,3889,2232,92,204,1361,jun,2021
+United States                 ,134584,87428,2632,1546,42978,sep,2021
+Northeast Region              ,10382,5102,274,144,4862,sep,2021
+     New England Division          ,3294,1586,56,21,1631,sep,2021
+          Connecticut                   ,380,202,14,0,164,sep,2021
+          Maine                         ,485,411,8,3,63,sep,2021
+          Massachusetts                 ,1828,532,26,18,1252,sep,2021
+          New Hampshire                 ,342,263,0,0,79,sep,2021
+          Rhode Island                  ,87,78,4,0,5,sep,2021
+          Vermont                       ,172,100,4,0,68,sep,2021
+     Middle Atlantic Division      ,7088,3516,218,123,3231,sep,2021
+          New Jersey                    ,2483,1109,128,51,1195,sep,2021
+          New York                      ,2653,1047,54,34,1518,sep,2021
+          Pennsylvania                  ,1952,1360,36,38,518,sep,2021
+Midwest Region                ,20781,12080,808,313,7580,sep,2021
+     East North Central Division   ,10758,6946,482,193,3137,sep,2021
+          Illinois                      ,1642,996,28,111,507,sep,2021
+          Indiana                       ,2578,1755,120,35,668,sep,2021
+          Michigan                      ,1988,1396,192,16,384,sep,2021
+          Ohio                          ,2480,1634,10,23,813,sep,2021
+          Wisconsin                     ,2070,1165,132,8,765,sep,2021
+     West North Central Division   ,10023,5134,326,120,4443,sep,2021
+          Iowa                          ,1319,899,126,38,256,sep,2021
+          Kansas                        ,819,572,62,0,185,sep,2021
+          Minnesota                     ,3515,1482,32,23,1978,sep,2021
+          Missouri                      ,2105,1101,40,41,923,sep,2021
+          Nebraska                      ,1266,478,16,0,772,sep,2021
+          North Dakota                  ,229,184,40,0,5,sep,2021
+          South Dakota                  ,770,418,10,18,324,sep,2021
+South Region                  ,70903,50320,832,430,19321,sep,2021
+     South Atlantic Division       ,40900,28120,304,107,12369,sep,2021
+          Delaware                      ,601,567,10,0,24,sep,2021
+          District of Columbia          ,314,60,0,0,254,sep,2021
+          Florida                       ,17123,12162,188,37,4736,sep,2021
+          Georgia                       ,5813,3922,22,17,1852,sep,2021
+          Maryland                      ,1789,906,2,17,864,sep,2021
+          North Carolina                ,7802,4892,22,22,2866,sep,2021
+          South Carolina                ,4102,3491,12,6,593,sep,2021
+          Virginia                      ,3078,1847,48,8,1175,sep,2021
+          West Virginia                 ,278,273,0,0,5,sep,2021
+     East South Central Division   ,7754,5819,84,164,1687,sep,2021
+          Alabama                       ,1886,1476,4,11,395,sep,2021
+          Kentucky                      ,1217,821,8,16,372,sep,2021
+          Mississippi                   ,741,673,0,49,19,sep,2021
+          Tennessee                     ,3910,2849,72,88,901,sep,2021
+     West South Central Division   ,22249,16381,444,159,5265,sep,2021
+          Arkansas                      ,1590,798,22,14,756,sep,2021
+          Louisiana                     ,1403,1322,26,3,52,sep,2021
+          Oklahoma                      ,1253,1075,78,9,91,sep,2021
+          Texas                         ,18003,13186,318,133,4366,sep,2021
+West Region                   ,32518,19926,718,659,11215,sep,2021
+     Mountain Division             ,17882,11698,346,272,5566,sep,2021
+          Arizona                       ,4306,3261,80,3,962,sep,2021
+          Colorado                      ,5444,2810,132,21,2481,sep,2021
+          Idaho                         ,1683,1144,10,84,445,sep,2021
+          Montana                       ,505,258,20,11,216,sep,2021
+          Nevada                        ,1666,1297,26,60,283,sep,2021
+          New Mexico                    ,668,466,2,0,200,sep,2021
+          Utah                          ,3423,2298,74,83,968,sep,2021
+          Wyoming                       ,187,164,2,10,11,sep,2021
+     Pacific Division              ,14636,8228,372,387,5649,sep,2021
+          Alaska                        ,132,88,2,24,18,sep,2021
+          California                    ,8736,5072,184,155,3325,sep,2021
+          Hawaii                        ,558,132,4,0,422,sep,2021
+          Oregon                        ,1509,969,36,11,493,sep,2021
+          Washington                    ,3701,1967,146,197,1391,sep,2021
+United States                 ,136353,85652,2776,1857,46068,oct,2021
+Northeast Region              ,10501,5462,362,188,4489,oct,2021
+     New England Division          ,2450,1623,126,38,663,oct,2021
+          Connecticut                   ,336,214,24,4,94,oct,2021
+          Maine                         ,499,468,14,7,10,oct,2021
+          Massachusetts                 ,1021,455,56,17,493,oct,2021
+          New Hampshire                 ,282,231,12,0,39,oct,2021
+          Rhode Island                  ,114,85,14,10,5,oct,2021
+          Vermont                       ,198,170,6,0,22,oct,2021
+     Middle Atlantic Division      ,8051,3839,236,150,3826,oct,2021
+          New Jersey                    ,3013,1269,110,38,1596,oct,2021
+          New York                      ,3122,1201,50,54,1817,oct,2021
+          Pennsylvania                  ,1916,1369,76,58,413,oct,2021
+Midwest Region                ,22615,11946,814,625,9230,oct,2021
+     East North Central Division   ,11926,6531,606,182,4607,oct,2021
+          Illinois                      ,2655,827,132,70,1626,oct,2021
+          Indiana                       ,2207,1764,86,0,357,oct,2021
+          Michigan                      ,1582,1132,16,37,397,oct,2021
+          Ohio                          ,2812,1619,40,64,1089,oct,2021
+          Wisconsin                     ,2670,1189,332,11,1138,oct,2021
+     West North Central Division   ,10689,5415,208,443,4623,oct,2021
+          Iowa                          ,1557,969,34,31,523,oct,2021
+          Kansas                        ,578,534,32,4,8,oct,2021
+          Minnesota                     ,4310,1554,70,26,2660,oct,2021
+          Missouri                      ,2081,1259,26,368,428,oct,2021
+          Nebraska                      ,1265,527,14,0,724,oct,2021
+          North Dakota                  ,192,163,24,0,5,oct,2021
+          South Dakota                  ,706,409,8,14,275,oct,2021
+South Region                  ,68451,49710,830,374,17537,oct,2021
+     South Atlantic Division       ,38518,27151,394,71,10902,oct,2021
+          Delaware                      ,607,582,20,0,5,oct,2021
+          District of Columbia          ,623,32,0,0,591,oct,2021
+          Florida                       ,16212,11310,194,49,4659,oct,2021
+          Georgia                       ,4865,3879,32,16,938,oct,2021
+          Maryland                      ,1224,928,12,0,284,oct,2021
+          North Carolina                ,8006,4858,16,3,3129,oct,2021
+          South Carolina                ,4275,3501,80,3,691,oct,2021
+          Virginia                      ,2451,1808,38,0,605,oct,2021
+          West Virginia                 ,255,253,2,0,0,oct,2021
+     East South Central Division   ,8032,5820,46,104,2062,oct,2021
+          Alabama                       ,1510,1374,6,11,119,oct,2021
+          Kentucky                      ,1100,809,20,36,235,oct,2021
+          Mississippi                   ,700,677,4,3,16,oct,2021
+          Tennessee                     ,4722,2960,16,54,1692,oct,2021
+     West South Central Division   ,21901,16739,390,199,4573,oct,2021
+          Arkansas                      ,1247,1043,82,33,89,oct,2021
+          Louisiana                     ,1460,1381,26,6,47,oct,2021
+          Oklahoma                      ,1130,1081,24,7,18,oct,2021
+          Texas                         ,18064,13234,258,153,4419,oct,2021
+West Region                   ,34786,18534,770,670,14812,oct,2021
+     Mountain Division             ,16850,10422,450,338,5640,oct,2021
+          Arizona                       ,4986,3282,208,44,1452,oct,2021
+          Colorado                      ,4721,2485,142,6,2088,oct,2021
+          Idaho                         ,1656,1051,44,89,472,oct,2021
+          Montana                       ,600,228,14,35,323,oct,2021
+          Nevada                        ,1770,1200,6,71,493,oct,2021
+          New Mexico                    ,527,377,2,0,148,oct,2021
+          Utah                          ,2395,1683,14,56,642,oct,2021
+          Wyoming                       ,195,116,20,37,22,oct,2021
+     Pacific Division              ,17936,8112,320,332,9172,oct,2021
+          Alaska                        ,125,79,4,13,29,oct,2021
+          California                    ,10997,5096,210,195,5496,oct,2021
+          Hawaii                        ,267,165,0,0,102,oct,2021
+          Oregon                        ,1560,859,20,31,650,oct,2021
+          Washington                    ,4987,1913,86,93,2895,oct,2021
+United States                 ,154559,93484,2106,1762,57207,aug,2021
+Northeast Region              ,13282,6070,274,319,6619,aug,2021
+     New England Division          ,2862,1917,90,47,808,aug,2021
+          Connecticut                   ,299,221,4,0,74,aug,2021
+          Maine                         ,653,583,12,3,55,aug,2021
+          Massachusetts                 ,1173,536,42,26,569,aug,2021
+          New Hampshire                 ,425,360,4,11,50,aug,2021
+          Rhode Island                  ,141,85,24,7,25,aug,2021
+          Vermont                       ,171,132,4,0,35,aug,2021
+     Middle Atlantic Division      ,10420,4153,184,272,5811,aug,2021
+          New Jersey                    ,3039,1322,62,124,1531,aug,2021
+          New York                      ,4764,1095,60,57,3552,aug,2021
+          Pennsylvania                  ,2617,1736,62,91,728,aug,2021
+Midwest Region                ,21232,11992,436,278,8526,aug,2021
+     East North Central Division   ,11864,6862,278,124,4600,aug,2021
+          Illinois                      ,1793,1197,38,54,504,aug,2021
+          Indiana                       ,2317,1642,86,15,574,aug,2021
+          Michigan                      ,1771,1321,30,17,403,aug,2021
+          Ohio                          ,3526,1632,26,19,1849,aug,2021
+          Wisconsin                     ,2457,1070,98,19,1270,aug,2021
+     West North Central Division   ,9368,5130,158,154,3926,aug,2021
+          Iowa                          ,1023,884,38,6,95,aug,2021
+          Kansas                        ,808,492,22,4,290,aug,2021
+          Minnesota                     ,3715,1614,16,15,2070,aug,2021
+          Missouri                      ,2101,1062,10,88,941,aug,2021
+          Nebraska                      ,638,515,8,4,111,aug,2021
+          North Dakota                  ,286,229,52,0,5,aug,2021
+          South Dakota                  ,797,334,12,37,414,aug,2021
+South Region                  ,81979,53269,746,471,27493,aug,2021
+     South Atlantic Division       ,46411,29529,376,255,16251,aug,2021
+          Delaware                      ,627,595,20,0,12,aug,2021
+          District of Columbia          ,360,43,0,0,317,aug,2021
+          Florida                       ,22629,12876,226,139,9388,aug,2021
+          Georgia                       ,5569,4043,18,50,1458,aug,2021
+          Maryland                      ,1606,967,12,4,623,aug,2021
+          North Carolina                ,8399,5645,40,49,2665,aug,2021
+          South Carolina                ,3629,3176,4,6,443,aug,2021
+          Virginia                      ,3265,1867,46,7,1345,aug,2021
+          West Virginia                 ,327,317,10,0,0,aug,2021
+     East South Central Division   ,8276,6159,58,27,2032,aug,2021
+          Alabama                       ,1547,1380,18,10,139,aug,2021
+          Kentucky                      ,1118,903,20,6,189,aug,2021
+          Mississippi                   ,654,626,2,3,23,aug,2021
+          Tennessee                     ,4957,3250,18,8,1681,aug,2021
+     West South Central Division   ,27292,17581,312,189,9210,aug,2021
+          Arkansas                      ,1092,938,16,17,121,aug,2021
+          Louisiana                     ,1519,1413,22,6,78,aug,2021
+          Oklahoma                      ,1377,1313,30,0,34,aug,2021
+          Texas                         ,23304,13917,244,166,8977,aug,2021
+West Region                   ,38066,22153,650,694,14569,aug,2021
+     Mountain Division             ,19778,12968,334,245,6231,aug,2021
+          Arizona                       ,4939,3702,120,46,1071,aug,2021
+          Colorado                      ,5793,3099,60,79,2555,aug,2021
+          Idaho                         ,1614,1206,26,42,340,aug,2021
+          Montana                       ,511,302,44,10,155,aug,2021
+          Nevada                        ,2182,1627,18,20,517,aug,2021
+          New Mexico                    ,595,481,52,0,62,aug,2021
+          Utah                          ,3867,2396,10,37,1424,aug,2021
+          Wyoming                       ,277,155,4,11,107,aug,2021
+     Pacific Division              ,18288,9185,316,449,8338,aug,2021
+          Alaska                        ,145,103,4,4,34,aug,2021
+          California                    ,9869,5628,160,156,3925,aug,2021
+          Hawaii                        ,203,189,2,0,12,aug,2021
+          Oregon                        ,1722,1107,38,38,539,aug,2021
+          Washington                    ,6349,2158,112,251,3828,aug,2021
+United States                 ,142251,99122,2816,1795,38518,may,2021
+Northeast Region              ,13143,6132,376,253,6382,may,2021
+New England Division          ,3805,2223,86,42,1454,may,2021
+Connecticut                   ,329,275,4,0,50,may,2021
+Maine                         ,745,601,30,6,108,may,2021
+Massachusetts                 ,1840,645,24,29,1142,may,2021
+New Hampshire                 ,571,434,4,0,133,may,2021
+Rhode Island                  ,120,96,12,7,5,may,2021
+Vermont                       ,200,172,12,0,16,may,2021
+Middle Atlantic Division      ,9338,3909,290,211,4928,may,2021
+New Jersey                    ,3108,1215,108,58,1727,may,2021
+New York                      ,3573,1092,112,71,2298,may,2021
+Pennsylvania                  ,2657,1602,70,82,903,may,2021
+Midwest Region                ,20380,13106,452,228,6594,may,2021
+East North Central Division   ,11044,7530,246,152,3116,may,2021
+Illinois                      ,1460,944,32,43,441,may,2021
+Indiana                       ,2357,2102,34,12,209,may,2021
+Michigan                      ,1979,1506,20,26,427,may,2021
+Ohio                          ,2932,1775,62,68,1027,may,2021
+Wisconsin                     ,2316,1203,98,3,1012,may,2021
+West North Central Division   ,9336,5576,206,76,3478,may,2021
+Iowa                          ,944,868,12,8,56,may,2021
+Kansas                        ,745,575,82,4,84,may,2021
+Minnesota                     ,3823,1858,76,15,1874,may,2021
+Missouri                      ,1592,1045,28,18,501,may,2021
+Nebraska                      ,1074,582,2,20,470,may,2021
+North Dakota                  ,496,243,2,0,251,may,2021
+South Dakota                  ,662,405,4,11,242,may,2021
+South Region                  ,74883,57964,1324,477,15118,may,2021
+South Atlantic Division       ,40025,30841,672,208,8304,may,2021
+Delaware                      ,944,632,54,0,258,may,2021
+District of Columbia          ,403,87,10,3,303,may,2021
+Florida                       ,17754,12702,414,76,4562,may,2021
+Georgia                       ,5334,4614,86,20,614,may,2021
+Maryland                      ,1356,976,20,11,349,may,2021
+North Carolina                ,6860,5635,32,40,1153,may,2021
+South Carolina                ,3928,3534,30,3,361,may,2021
+Virginia                      ,3125,2357,22,55,691,may,2021
+West Virginia                 ,321,304,4,0,13,may,2021
+East South Central Division   ,9422,7043,118,100,2161,may,2021
+Alabama                       ,1747,1659,20,16,52,may,2021
+Kentucky                      ,1323,932,34,7,350,may,2021
+Mississippi                   ,968,696,22,56,194,may,2021
+Tennessee                     ,5384,3756,42,21,1565,may,2021
+West South Central Division   ,25436,20080,534,169,4653,may,2021
+Arkansas                      ,907,776,22,47,62,may,2021
+Louisiana                     ,1614,1455,38,11,110,may,2021
+Oklahoma                      ,1232,1162,24,3,43,may,2021
+Texas                         ,21683,16687,450,108,4438,may,2021
+West Region                   ,33845,21920,664,837,10424,may,2021
+Mountain Division             ,17617,12621,332,582,4082,may,2021
+Arizona                       ,5349,3830,80,27,1412,may,2021
+Colorado                      ,4380,2795,122,48,1415,may,2021
+Idaho                         ,1489,1236,26,153,74,may,2021
+Montana                       ,395,307,14,24,50,may,2021
+Nevada                        ,1712,1341,70,62,239,may,2021
+New Mexico                    ,569,514,0,3,52,may,2021
+Utah                          ,3538,2423,18,262,835,may,2021
+Wyoming                       ,185,175,2,3,5,may,2021
+Pacific Division              ,16228,9299,332,255,6342,may,2021
+Alaska                        ,138,107,2,7,22,may,2021
+California                    ,9922,5975,176,135,3636,may,2021
+Hawaii                        ,226,192,2,0,32,may,2021
+Oregon                        ,1819,1009,10,15,785,may,2021
+Washington                    ,4123,2016,142,98,1867,may,2021
